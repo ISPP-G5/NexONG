@@ -34,20 +34,14 @@
    </td>
   </tr>
   <tr>
-   <td><strong>1.0.0</strong>
-   </td>
-   <td><strong>2/2/2024</strong>
-   </td>
-   <td><strong>Primera versión</strong>
-   </td>
+   <td>1.0.0</td>
+   <td>2/2/2024</td>
+   <td>Primera versión</td>
   </tr>
   <tr>
-   <td><strong>2.0.0</strong>
-   </td>
-   <td><strong>15/2/2024</strong>
-   </td>
-   <td><strong>Añadido el registro de usos</strong>
-   </td>
+   <td>2.0.0</td>
+   <td>15/2/2024</td>
+   <td>Añadido el registro de usos</td>
   </tr>
 </table>
 
