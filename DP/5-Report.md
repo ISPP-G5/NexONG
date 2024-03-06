@@ -117,74 +117,61 @@ Las siguientes contribuciones son las específicas al grupo 5:
 
 Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 
- \
-**Análisis de competidores**
-
-
+ 
+### Análisis de competidores
 
 1. Evitar usar los primeros competidores que se encuentren, analizarlos bien.
 
- \
-**Análisis de costes**
-
-
+ 
+### Análisis de costes
 
 1. Separar en el análisis de costes el TCO (coste total de propiedad) del proyecto del coste de mantenimiento.
 2. No se debe expresar los costes (TCO) de manera anual, los costes de los servicios se deben poner de forma mensual
 
- \
-**Análisis de riesgo**
-
-
+ 
+### Análisis de riesgo
 
 1. Se tiene que ser cuidadoso en los riesgos y no se deben de asumir como un hecho.
 2. Matizar los riesgos y no ponerlos de forma general.
 3. Se deberá hacer un seguimiento de los riesgos a lo largo del proyecto. Establecer consecuencias al incumplir el agreement.
 
-**Inicio efectivo**
 
-
+### Inicio efectivo
 
 1. El inicio efectivo debería tener relación con el proyecto.
 
-**Modelos de negocio**
 
-
+### Modelos de negocio
 
 1. Hay que buscar el elemento diferenciador de tu aplicación.
 
-**Normas de conducta**
 
-
+### Normas de conducta
 
 1. No usar lenguaje informal.
 
-**Presentación**
 
-
+### Presentación
 
 1. Evitar sobrecargar las diapositivas.
 2. No mezclar idiomas.
 3. Marcar las diapositivas que sean respuesta de seguir el feedback anterior.
 4. Dejar los mockups para el final de la presentación.
 
-**Presentadores**
 
-
+### Presentadores
 
 1. La forma de comunicar la presentación debe tener un ritmo agradable. Hay que evitar hablar muy rápido o muy lento.
 2. Evitar hablar en voz baja o usar alguna herramienta para hacerte oír.
 
-**Proyecto en general**
 
-
+### Proyecto en general
 
 1. Evitar usar la palabra castigo, cambiarla por otras palabras como penalizar.
 2. Es mejor recompensar en lugar de castigar en el agreement.
 
 
 # **3. Acciones llevadas a cabo**
-
 
 
 * Hemos estudiado las alternativas tecnológicas, hemos comprobado si podemos usar software de las ONGs y hemos tomado la decisión sobre las tecnologías a usar de forma fundamentada. 
@@ -194,5 +181,3 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 * Hemos explicado los riesgos de manera más extensa.
 * Hemos expresado el valor del porcentaje de contingencia de manera correcta.
 Tras la prueba, les pediremos que completen una pequeña encuesta donde podremos comprobar las fortalezas y flaquezas de nuestro código, además de apuntar cualquier requisito nuevo sugerido por nuestro cliente. Gracias a esta información, en el siguiente sprint podremos corregir errores y continuar con el producto para obtener el resultado idóneo.
-
-La información obtenida en cada una de las encuestas será recogida en un documento de lecciones aprendidas.
