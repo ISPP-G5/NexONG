@@ -31,27 +31,19 @@
    </td>
   </tr>
   <tr>
-   <td><strong>1.0.0</strong>
-   </td>
-   <td><strong>1/2/2024</strong>
-   </td>
-   <td><strong>Primera versión del documento de usuarios pilotos</strong>
-   </td>
+   <td>1.0.0</td>
+   <td>1/2/2024</td>
+   <td>Primera versión del documento de usuarios pilotos</td>
   </tr>
   <tr>
-   <td><strong>1.1.0</strong>
-   </td>
-   <td><strong>8/2/2024</strong>
-   </td>
-   <td><strong>Nuevo apartado añadido: Pruebas y <em>feedback</em></strong>
-   </td>
+   <td>1.1.0</td>
+   <td>8/2/2024</td>
+   <td>Nuevo apartado añadido: Pruebas y <em>feedback</em></td>
   </tr>
   <tr>
-   <td><strong>1.2.0</strong>
-   </td>
-   <td><strong>15/2/2024</strong>
-   </td>
-   <td><strong>Modificación de usuarios pilotos debido a la eliminación de dos ONGs</strong>
+   <td>1.2.0</td>
+   <td>15/2/2024</td>
+   <td>Modificación de usuarios pilotos debido a la eliminación de dos ONGs
    </td>
   </tr>
 </table>
