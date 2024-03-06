@@ -34,20 +34,14 @@
    </td>
   </tr>
   <tr>
-   <td><strong>1.0.0</strong>
-   </td>
-   <td><strong>16/2/2024</strong>
-   </td>
-   <td><strong>Primera versión.</strong>
-   </td>
+   <td>1.0.0</td>
+   <td>16/2/2024</td>
+   <td>Primera versión.</td>
   </tr>
   <tr>
-   <td><strong>1.1.0</strong>
-   </td>
-   <td><strong>17/2/2024</strong>
-   </td>
-   <td><strong>Terminado el documento.</strong>
-   </td>
+   <td>1.1.0</td>
+   <td>17/2/2024</td>
+   <td>Terminado el documento.</td>
   </tr>
 </table>
 
