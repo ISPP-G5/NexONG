@@ -14,12 +14,10 @@
 
 ## Índice
 
-1. Índice
-2. Registro de cambios
-3. Usuarios pilotos potenciales
+1. Usuarios pilotos potenciales
    1. Asociación Manos Abiertas con Norte
    2. Alumnos de ISPP del grupo de tarde
-4. Pruebas y feedback	
+2. Pruebas y feedback	
 
 ## Registro de cambios
 
@@ -66,7 +64,7 @@
 <br/>
 
 
-# Usuarios pilotos potenciales
+# 1. Usuarios pilotos potenciales
 
 Nuestro proyecto se basa en ayudar a una ONG,  por lo que el usuario piloto principal es ella misma. Además, contamos con un grupo de estudiantes de la Universidad de Sevilla que también consumirá nuestro trabajo. A continuación, describimos información sobre cada usuario:
 
@@ -82,7 +80,7 @@ Nuestro proyecto se basa en ayudar a una ONG,  por lo que el usuario piloto prin
     Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Software y Práctica Profesional del grupo de tarde 
 
 
-# Pruebas y _feedback_
+# 2. Pruebas y _feedback_
 
 Ya identificados los usuarios pilotos, pasamos a los escenarios de prueba. En una primera instancia, se mostrará a la ONG el _mockup_ creado durante la parte de planificación para comprobar que la página web cumplirá con todos los requisitos proporcionados por dicha ONG. 
 
