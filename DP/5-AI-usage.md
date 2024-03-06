@@ -102,53 +102,49 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 	
 
-**-Consulta sobre sistemas de backend**
+- **Consulta sobre sistemas de backend**
+
+<br/>
+
+<img src="images/prompt1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre la estructura del documento de aspecto metodológico de desarrollo**
+
+<br/>
+
+<img src="images/prompt2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
 
 
+- **Consulta sobre política de ramas de Github**
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<br/>
 
+<img src="images/prompt3.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
-![alt_text](images/image1.png "image_tooltip")
-
-
-**-Consulta sobre la estructura del documento de aspecto metodológico de desarrollo**
-
+<br/>
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- **Consulta sobre medidas de rendimiento**
+
+<br/>
+
+<img src="images/prompt4_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="images/prompt4_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
 
 
-![alt_text](images/image2.png "image_tooltip")
+- **Consulta sobre la estructura de este documento**
 
+<br/>
 
-**-Consulta sobre política de ramas de Github**
+<img src="images/prompt5.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-**-Consulta sobre medidas de rendimiento**
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-**-Consulta sobre la estructura de este documento**
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+<br/>
 
 
 # 6. Conclusión.
