@@ -58,20 +58,9 @@
    </td>
   </tr>
   <tr>
-   <td><strong>1.0.0</strong>
-   </td>
-   <td><strong>3/2/2024</strong>
-   </td>
-   <td><strong>Primera versión</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td>1.0.0</td>
+   <td>3/2/2024</td>
+   <td>Primera versión</td>
   </tr>
 </table>
 
