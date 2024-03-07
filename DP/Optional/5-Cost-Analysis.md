@@ -67,44 +67,29 @@
    </td>
   </tr>
   <tr>
-   <td><strong>1.0.0</strong>
-   </td>
-   <td><strong>1/2/2024</strong>
-   </td>
-   <td><strong>Completado la primera versión del análisis del coste preliminar del proyecto.</strong>
-   </td>
+   <td>1.0.0</td>
+   <td>1/2/2024</td>
+   <td>Completado la primera versión del análisis del coste preliminar del proyecto.</td>
   </tr>
   <tr>
-   <td><strong>1.0.1</strong>
-   </td>
-   <td><strong>02/02/24</strong>
-   </td>
-   <td><strong>Añadido desglose por semana a los costes derivados del desarrollo, nuevas licencias y presupuesto de contingencia.</strong>
-   </td>
+   <td>1.0.1</td>
+   <td>02/02/24</td>
+   <td>Añadido desglose por semana a los costes derivados del desarrollo, nuevas licencias y presupuesto de contingencia.</td>
   </tr>
   <tr>
-   <td><strong>1.0.2</strong>
-   </td>
-   <td><strong>04/02/24</strong>
-   </td>
-   <td><strong>Se han desglosado los costes en función de las distintas fases del desarrollo del proyecto. Se ha calculado la amortización de los equipos informáticos. Se ha realizado el análisis de los TCO.</strong>
-   </td>
+   <td>1.0.2</td>
+   <td>04/02/24</td>
+   <td>Se han desglosado los costes en función de las distintas fases del desarrollo del proyecto. Se ha calculado la amortización de los equipos informáticos. Se ha realizado el análisis de los TCO.</td>
   </tr>
   <tr>
-   <td><strong>1.0.3</strong>
-   </td>
-   <td><strong>13/02/24</strong>
-   </td>
-   <td><strong>Añadidos costes de márketing.</strong>
-   </td>
+   <td>1.0.3</td>
+   <td>13/02/24</td>
+   <td>Añadidos costes de márketing.</td>
   </tr>
   <tr>
-   <td><strong>1.0.4</strong>
-   </td>
-   <td><strong>14/02/24</strong>
-   </td>
-   <td><strong>Añadida más información al documento y el ROI</strong>
-   </td>
+   <td>1.0.4</td>
+   <td>14/02/24</td>
+   <td>Añadida más información al documento y el ROI</td>
   </tr>
 </table>
 
