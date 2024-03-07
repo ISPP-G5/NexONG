@@ -1489,7 +1489,7 @@ Por último, se ha analizado y tenido en cuenta para el TCO, los costes de marke
 
 ## 4. ROI
 
-![ROI](./images/roi.jpg)
+<img src="images/roi.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 
 
