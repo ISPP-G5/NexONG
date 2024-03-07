@@ -1,20 +1,46 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individual Performance Evaluation - Devising a Project
 
-**_<span style="text-decoration:underline;">MIEMBROS</span>_**:
 
-|                                       |                                       |                                       |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-| AURORA NAVAS JIMÉNEZ                  | MARÍA NÚÑEZ REYES                     | CLAUDIA GILABERT PRIETO               |
-| MARTA INÉS GONZÁLEZ DIÁNEZ            | FÉLIX ÁNGEL GUDIEL GÜEMES             | MIGUEL ANGEL ROMALDE DORADO          |
-| FRANCISCO DE ASÍS ROSSO RAMÍREZ       | PABLO PERIÁÑEZ CABRERO                | FRANCISCO JAVIER CALDERÓN RODRÍGUEZ  |
-| PEDRO LOPEZ RUZ                       | IVÁN RAMÍREZ LARA                     | SAMUEL LUIS RODRÍGUEZ MANESS         |
-| MANUEL ORTIZ BLANCO                   | SERGIO AGUAYO OROZCO                  | JUAN LUIS RUANO MURIEDAS             |
-| MANUEL FRANCISCO BARCIA JIMENEZ       |
+***MIEMBROS***:
 
-## Agreed Individual Performance Evaluation G5 Date: February 19, 2024
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<br/>
+
+# Agreed Individual Performance Evaluation G5 Date: February 19, 2024
 
 Version: 1.0 
-
 
 <table>
   <tr>
@@ -404,8 +430,9 @@ Version: 1.0
   </tr>
 </table>
 
+<br/>
 
-## Individual Contribution Summary 
+# Individual Contribution Summary 
 ### Devising a Project (#DP) 
 
 
@@ -504,171 +531,3 @@ Version: 1.0
 - Methodological aspect of development and doc contribution to the class common knowledge base Meeting Minutes 
 - Management of the entire part of the Common Knowledge Database
 
-### Sprint 1 (#S1) 
-**NAVAS JIMENEZ, AURORA**
-
-**GILABERT PRIETO, CLAUDIA**
-
-**GUDIEL GÜEMES, FÉLIX ÁNGEL**
-
-**ROSSO RAMÍREZ, FRANCISCO DE ASÍS**
-
-**CALDERÓN RODRÍGUEZ, FRANCISCO JAVIER**
-
-**RAMÍREZ LARA, IVÁN** 
-
-**RUANO MURIEDAS, JUAN LUIS**
-
-**BARCIA JIMENEZ, MANUEL FRANCISCO**
-
-**ORTIZ BLANCO, MANUEL** 
-
-**NÚÑEZ REYES, MARÍA** 
-
-**GONZÁLEZ DIÁNEZ, MARTA INÉS**
-
-**ROMALDE DORADO, MIGUEL ANGEL** 
-
-**PERIÁÑEZ CABRERO, PABLO** 
-
-**LOPEZ RUZ, PEDRO** 
-
-**RODRÍGUEZ MANESS, SAMUEL LUIS**
-
-**AGUAYO OROZCO, SERGIO**
-
-
-### Sprint 2 (#S2) 
-**NAVAS JIMENEZ, AURORA**
-
-**GILABERT PRIETO, CLAUDIA**
-
-**GUDIEL GÜEMES, FÉLIX ÁNGEL**
-
-**ROSSO RAMÍREZ, FRANCISCO DE ASÍS**
-
-**CALDERÓN RODRÍGUEZ, FRANCISCO JAVIER**
-
-**RAMÍREZ LARA, IVÁN** 
-
-**RUANO MURIEDAS, JUAN LUIS**
-
-**BARCIA JIMENEZ, MANUEL FRANCISCO**
-
-**ORTIZ BLANCO, MANUEL** 
-
-**NÚÑEZ REYES, MARÍA** 
-
-**GONZÁLEZ DIÁNEZ, MARTA INÉS**
-
-**ROMALDE DORADO, MIGUEL ANGEL** 
-
-**PERIÁÑEZ CABRERO, PABLO** 
-
-**LOPEZ RUZ, PEDRO** 
-
-**RODRÍGUEZ MANESS, SAMUEL LUIS**
-
-**AGUAYO OROZCO, SERGIO**
-
-
-### Sprint 3 (#S3) 
-**NAVAS JIMENEZ, AURORA**
-
-**GILABERT PRIETO, CLAUDIA**
-
-**GUDIEL GÜEMES, FÉLIX ÁNGEL**
-
-**ROSSO RAMÍREZ, FRANCISCO DE ASÍS**
-
-**CALDERÓN RODRÍGUEZ, FRANCISCO JAVIER**
-
-**RAMÍREZ LARA, IVÁN** 
-
-**RUANO MURIEDAS, JUAN LUIS**
-
-**BARCIA JIMENEZ, MANUEL FRANCISCO**
-
-**ORTIZ BLANCO, MANUEL** 
-
-**NÚÑEZ REYES, MARÍA** 
-
-**GONZÁLEZ DIÁNEZ, MARTA INÉS**
-
-**ROMALDE DORADO, MIGUEL ANGEL** 
-
-**PERIÁÑEZ CABRERO, PABLO** 
-
-**LOPEZ RUZ, PEDRO** 
-
-**RODRÍGUEZ MANESS, SAMUEL LUIS**
-
-**AGUAYO OROZCO, SERGIO**
-
-
-### Preparing Project Launch (#PPL) 
-
-**NAVAS JIMENEZ, AURORA**
-
-**GILABERT PRIETO, CLAUDIA**
-
-**GUDIEL GÜEMES, FÉLIX ÁNGEL**
-
-**ROSSO RAMÍREZ, FRANCISCO DE ASÍS**
-
-**CALDERÓN RODRÍGUEZ, FRANCISCO JAVIER**
-
-**RAMÍREZ LARA, IVÁN** 
-
-**RUANO MURIEDAS, JUAN LUIS**
-
-**BARCIA JIMENEZ, MANUEL FRANCISCO**
-
-**ORTIZ BLANCO, MANUEL** 
-
-**NÚÑEZ REYES, MARÍA** 
-
-**GONZÁLEZ DIÁNEZ, MARTA INÉS**
-
-**ROMALDE DORADO, MIGUEL ANGEL** 
-
-**PERIÁÑEZ CABRERO, PABLO** 
-
-**LOPEZ RUZ, PEDRO** 
-
-**RODRÍGUEZ MANESS, SAMUEL LUIS**
-
-**AGUAYO OROZCO, SERGIO**
-
-### World Project Launch (#WPL) 
-**NAVAS JIMENEZ, AURORA**
-
-**GILABERT PRIETO, CLAUDIA**
-
-**GUDIEL GÜEMES, FÉLIX ÁNGEL**
-
-**ROSSO RAMÍREZ, FRANCISCO DE ASÍS**
-
-**CALDERÓN RODRÍGUEZ, FRANCISCO JAVIER**
-
-**RAMÍREZ LARA, IVÁN** 
-
-**RUANO MURIEDAS, JUAN LUIS**
-
-**BARCIA JIMENEZ, MANUEL FRANCISCO**
-
-**ORTIZ BLANCO, MANUEL** 
-
-**NÚÑEZ REYES, MARÍA** 
-
-**GONZÁLEZ DIÁNEZ, MARTA INÉS**
-
-**ROMALDE DORADO, MIGUEL ANGEL** 
-
-**PERIÁÑEZ CABRERO, PABLO** 
-
-**LOPEZ RUZ, PEDRO** 
-
-**RODRÍGUEZ MANESS, SAMUEL LUIS**
-
-**AGUAYO OROZCO, SERGIO**
