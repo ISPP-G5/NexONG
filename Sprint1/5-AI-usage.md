@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Devising a Project
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 1
 
 
 ***MIEMBROS***:
