@@ -159,6 +159,10 @@ El secretario, Sergio Aguayo Orozco, se encargará de transmitir el feedback gen
 de conocimiento común de la asignatura, obtenido por nuestro grupo durante las clases de la
 asignatura.
 
+**3.5. Reviewer**
+
+Para cada issue que debamos realizar se debe de asignar uno o maás revisores los cuales se encargarán de comprobar que las distintas implementaciones y desarrollo se realizan correctamente para que cuando se integere en la línea de desarrollo principal no cree problemas 
+
 
 # 4.Matriz RACI
 
@@ -193,6 +197,8 @@ deﬁnidos.
    </td>
    <td><strong>Secretary</strong>
    </td>
+   <td><strong>Reviewer</strong>
+   </td>
   </tr>
   <tr>
    <td>Recopilar requisitos/Comunicación ONG</td>
@@ -201,6 +207,7 @@ deﬁnidos.
    <td>I</td>
    <td>C</td>
    <td>R</td>
+   <td>I</td>
    <td>I</td>
   </tr>
    <tr>
@@ -211,6 +218,7 @@ deﬁnidos.
    <td></td>
    <td>I</td>
    <td>R</td>
+   <td>I</td>
   </tr>
   <tr>
    <td>Diseño de Solución</td>
@@ -218,6 +226,7 @@ deﬁnidos.
    <td>I</td>
    <td>R</td>
    <td>C</td>
+   <td>I</td>
    <td>I</td>
    <td>I</td>
   </tr>
@@ -229,12 +238,25 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
+   <td>I</td>
+  </tr>
+  <tr>
+   <tr>
+   <td>Revisión de Implementaciones</td>
+   <td>A</td>
+   <td>A</td>
+   <td>C</td>
+   <td>I</td>
+   <td>I</td>
+   <td>I</td>
+   <td>R</td>
   </tr>
   <tr>
    <td>Pruebas Software</td>
       <td>A</td>
    <td>A</td>
    <td>R</td>
+   <td>I</td>
    <td>I</td>
    <td>I</td>
    <td>I</td>
@@ -245,6 +267,7 @@ deﬁnidos.
    <td>A</td>
    <td>R</td>
    <td>C</td>
+   <td>I</td>
    <td>I</td>
    <td>I</td>
   </tr>
