@@ -84,6 +84,11 @@
    <td>2/3/2024</td>
    <td>Actualizado el registro de usos</td>
   </tr>
+  <tr>
+   <td>5.0.0</td>
+   <td>9/3/2024</td>
+   <td>Actualizado el registro de usos</td>
+  </tr>
 </table>
 
 
@@ -228,7 +233,30 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
+- **Consulta sobre comprobar el patrón de un String**
 
+<br/>
+
+<img src="./DP/images/prompt10.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre error al activar el venv**
+
+<br/>
+
+<img src="./DP/images/prompt11-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="./DP/images/prompt11-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre evaluación individual mediante poker estimation**
+
+<br/>
+
+<img src="./DP/images/prompt12.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
 
 # 6. Estadísticas. 
 
@@ -240,27 +268,44 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
   <tr>
    <td>Semana</td>
    <td>Chat Gpt</td>
-   <td>Builder.io Anima Total</td>
+   <td>Builder.io</td>
+   <td>Anima</td>
+   <td>Total</td>
   </tr>
   <tr>
    <td>11/2/2024</td>
    <td>5</td>
-   <td>0 0 5</td>
+   <td>0</td>
+   <td>0</td>
+   <td>5</td>
   </tr>
   <tr>
    <td>18/2/2024</td>
    <td>2</td>
-   <td>1 1 4</td>
+   <td>1</td>
+   <td>1</td>
+   <td>4</td>
   </tr>
   <tr>
    <td>25/2/2024</td>
    <td>2</td>
-   <td>0 0 2</td>
+   <td>0</td>
+   <td>0</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>3/3/2024</td>
+   <td>3</td>
+   <td>0</td>
+   <td>0</td>
+   <td>3</td>
   </tr>
   <tr>
    <td></td>
-   <td>9</td>
-   <td>1 1 11</td>
+   <td>12</td>
+   <td>1</td>
+   <td>1</td>
+   <td>14</td>
   </tr>
 </table>
 
@@ -272,6 +317,7 @@ La siguiente semana comenzó el desarrollo, por lo que las consultas son de mayo
 
 La semana del 25/2/2024 se hacen dos consultas a Chat GPT. También apuntamos que 5 miembros usan _Github Copilot_, que no requiere prompts, si no ofrece posible código a escribir en función del contenido actual del fichero.
 
+La semana del 3/3/2024 se hacen 3 consultas a Chat Gpt, 2 de ellas respecto a programación y otra para definir el nuevo método de evaluación individual.
 
 
 
