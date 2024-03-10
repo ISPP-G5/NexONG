@@ -155,7 +155,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -163,7 +163,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -172,7 +172,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt3.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt3.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -181,8 +181,8 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt4_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
-<img src="./DP/images/prompt4_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt4_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt4_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -191,7 +191,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt5.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt5.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -200,8 +200,8 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt6_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
-<img src="./DP/images/prompt6_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt6_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt6_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -210,8 +210,8 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt7_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
-<img src="./DP/images/prompt7_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt7_1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt7_2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -220,7 +220,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt8.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt8.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -229,7 +229,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt9.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt9.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -237,7 +237,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt10.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt10.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -245,8 +245,8 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt11-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
-<img src="./DP/images/prompt11-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt11-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt11-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
@@ -254,7 +254,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-<img src="./DP/images/prompt12.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt12.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
 
 <br/>
 
