@@ -78,8 +78,8 @@ Repositorio: <https://github.com/ISPP-G5>
 
 # 1.Introducción
 
-El presente documento recoge las lecciones aprendidas durante el desarrollo de la aplicación web de NexONG. Durante el transcurso de este proyecto, se han enfrentado diversos desafíos, se han implementado soluciones innovadoras y se han identiﬁcado áreas de mejora que han enriquecido nuestra comprensión y experiencia en el desarrollo de aplicaciones web.
-El objetivo de este documento es proporcionar una retrospectiva estructurada y detallada de las experiencias acumuladas a lo largo del ciclo de vida del proyecto. A través de la reﬂexión sobre los éxitos alcanzados, los obstáculos encontrados y las lecciones aprendidas, buscamos no solo consolidar el conocimiento adquirido, sino también facilitar el aprendizaje continuo y mejorar nuestras prácticas para futuros proyectos similares.
+El presente documento recoge las lecciones aprendidas durante el desarrollo de la aplicación web de NexONG. 
+El objetivo de este escrito es proporcionar una retrospectiva estructurada y detallada de las experiencias acumuladas, a través de la reﬂexión sobre los éxitos alcanzados y los obstáculos encontrados buscando no solo consolidar el conocimiento adquirido, sino también facilitar el aprendizaje continuo y mejorar nuestras prácticas para futuros proyectos similares.
 
 
 
@@ -103,11 +103,11 @@ de la documentación.
 
 ● Las políticas del repositorio muy estrictas pueden causar problemas de rendimiento.
 
-● Realizar una buena política de evaluación de los miembros del equipo desde un primer momento, de está manera se logra evitar discrepancias y malos rollos entre el grupo
+● Efectuar una buena política de evaluación de los miembros del equipo desde un primer momento, de está manera se logra evitar discrepancias y malos rollos entre el grupo
 
 ● Realizar actividades de planiﬁcación usando herramientas tipo estimación poker, de esta manera se realiza una medición del rendimiento más óptima, ayudando a realizar mejor la evaluación de los miembros del grupo.
 
-● Realizar tareas o documentos sin previamente haber leído ni investigado acerca de los requisitos impuestos por el cliente ni el alcance del propio proyecto, lo que da lugar a problemas que se podían haber evitado.
+● Llevar a cabo tareas o documentos sin previamente haber leído ni investigado acerca de los requisitos impuestos por el cliente ni el alcance del propio proyecto, lo que da lugar a problemas que se podían haber evitado.
 
 
 # 3.Feedback de los usuarios piloto
