@@ -161,7 +161,11 @@ asignatura.
 
 **3.5. Reviewer**
 
-Para cada issue que debamos realizar se debe de asignar uno o maás revisores los cuales se encargarán de comprobar que las distintas implementaciones y desarrollo se realizan correctamente para que cuando se integere en la línea de desarrollo principal no cree problemas 
+Para cada issue que debamos realizar se debe de asignar uno o más revisores los cuales se encargarán de comprobar que las distintas implementaciones y desarrollo de código y tareas de documentación se realizan correctamente para que cuando se integere en la línea de desarrollo principal no cree problemas 
+
+**3.6. Document Asignee**
+
+Cada tarea de documentación tendrá asociado un o varios miembros del grupo, los cual se encargará de realizar dicha tarea en el tiempo, establecido con las indicaciones oportunas. 
 
 
 # 4.Matriz RACI
@@ -199,6 +203,8 @@ deﬁnidos.
    </td>
    <td><strong>Reviewer</strong>
    </td>
+   <td><strong>Document Asignee</strong>
+   </td>
   </tr>
   <tr>
    <td>Recopilar requisitos/Comunicación ONG</td>
@@ -208,7 +214,8 @@ deﬁnidos.
    <td>C</td>
    <td>R</td>
    <td>I</td>
-   <td>I</td>
+   <td>C</td>
+   <td>C</td>
   </tr>
    <tr>
    <td>Transmitir Feedback a la base común</td>
@@ -218,6 +225,7 @@ deﬁnidos.
    <td></td>
    <td>I</td>
    <td>R</td>
+   <td>C</td>
    <td>I</td>
   </tr>
   <tr>
@@ -228,6 +236,7 @@ deﬁnidos.
    <td>C</td>
    <td>I</td>
    <td>I</td>
+   <td>C</td>
    <td>I</td>
   </tr>
   <tr>
@@ -238,11 +247,24 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
+   <td>C</td>
    <td>I</td>
   </tr>
   <tr>
+  <tr>
+   <td>Realizar tareas de documentación</td>
+   <td>A</td>
+   <td>A</td>
+   <td>I</td>
+   <td>I</td>
+   <td>I</td>
+   <td>I</td>
+   <td>C</td>
+   <td>R</td>
+  </tr>
+  <tr>
    <tr>
-   <td>Revisión de Implementaciones</td>
+   <td>Revisión de Implementaciones de código como tareas de documentación</td>
    <td>A</td>
    <td>A</td>
    <td>C</td>
@@ -250,6 +272,7 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>R</td>
+   <td>C</td>
   </tr>
   <tr>
    <td>Pruebas Software</td>
@@ -259,6 +282,7 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
+   <td>C</td>
    <td>I</td>
   </tr>
   <tr>
@@ -269,6 +293,7 @@ deﬁnidos.
    <td>C</td>
    <td>I</td>
    <td>I</td>
+   <td>C</td>
    <td>I</td>
   </tr>
 </table>
