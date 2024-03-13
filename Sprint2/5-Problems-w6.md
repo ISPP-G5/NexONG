@@ -1,7 +1,6 @@
-# Problemas
+# Problemas: Semana 6 (Sprint 2)
 **7 de Marzo del 2024**
 
-Repositorio: [ISPP-G5](https://github.com/ISPP-G5)
 
 ***MIEMBROS***:
 
