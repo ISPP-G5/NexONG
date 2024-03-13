@@ -165,7 +165,7 @@ Para cada issue que debamos realizar se debe de asignar uno o más revisores los
 
 **3.6. Document Asignee**
 
-Cada tarea de documentación tendrá asociado un o varios miembros del grupo, los cual se encargará de realizar dicha tarea en el tiempo, establecido con las indicaciones oportunas. 
+Cada tarea de documentación tendrá asociado un o varios miembros del grupo, los cual se encargará de realizar dicha tarea en el tiempo establecido con las indicaciones oportunas. 
 
 
 # 4.Matriz RACI
