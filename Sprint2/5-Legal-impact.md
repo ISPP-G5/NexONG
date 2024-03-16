@@ -40,12 +40,10 @@
 
 1. Introducción
 2. Leyes de protección de datos
-3. Consentimiento de los padres/tutores
-4. Seguridad de datos
-5. Confidencialidad y privacidad
-6. Responsabilidad legal
-7. Documentación y auditoría
-8. Asesoramiento legal
+3. Seguridad de datos
+4. Confidencialidad y privacidad
+5. Responsabilidad legal
+6. Consentimiento de los padres/tutores
 
 
 ## Registro de cambios
@@ -61,7 +59,7 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>15/3/2024</td>
+   <td>16/3/2024</td>
    <td>Primera versión</td>
   </tr>
 </table>
@@ -75,50 +73,32 @@
 
 
 # 1. Introducción
-El presente documento recoge las consideraciones legales a tener en cuenta durante el desarrollo
-de la aplicación web de NexONG. Se contemplan temas inherentes al trato de información personal,
-como protección y seguridad de datos, así como relativos al trabajo con menores de edad.
+El presente documento recoge las consideraciones legales a tener en cuenta durante el desarrollo de la aplicación web de NexONG, cuya finalidad es proporcionar a ONG dedicadas a la educación una herramienta de administración y gestión de los datos con los que deben tratar, tales como pueden ser alumnos apuntados, clases, actividades, voluntarios o donaciones según sus necesidades. Se contemplan temas inherentes al trato de información personal, como protección y seguridad de datos, así como relativos al trabajo con menores de edad.
 
 # 2. Leyes de protección de datos
-Como país miembro de la Unión Europea, estamos sujetos al Reglamento General de Protección de
-Datos (RGPD). Además, en España está vigente la Ley Orgánica de Protección de Datos y Garantía
-de Derechos Digitales o LOPDGDD, que sustituye a la antigua Ley Orgánica de Protección de Datos
-o LOPD adaptándola a todo el contendio del reglamento europeo y exendiéndolo, de forma que
-cumpliendo la LOPDGDD se estará cumpliendo también la RGPD.
+Como país miembro de la Unión Europea, estamos sujetos al Reglamento General de Protección de Datos (RGPD). Además, en España está vigente la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales o LOPDGDD, que sustituye a la antigua Ley Orgánica de Protección de Datos o LOPD adaptándola a todo el contendio del reglamento europeo y exendiéndolo, de forma que cumpliendo la LOPDGDD se estará cumpliendo también la RGPD.
+Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliaciones de la RGPD:
+- Se eleva la edad de consentimiento de un menor de 13 a 14 años.
+- Amplía los individuos que pueden acceeder a los datos de personas fallecidas.
+- Amplía los drechos digitales.
+- Otorga una mayor precisión a la hora de exponer las infracciones y la cuantía legal de las mismas.
+- Expone los caos concretos en los que una empresa debe designar un delegado de protección de datos.
 
 # 3. Seguridad de datos
-La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad
-como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar
-la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas:
-- **Encriptación de datos**. Todos los datos almacenados en la aplicación web de NexONG deben
-estar encriptados, tanto en reposo como en tránsito.
-- **Control de acceso**. Deberán ser establecidos controles estrictos de acceso para que solo
-personas autorizadas puedan acceder a la información.
-- **Plan de respuesta ante iccidentes**. Es importante tener un plan de respuesta ante
-incidentes establecido para actuar de manera rápida y eficiente en caso de acceso no autorizado
-a los datos.
+La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas, por lo que se considerarán las siguientes opciones:
+- **Encriptación de datos**. Encriptar todos los datos almacenados en la aplicación web de NexONG, tanto en reposo como en tránsito.
+- **Control de acceso**. Establecer controles estrictos de acceso para que solo personas autorizadas puedan acceder a la información.
+- **Plan de respuesta ante iccidentes**. Disponer de un plan de respuesta ante incidentes para actuar de manera rápida y eficiente en caso de acceso no autorizado a los datos.
 
 # 4. Confidencialidad y privacidad
-Se deberá garantizar la confidencialidad de todos los datos almacenados en la aplicación. Esto
-incluye:
-- **Políticas y procedimientos claros**. NexONG debe establecer políticas y procedimientos
-claros para garantizar la confidencialidad de los datos almacenados en la aplicación web.
-Incluye la definición de quiénes tienen acceso a la informaicón, cómo se protege contra el
-acceso no autorizado y qué medidas se toman para proteger su seguridad.
-- **Formación y sensibilización**. Es crucial el conocimiento del personal de NexONG sobre
-la importancia de la confidencialidad y privacidad de los datos, por lo que se llevará a
-cabo formación al respecto si es necesario.
-- **Confianza y transparencia**. NexONG debe establecer relaciones de confianza con sus
-usuarios, lo que implica una información transparente acerca de la recopilación, uso y
-almacenamiento de los datos, así como permitir a los usuarios ejercer sus derechos de acceso,
-rectificación, supresión y oposición de los datos.
+Se deberá garantizar la confidencialidad de todos los datos almacenados en la aplicación. Para ello debemos considerar las siguientes posibilidades:
+- **Políticas y procedimientos claros**. Establecer políticas y procedimientos claros para garantizar la confidencialidad de los datos almacenados en la aplicación web. Incluye la definición de quiénes tienen acceso a la información, cómo se protege contra el acceso no autorizado y qué medidas se toman para proteger su seguridad.
+- **Formación y sensibilización**. Es crucial el conocimiento del personal de NexONG sobre la importancia de la confidencialidad y privacidad de los datos, por lo que se podrá llevar a cabo formación al respecto si se considera necesario.
+- **Confianza y transparencia**. NexONG debe establecer relaciones de confianza con sus usuarios, lo que implica una información transparente acerca de la recopilación, uso y almacenamiento de los datos, así como permitir a los usuarios ejercer sus derechos de acceso, rectificación, supresión y oposición de los datos.
 
 # 5. Responsabilidad legal
-NexONG es responsable de los datos almacenados en su aplicación, y por tanto encargada de
-garantizar su seguridad y su privacidad.
-Las ONG que hagan uso de la aplicación son responsables del mismo, con lo que NexONG no se
-hace responsable de cualquier uso incorrecto.
+NexONG es responsable de los datos almacenados en su aplicación, y por tanto encargada de garantizar su seguridad y su privacidad.
+Las ONG que hagan uso de la aplicación son responsables del mismo, con lo que NexONG no se hace responsable de cualquier uso incorrecto.
 
-# 5. Consentimiento de los padres/tutores
-Los padres o tutores legales deberán ser completamente informados de qué datos se almacenan
-en la aplicación web de NexONG, con qué finalidad serán recogidos y qué se hará con ellos.
+# 6. Consentimiento de los padres/tutores
+Los padres o tutores legales deberán ser completamente informados de qué datos se almacenan en la aplicación web de NexONG, con qué finalidad serán recogidos y qué se hará con ellos.
