@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 1
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 2
 
 
 ***MIEMBROS***:
@@ -87,6 +87,11 @@
   <tr>
    <td>5.0.0</td>
    <td>9/3/2024</td>
+   <td>Actualizado el registro de usos</td>
+  </tr>
+  <tr>
+   <td>6.0.0</td>
+   <td>16/3/2024</td>
    <td>Actualizado el registro de usos</td>
   </tr>
 </table>
@@ -258,6 +263,52 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
+- **Consulta sobre problemas de Codacy**
+
+<br/>
+
+<img src="../DP/images/prompt13-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt13-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre impacto legal de ONG**
+
+<br/>
+
+<img src="../DP/images/prompt14-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt14-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre error 400 en json**
+
+<br/>
+
+<img src="../DP/images/prompt15-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt15-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre extensión de un documento legal**
+
+<br/>
+
+<img src="../DP/images/prompt16-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt16-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt16-3.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
+- **Consulta sobre control de ramas en github**
+
+<br/>
+
+<img src="../DP/images/prompt17-1.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<img src="../DP/images/prompt17-2.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+
+<br/>
+
 # 6. Estadísticas. 
 
 
@@ -301,11 +352,18 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>3</td>
   </tr>
   <tr>
+   <td>10/3/2024</td>
+   <td>5</td>
+   <td>0</td>
+   <td>0</td>
+   <td>5</td>
+  </tr>
+  <tr>
    <td></td>
-   <td>12</td>
+   <td>17</td>
    <td>1</td>
    <td>1</td>
-   <td>14</td>
+   <td>19</td>
   </tr>
 </table>
 
@@ -319,6 +377,7 @@ La semana del 25/2/2024 se hacen dos consultas a Chat GPT. También apuntamos qu
 
 La semana del 3/3/2024 se hacen 3 consultas a Chat Gpt, 2 de ellas respecto a programación y otra para definir el nuevo método de evaluación individual.
 
+La semana del 10/3/2024 se hacen 5 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal, que es un tema muy delicado y es pertinente preguntar a inteligencias artificiales para tener una dirección general. Cabe recalcar una petición sobre errores en json, que es un problema que ha tenido que afrontar el frontend debido a la complejidad de mandar documentos mediante JSON.
 
 
 # 7. Conclusión. 
