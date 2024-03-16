@@ -377,7 +377,7 @@ La semana del 25/2/2024 se hacen dos consultas a Chat GPT. También apuntamos qu
 
 La semana del 3/3/2024 se hacen 3 consultas a Chat Gpt, 2 de ellas respecto a programación y otra para definir el nuevo método de evaluación individual.
 
-La semana del 10/3/2024 se hacen 5 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal, que es un tema muy delicado y es pertinente preguntar a inteligencias artificiales para tener una dirección general. Cabe recalcar una petición sobre errores en json, que es un problema que ha tenido que afrontar el frontend debido a la complejidad de mandar documentos mediante JSON.
+La semana del 10/3/2024 se hacen 5 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal, que es un tema muy delicado y es pertinente preguntar a inteligencias artificiales para tener una dirección general. Cabe recalcar una petición sobre errores en JSON, que es un problema que ha tenido que afrontar el frontend debido a la complejidad de mandar documentos mediante JSON.
 
 
 # 7. Conclusión. 
