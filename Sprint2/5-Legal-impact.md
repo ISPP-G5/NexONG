@@ -73,7 +73,7 @@
 
 
 # 1. Introducción
-El presente documento recoge las consideraciones legales a tener en cuenta durante el desarrollo de la aplicación web de la ONG Manos Unidas con Norte por parte de NexONG, cuya finalidad es proporcionar a la organización una herramienta de administración y gestión de los datos con los que deben tratar, tales como pueden ser alumnos apuntados, clases, actividades, voluntarios o donaciones. Se contemplan temas inherentes al trato de información personal, como protección y seguridad de datos, así como relativos al trabajo con menores de edad.
+El presente documento recoge las consideraciones legales a tener en cuenta durante el desarrollo de la aplicación web para la ONG Manos Unidas con Norte por parte de la organización NexONG, cuya finalidad es proporcionar a la mencionada ONG una herramienta de administración y gestión de los datos con los que deben tratar, tales como pueden ser alumnos apuntados, clases, actividades, voluntarios o donaciones. Se contemplan temas inherentes al trato de información personal, como protección y seguridad de datos, así como relativos al trabajo con menores de edad.
 
 # 2. Leyes de protección de datos
 Como país miembro de la Unión Europea, estamos sujetos al Reglamento General de Protección de Datos (RGPD), vigente desde el 27 de abril de 2016, que rige la recopilación y el tratamiento de datos personales de los usuarios para compañías establecidas en la UE, sin importar si el tratamiento se hace dentro o fuera de esta, así como compañías no establecidas en la UE ofreciendo bienes o servicios dentro de la UE o a individuos de la UE.
