@@ -109,6 +109,13 @@ de la documentación.
 
 ● Llevar a cabo tareas o documentos sin previamente haber leído ni investigado acerca de los requisitos impuestos por el cliente ni el alcance del propio proyecto, lo que da lugar a problemas que se podían haber evitado.
 
+● El uso de un mediador para remediar conflictos internos en el equipo es la manera más eficaz de asegurar un acuerdo entre los miembros.
+
+● Las críticas y los aspectos a mejorar durante la retrospectiva deben ser constructivas y no destructivas. También hay que valorar el esfuerzo y lo que ha ido bien para animar más a los miembros.
+
+● Se ha aprendido a coordinar el equipo de frontend con el de backend ya que el proyecto se encuentra bastante avanzado. Sin embargo, hay que seguir mejorando.
+
+
 
 # 3.Feedback de los usuarios piloto
 
