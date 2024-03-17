@@ -65,12 +65,12 @@ Repositorio: <https://github.com/ISPP-G5>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
-   <td>Añadido lecciones aprendidas durante la semana 6 del (Sprint 2)</td>
+   <td>Añadido lecciones aprendidas durante la semana 6 (Sprint 2)</td>
   </tr>
     <tr>
    <td>3.0.0</td>
    <td>16/3/2024</td>
-   <td>Añadido lecciones aprendidas durante la semana 7 del (Sprint 2)</td>
+   <td>Añadido lecciones aprendidas durante la semana 7 (Sprint 2)</td>
   </tr>
 </table>
 
