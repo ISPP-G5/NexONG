@@ -1,4 +1,4 @@
-﻿# &nbsp; Lecciones Aprendidas - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas - Sprint 2
 
 
 Repositorio: <https://github.com/ISPP-G5>
@@ -60,12 +60,17 @@ Repositorio: <https://github.com/ISPP-G5>
   <tr>
    <td>1.0.0</td>
    <td>24/2/2024</td>
-   <td>Primera versión</td>
+   <td>Añadido lecciones aprendidas durante la semana 5 (Sprint 1)</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
-   <td>Segunda versión</td>
+   <td>Añadido lecciones aprendidas durante la semana 6 (Sprint 2)</td>
+  </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>16/3/2024</td>
+   <td>Añadido lecciones aprendidas durante la semana 7 (Sprint 2)</td>
   </tr>
 </table>
 
@@ -76,14 +81,14 @@ Repositorio: <https://github.com/ISPP-G5>
 
 <br/>
 
-# 1.Introducción
+# 1. Introducción
 
 El presente documento recoge las lecciones aprendidas durante el desarrollo de la aplicación web de NexONG. 
 El objetivo de este escrito es proporcionar una retrospectiva estructurada y detallada de las experiencias acumuladas, a través de la reﬂexión sobre los éxitos alcanzados y los obstáculos encontrados buscando no solo consolidar el conocimiento adquirido, sino también facilitar el aprendizaje continuo y mejorar nuestras prácticas para futuros proyectos similares.
 
 
 
-# 2.Lecciones aprendidas durante el desarrollo
+# 2. Lecciones aprendidas durante el desarrollo
 
 A lo largo del desarrollo del proyecto hemos ido adquiriendo experiencia y sacando nuestras propias conclusiones sobre problemas y situaciones enfrentados, de manera individual y como equipo. Podemos destacar:
 
@@ -109,8 +114,15 @@ de la documentación.
 
 ● Llevar a cabo tareas o documentos sin previamente haber leído ni investigado acerca de los requisitos impuestos por el cliente ni el alcance del propio proyecto, lo que da lugar a problemas que se podían haber evitado.
 
+● El uso de un mediador para remediar conflictos internos en el equipo es la manera más eficaz de asegurar un acuerdo entre los miembros.
 
-# 3.Feedback de los usuarios piloto
+● Las críticas y los aspectos a mejorar durante la retrospectiva deben ser constructivas y no destructivas. También hay que valorar el esfuerzo y lo que ha ido bien para animar más a los miembros.
+
+● Se ha aprendido a coordinar el equipo de frontend con el de backend ya que el proyecto se encuentra bastante avanzado. Sin embargo, hay que seguir mejorando.
+
+
+
+# 3.Feedback de los usuarios pilotos
 
 De momento no hay nada que comentar al respecto.
 
