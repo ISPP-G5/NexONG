@@ -1,4 +1,4 @@
-﻿# &nbsp; Lecciones Aprendidas - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas- Sprint 2
 
 
 Repositorio: <https://github.com/ISPP-G5>
@@ -67,6 +67,11 @@ Repositorio: <https://github.com/ISPP-G5>
    <td>09/3/2024</td>
    <td>Segunda versión</td>
   </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>16/3/2024</td>
+   <td>Tercera versión: Lecciones aprendidas durante la semana 7 del sprint 2.</td>
+  </tr>
 </table>
 
 
@@ -76,14 +81,14 @@ Repositorio: <https://github.com/ISPP-G5>
 
 <br/>
 
-# 1.Introducción
+# 1. Introducción
 
 El presente documento recoge las lecciones aprendidas durante el desarrollo de la aplicación web de NexONG. 
 El objetivo de este escrito es proporcionar una retrospectiva estructurada y detallada de las experiencias acumuladas, a través de la reﬂexión sobre los éxitos alcanzados y los obstáculos encontrados buscando no solo consolidar el conocimiento adquirido, sino también facilitar el aprendizaje continuo y mejorar nuestras prácticas para futuros proyectos similares.
 
 
 
-# 2.Lecciones aprendidas durante el desarrollo
+# 2. Lecciones aprendidas durante el desarrollo
 
 A lo largo del desarrollo del proyecto hemos ido adquiriendo experiencia y sacando nuestras propias conclusiones sobre problemas y situaciones enfrentados, de manera individual y como equipo. Podemos destacar:
 
@@ -117,7 +122,7 @@ de la documentación.
 
 
 
-# 3.Feedback de los usuarios piloto
+# 3.Feedback de los usuarios pilotos
 
 De momento no hay nada que comentar al respecto.
 
