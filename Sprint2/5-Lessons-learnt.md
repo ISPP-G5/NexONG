@@ -1,4 +1,4 @@
-﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas- Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas- Sprint 2
 
 
 Repositorio: <https://github.com/ISPP-G5>
@@ -70,7 +70,7 @@ Repositorio: <https://github.com/ISPP-G5>
     <tr>
    <td>3.0.0</td>
    <td>16/3/2024</td>
-   <td>Tercera versión: Lecciones aprendidas durante la semana 7 del sprint 2.</td>
+   <td>Tercera versión: Añadido lecciones aprendidas durante la semana 7 del sprint 2.</td>
   </tr>
 </table>
 
