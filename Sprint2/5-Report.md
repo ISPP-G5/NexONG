@@ -74,6 +74,10 @@
    <td>04/03/2024</td>
    <td>Actualización del documento</td>
   </tr>
+   <td>1.3.0</td>
+   <td>19/03/2024</td>
+   <td>Actualización del documento</td>
+  </tr>
 </table>
 
 
