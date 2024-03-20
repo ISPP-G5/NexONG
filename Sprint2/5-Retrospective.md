@@ -43,7 +43,8 @@
 2. Retrospectiva 24.02
 3. Retrospectiva 02.03
 4. Retrospectiva 09.03
-5. Conclusiones
+5. Retrospectiva 16.03
+6. Conclusiones
 
 
 
@@ -73,6 +74,11 @@
    <td>3.0.0</td>
    <td>10/3/2024</td>
    <td>Añadir Retrospectiva 09.03</td>
+  </tr>
+  <tr>
+   <td>4.0.0</td>
+   <td>20/3/2024</td>
+   <td>Añadir Retrospectiva 16.03</td>
   </tr>
 </table>
 
@@ -320,10 +326,78 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - Vote on past marks again  ( Anonymous )
 - Help other team members more  ( Anonymous )
 
-# 5. Conclusiones
+# 5. Retrospectiva 16.03
+(A partir de esta retrospectiva se quitó el anonimato, esto se discutió y aprobó entre todos los miembros del equipo. De esta manera esperamos obtener comentarios más constructivos y evitar aquellos que sean destructivos.)
+
+**Participants:** 
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Went Well
+- Better general atmosphere   ( Aurora Navas )
+- Better communication and problem solving  ( Marta González )
+- More concise and clear explanations in issues  ( Pedro López Ruz )
+- The comunication  ( Manuel Barcia )
+- Claudia's leadership and support  ( Francisco Calderón )
+- Got a lot of work done  ( Samuel , 1 Up Vote  )
+- The feedback received in the pr have improved a lot  ( Manuel Ortiz Blanco, 1 Up Vote  )
+- Improve in the communication  ( Claudia Gilabert Prieto )
+- Communication intergroup has improved significantly  ( Felix, 1 Up Vote  )
+
+
+### To Improve
+- Better descriptions in PRs to test them properly  ( Aurora Navas )
+- PR reviews left for Saturdays and not enough of us are available to review them  ( Aurora Navas )
+- Deadlines are usually not met  or things are set as finished before they are so that the deadline is met  having to reopen it next week again.  ( Marta González )
+- take into account the reviewers already planned  ( Manuel Barcia )
+- Task block due to assignment based on unfinished parts  ( Francisco Rosso Ramírez )
+- Communication between backend and frontend  ( Claudia Gilabert Prieto, 3 Up Votes  )
+- Not leaving the review for the pull request for the last moment (some pull request are open for long and not reviewed until the last day  before the deadline)  ( Claudia Gilabert Prieto, 2 Up Votes  )
+- Paying attention for reviews  ( Felix )
+--- do you mean paying attention at reviews?  ( Samuel  )
+
+
+### Action Items
+- In-between deadline  so we can see the status of each task before the final deadline  ( Marta González, 1 Up Vote  )
+
+
+
+# 6. Conclusiones
 
 Tras la primera semana, se puede ver que el ambiente del equipo es positivo, pero que todavía hay bastantes aspectos de la organización que se pueden mejorar, e incluso se aportan algunas posibles soluciones o soluciones que se han ido tomando, como el nivel de comunicación. Sin embargo, se puede ver recogido que actualmente hay una necesidad de mejorar la organización de tareas y del cumplimiento de las tareas asociadas por rol. 
 
 En la segunda semana del Sprint 1, los resultados de la retrospectiva se vuelven algo más preocupantes, parece que al no haber tomado medidas tras la primera semana, el ambiente de trabajo ha empeorado considerablemente. Aunque no todo es malo, también se ve una mejora a la hora de revisar el trabajo de los compañeros y aceptar las críticas constructivas sobre el trabajo individual. Sin embargo, esta segunda retrospectiva hace que sea necesario tomar medidas de cara a las siguientes semanas del proyecto.
 
 Después de la retrospectiva de la semana pasada y habernos reunido todos para discutir la situación, se empiezan a ver mejoras en cuanto a la comunicación entre los miembros del equipo y el como se agradece el haber hablado de los problemas. Sin embargo, las cosas que mejorar siguen aumentando semanalmente de manera alarmante, lo que nos hace planteranos más posibles medidas que tomar para abordar la situación.
+
+Finalmente, tras la restrospectiva del 16 de marzo, se ve una mejora en el ambiente de equipo, aumentando el número de cosas que han ido bien y disminuyendo considerablemente las cosas que mejorar, las cuales son también más constructivas. Gracias a esta retrospectiva nos hemos dado cuenta de que las soluciones que estamos implementando funcionan. 
