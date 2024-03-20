@@ -96,8 +96,8 @@ semanalmente.
 
 Para llevar a cabo el registro y seguimiento del estado de las tareas dispondremos de un
 documento excel compartido en Drive, donde se pondrán las tareas semanales, así como la persona responsable, el revisor, y el estado de la misma. Al mismo tiempo las tareas serán
-recogidas en el kanban de GitHub, plataforma que utilizaremos durante todo el transcurso del
-proyecto tanto para organización como para código. En este kanban volverán a aparecer
+recogidas en el tablero de GitHub, plataforma que utilizaremos durante todo el transcurso del
+proyecto tanto para organización como para código. En este tablero volverán a aparecer
 reﬂejadas las tareas por semana con su respectivas personas asignadas y el estado de la
 misma.
 
@@ -123,7 +123,7 @@ frontend respectivamente. Para ocupar este rol se ha de tener una alta capacidad
 de problemas y conﬂictos, para así poder guiar al equipo de manera eﬁciente y manteniendo
 siempre un buen ambiente de trabajo que mejore el rendimiento de este.
 
-**3.3. Backend Programmers y Frontend Programmers**
+**3.3. Programadores de Backend y Frontend**
 
 Como hemos comentado anteriormente nuestro equipo de Junior Developer se dividirá en dos
 equipos.
@@ -147,7 +147,7 @@ Las personas que ejerzan este rol se encargará tanto de comunicarse con las ONG
 manejo de las redes sociales. En un principio este rol será llevado a cabo por distintos
 miembros del grupo según disponibilidad, y teniendo en cuenta que dichas personas deberán
 ser capaces de comunicarse claramente con los clientes, aclarando todo lo máximo posible y
-evitando conﬂictos o malentendidos. Tras el avance de las semanas el equipo de Community
+evitando conﬂictos o malentendidos. Tras el avance de las semanas los Community
 Manager se ha reducido a una sola persona María Núñez Reyes encargada de comunicarse con
 la ONG Manos Abiertas con Norte, debido a que el resto de ONG han decidido no participar de
 ninguna forma en el mismo, por lo que no se ha estimado necesario seguir con los
@@ -163,7 +163,7 @@ asignatura.
 
 Para cada issue que debamos realizar se debe de asignar uno o más revisores los cuales se encargarán de comprobar que las distintas implementaciones y desarrollo de código y tareas de documentación se realizan correctamente para que cuando se integere en la línea de desarrollo principal no cree problemas 
 
-**3.6. Document Asignee**
+**3.6. Document Assignee**
 
 Cada tarea de documentación tendrá asociado un o varios miembros del grupo, los cual se encargará de realizar dicha tarea en el tiempo establecido con las indicaciones oportunas. 
 
@@ -203,7 +203,7 @@ deﬁnidos.
    </td>
    <td><strong>Reviewer</strong>
    </td>
-   <td><strong>Document Asignee</strong>
+   <td><strong>Document Assignee</strong>
    </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ deﬁnidos.
    <td>C</td>
    <td>R</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>C</td>
   </tr>
    <tr>
@@ -225,7 +225,7 @@ deﬁnidos.
    <td></td>
    <td>I</td>
    <td>R</td>
-   <td>C</td>
+   <td>I</td>
    <td>I</td>
   </tr>
   <tr>
@@ -236,7 +236,7 @@ deﬁnidos.
    <td>C</td>
    <td>I</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>I</td>
   </tr>
   <tr>
@@ -247,7 +247,7 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>I</td>
   </tr>
   <tr>
@@ -259,7 +259,7 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>R</td>
   </tr>
   <tr>
@@ -282,7 +282,7 @@ deﬁnidos.
    <td>I</td>
    <td>I</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>I</td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ deﬁnidos.
    <td>C</td>
    <td>I</td>
    <td>I</td>
-   <td>C</td>
+   <td>I</td>
    <td>I</td>
   </tr>
 </table>
