@@ -123,7 +123,7 @@ frontend respectivamente. Para ocupar este rol se ha de tener una alta capacidad
 de problemas y conﬂictos, para así poder guiar al equipo de manera eﬁciente y manteniendo
 siempre un buen ambiente de trabajo que mejore el rendimiento de este.
 
-**3.3. Programadores de Backend y Frontend**
+**3.3. Backend and Frontend Team**
 
 Como hemos comentado anteriormente nuestro equipo de Junior Developer se dividirá en dos
 equipos.
