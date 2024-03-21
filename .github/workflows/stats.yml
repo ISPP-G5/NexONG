@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.STATS }}
           organization: 'ISPP-G5'
-          period: 7
+          period: 365
           charts: true
           disableLinks: false
           sortBy: 'COMMENTS'
