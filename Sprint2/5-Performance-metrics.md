@@ -66,6 +66,11 @@
    <td>09/3/2024</td>
    <td>Segunda versión por solicitud del grupo</td>
   </tr>
+  <tr>
+   <td>3.0.0</td>
+   <td>21/3/2024</td>
+   <td>Versión tras la sesión de retrospectiva</td>
+  </tr>
 </table>
 
 
@@ -77,17 +82,16 @@
 
 
 # 1.Introducción
-Esta rúbrica se divide en 5 secciones fundamentales a la hora de evaluar el trabajo en equipo realizado.
+Esta rúbrica se divide en 4 secciones fundamentales a la hora de evaluar el trabajo en equipo realizado.
 
 Las secciones a evaluar son:
 
 - **Contribución individual:** Aporte que cada miembro del equipo realiza al proyecto.
 - **Colaboración:** Capacidad de la persona para trabajar efectivamente con otros miembros del equipo. 
-- **Calidad del trabajo:** Nivel de contenido y precisión en las tareas realizadas.
 - **Cumplimiento de plazos:** Capacidad de la persona para completar las tareas asignadas dentro de los plazos.
-- **Registro de horas:** Tiempo invertido a las tareas realizadas.
+- **Rendimiento:** Calidad del trabajo y aprovechamiento del tiempo.
 
-De las secciones mencionadas solo las 4 primeras secciones aparecerán para que los demás miembros del equipo las evaluen (90%). La última sección será evaluada usando el nuevo cálculo de la performance (10%), que viene recogido en el Commitment agreement appendix.
+De las secciones mencionadas solo las 3 primeras secciones aparecerán para que los demás miembros del equipo las evaluen (90%). La última sección será evaluada usando el nuevo cálculo de la performance (10%), que viene recogido en el Commitment agreement appendix.
 
 Las secciones serán evaluadas del 1 al 5, siguiendo esta escalas de notas:
 
@@ -129,3 +133,6 @@ La colaboración contiene cuatro apartados para la realización de la rúbrica:
 El cumplimiento de plazos contiene dos apartados para la realización de la rúbrica:
 
 - **Gestiona bien el tiempo:** Planifica y organiza su tiempo de trabajo de manera correcta, y lleva un control horario adecuado usando la herramienta establecida (Clockify).
+
+# 5. Justifica tu respuesta
+En este apartado se deberá dar razones por las que has dado dichas notas, asegurándonos de esta manera de que todas las notas sean lo más objetivas posibles.
