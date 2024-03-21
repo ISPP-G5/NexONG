@@ -19,4 +19,4 @@ jobs:
           period: 365
           charts: true
           disableLinks: false
-          sortBy: 'COMMENTS'
+          sortBy: 'REVIEWS'
