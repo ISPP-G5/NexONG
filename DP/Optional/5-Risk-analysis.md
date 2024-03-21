@@ -517,9 +517,9 @@ En la siguiente tabla, se presentan todos los riesgos identificados en el proyec
 
 Teniendo en cuenta nuestros roles y nuestra organización, hemos considerado la siguiente disposición de colores con la capacidad que tiene un rol para ocuparse de un riesgo:
 
-<img src="images/matriz-evaluacion-riesgos-1.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
+<img src="../images/matriz-evaluacion-riesgos-1.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
 
 
 La siguiente tabla es la matriz de evaluación de riesgos. Las columnas suponen la probabilidad de que el riesgo se manifieste y las filas suponen el impacto que tendrían en el proyecto si se llegara a cumplir el riesgo.
 
-<img src="images/matriz-evaluacion-riesgos-2.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
+<img src="../images/matriz-evaluacion-riesgos-2.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
