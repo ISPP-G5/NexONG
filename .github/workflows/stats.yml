@@ -15,7 +15,7 @@ jobs:
         uses: flowwer-dev/pull-request-stats@master
         with:
           token: ${{ secrets.STATS }}
-          organization: 'NexONG'
+          organization: 'ISPP-G5'
           period: 7
           charts: true
           disableLinks: false
