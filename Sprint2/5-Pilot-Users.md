@@ -109,8 +109,7 @@ Nuestro proyecto se basa en ayudar a una ONG, por lo que el usuario piloto princ
 
 3. **Alumnos de ISPP del grupo de tarde**
 
-   Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Software y Práctica Profesional del grupo de tarde.
-
+   Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Software y Práctica Profesional del grupo 11 de tarde. Cabe destacar que, después de acordarlo, no todos los alumnos del grupo 11 probarán nuestro software. Serán ocho de ellos los que lo probarán y darán su feedback, y de la misma manera, serán ocho de nuestro grupo los que probarán el software del grupo 11.
 
 # 2. Calendario de usuarios pilotos 
 
