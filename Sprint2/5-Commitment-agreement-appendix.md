@@ -42,9 +42,10 @@
 1. Anexo al documento Commitment agreement
    1. Medidas de rendimiento de los miembros del equipo en la realización de código o documentación
    2. Rendimiento del S1
-   3. Nota máxima de los miembros del equipo
-   4. Formatos acordados en los repositorios de equipo
-   5. Responsabilidades individuales en S1
+     2.2 Nota máxima de los miembros del equipo
+     2.3 Formatos acordados en los repositorios de equipo
+     2.4 Responsabilidades individuales en S1
+   3. Rendimiento del S2
 
 
 ## Registro de cambios
@@ -67,6 +68,11 @@
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Cambio en la performance por solicitud del equipo</td>
+  </tr>
+  <tr>
+   <td>3.0.0</td>
+   <td>21/3/2024</td>
+   <td>Cambio de la performance tras la sesión de retrospectiva</td>
   </tr>
 </table>
 
@@ -112,15 +118,17 @@ $$\left(Perf_{total} = C \times (E - TNR) \right)$$
 
 Posteriormente a calcular la calificación individual, se procederá a normalizar todos los valores en una escala del 0 al 5, tomando como referencia el mayor valor que la persona puede obtener en el Sprint dada su asignación de tareas. Esta nueva medida de rendimiento ponderará el 10% en la autoevaluación total, sustituyendo a la exterior del cálculo de horas proporcionado por Clockify.
 
-**En el caso del Project Manager y los Team Leader, la calificación de tareas será sustituida por la puntuación que le asigne su equipo. Esto se hará mediante una pequeña encuesta donde solo participara el equipo de ese responsable.
+**En el caso del Project Manager y los Team Leader, la calificación de tareas será sustituida por la puntuación que le asigne su equipo. Esto se hará mediante una pequeña encuesta donde solo participara el equipo de ese responsable. En esta se evaluará su trabajo resolviendo dudas, su capacidad de organizar las tareas/el grupo, y la satisfacción general con su rendimiento como líder.
 
-## Rendimiento del S1
+
+
+## 2. Rendimiento del S1
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint1:
 
 <img src="./DP/images/rendimiento-s1.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
 
-## Nota máxima de los miembros del equipo
+### 2.1 Nota máxima de los miembros del equipo
 
 A fecha del 02/03/2024, todos los miembros del equipo, a saber;
 
@@ -161,7 +169,7 @@ A fecha del 02/03/2024, todos los miembros del equipo, a saber;
 han comunicado que desean optar a la máxima nota del proyecto, es decir, un 10.
 
 
-## Formatos acordados en los repositorios de equipo
+### Formatos acordados en los repositorios de equipo
 
 Se ha acordado seguir una política de [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), en todos los repositorios del equipo. Además se seguirá una política en las ramas y pull requests que seguirán el siguiente formato:
 
@@ -170,7 +178,7 @@ Se ha acordado seguir una política de [conventional commits](https://www.conven
 Se establece, de común acuerdo entre el Project Manager (PM) y los Team Leads, que aquellos miembros del equipo que infrinjan estas políticas recibirán una primera advertencia, seguida de la posibilidad de recibir un 'strike' en caso de reincidencia.
 
 
-## Responsabilidades individuales en S1
+### 2.2 Responsabilidades individuales en S1
 
 Se acuerda, mediante consenso, asignar responsabilidades individuales y compartidas a todos los miembros del equipo durante el Sprint 1. Es de suma importancia que estas tareas se completen dentro del plazo establecido, siendo acompañadas de posibles recompensas por su ejecución exitosa o, en caso de incumplimiento, de las consecuencias definidas en el Commitment Agreement. A continuación se describen las responsabilidades individuales comprometidas por cada miembro del equipo:
 
