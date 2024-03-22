@@ -104,12 +104,12 @@ Nuestro proyecto se basa en ayudar a una ONG, por lo que el usuario piloto princ
 
 1. **Asociación Manos Abiertas con Norte**
 
-   Se trata de una entidad sin ánimo de lucro, perteneciente a la Red de Obras Socioeducativas de La Salle, que trabaja en el ámbito de la intervención social en la barriada Polígono Norte y en el asentamiento chabolista de El Vacie, Sevilla. Su principal objetivo es educar de forma integral a jóvenes entre 3 y 18 años, ofreciendo una educación completa mediante proyectos socioeducativos y a través del refuerzo en destrezas básicas, técnicas y apoyo al estudio. Además, cuentan con un amplio personal entre los que se encuentran la junta directiva, el equipo técnico, asociados, voluntarios y personas en práctica.
-   Puesto que nuestro principal cliente e interesado es esta ONG, los encargados de probar nuestro producto y darnos feedback serán personas procedentes de los distintos grupos de su personal. Entre ellos se encuentran la presidenta de la junta directiva, educadores del equipo técnico y voluntarios. Excluiremos, por tanto, a las familias beneficiadas como usuarios pilotos ya que su información es confidencial solo conocida por los componentes de la ONG. 
+Se trata de una entidad sin ánimo de lucro, perteneciente a la Red de Obras Socioeducativas de La Salle, que trabaja en el ámbito de la intervención social en la barriada Polígono Norte y en el asentamiento chabolista de El Vacie, Sevilla. Su principal objetivo es educar de forma integral a jóvenes entre 3 y 18 años, ofreciendo una educación completa mediante proyectos socioeducativos y a través del refuerzo en destrezas básicas, técnicas y apoyo al estudio. Además, cuentan con un amplio personal entre los que se encuentran la junta directiva, el equipo técnico, asociados, voluntarios y personas en práctica.
+Puesto que nuestro principal cliente e interesado es esta ONG, los encargados de probar nuestro producto y darnos feedback serán personas procedentes de los distintos grupos de su personal. Entre ellos se encuentran la presidenta de la junta directiva, educadores del equipo técnico y voluntarios. Excluiremos, por tanto, a las familias beneficiadas como usuarios pilotos ya que su información es confidencial solo conocida por los componentes de la ONG. 
 
 3. **Alumnos de ISPP del grupo de tarde**
 
-   Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Software y Práctica Profesional del grupo 11 de tarde. Cabe destacar que, después de acordarlo, no todos los alumnos del grupo 11 probarán nuestro software. Serán ocho de ellos los que lo probarán y darán su feedback, y de la misma manera, serán ocho de nuestro grupo los que probarán el software del grupo 11.
+Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Software y Práctica Profesional del grupo 11 de tarde. Cabe destacar que, después de acordarlo, no todos los alumnos del grupo 11 probarán nuestro software. Serán ocho de ellos los que lo probarán y darán su feedback, y de la misma manera, serán ocho de nuestro grupo los que probarán el software del grupo 11.
 
 # 2. Calendario de usuarios pilotos 
 
@@ -128,8 +128,8 @@ Ya identificados los usuarios pilotos, pasamos a los escenarios de prueba. En un
 
 Una vez obtenido el feedback sobre el _mockup_, comenzará la parte de desarrollo. Los usuarios pilotos harán uso del software implementado durante el Sprint 2 y el Sprint 3. El 25 de marzo y el 23 de abril nos pondremos en contacto con la ONG y con los compañeros del grupo de tarde (con la ONG via email y con el grupo de tarde via Whatsapp), y les proporcionaremos el software implementado durante ese _sprint_ y sus respectivos formularios para obtener el feedback. 
 
-Gracias a los formularios que proporcionaremos, podremos comprobar las fortalezas y flaquezas de nuestro código, además de apuntar cualquier sugerencia sobre la UI o UX. 
+Gracias a los formularios que proporcionaremos, podremos comprobar las fortalezas y flaquezas de nuestro código, además de apuntar cualquier sugerencia sobre la interfaz o experiencia de usuario. 
 
-La información recogida será recogida en un documento llamado **feedback_usuarios_pilotos**. El feedback con respecto a errores se tendrá en cuenta de inmediato para mitigarlos. Con respecto a las sugerencias y la intuitividad se tendrá especialmente en cuenta si es de parte de la ONG, ya que ellos son nuestros clientes y las personas que usarán el software. Todo lo que no supongan cambios de la base de la aplicación se incluirá como tarea para el sprint siguiente. 
+La información será recogida en un documento llamado **feedback_usuarios_pilotos**. El feedback con respecto a errores se tendrá en cuenta de inmediato para mitigarlos. Con respecto a las sugerencias y la intuitividad, se tendrá especialmente en cuenta si es de parte de la ONG, ya que ellos son nuestros clientes y las personas que usarán el software. Todo lo que no supongan cambios de la base de la aplicación se incluirá como tarea para el sprint siguiente. 
 
-Como he dicho antes, la ONG va a contar con más margen de tiempo para completar su labor como usuarios pilotos. Así que, si como mucho tardan una semana para testear el software, su feedback se tendrá en cuenta para la segunda semana del sprint como muy tarde. 
+Como se ha mencionado anteriormente, la ONG va a contar con más margen de tiempo para completar su labor como usuarios pilotos. Así que, si como mucho tardan una semana para testear el software, su feedback se tendrá en cuenta para la segunda semana del sprint como muy tarde. 
