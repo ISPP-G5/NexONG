@@ -1,7 +1,6 @@
 # Informe de contribuciones a la base de datos común - Sprint 1
 
-
-***MIEMBROS***:
+**_MIEMBROS_**:
 
 <table>
   <tr>
@@ -36,17 +35,14 @@
   </tr>
 </table>
 
-
 ## Índice
 
 1.  Introducción
-2. Contribuciones del grupo 5
-   1. Semana 1
-   2. Semana 2
-   3. General
-3. Acciones llevadas a cabo
-
-
+2.  Contribuciones del grupo 5
+    1. Semana 1
+    2. Semana 2
+    3. General
+3.  Acciones llevadas a cabo
 
 ## Registro de cambios
 
@@ -80,18 +76,15 @@
   </tr>
 </table>
 
-
 <br/>
 
-# 
+#
 
 <br/>
-
-
 
 # 1. Introducción
 
-La base de datos de conocimiento común desplegada se ha creado mediando [Docosaurus](https://docusaurus.io/). El código de la página web está en un repositorio al que tenemos acceso todos los grupos mediante un representante de cada grupo. 
+La base de datos de conocimiento común desplegada se ha creado mediando [Docosaurus](https://docusaurus.io/). El código de la página web está en un repositorio al que tenemos acceso todos los grupos mediante un representante de cada grupo.
 
 Para actualizar la página web simplemente hay que modificar unos archivos .md y hacer pull request a la rama main, la página desplegada se actualizará después de pasar las pruebas.
 
@@ -101,7 +94,6 @@ Cada grupo contribuye a su apartado individual con su feedback específico y cad
 
 URL: [https://bgcc.vercel.app/](https://bgcc.vercel.app/)
 
-
 # 2. Contribuciones del grupo 5
 
 Las siguientes contribuciones son las específicas al grupo 5:
@@ -109,36 +101,34 @@ Las siguientes contribuciones son las específicas al grupo 5:
 ## Semana 1
 
 1. **Decisiones tecnológicas no sustentadas:**
-    * Las decisiones tecnológicas se tomaron sin fundamentar detenidamente las opciones.
-    * Las ONGs pueden tener creado software usable.
+    - Las decisiones tecnológicas se tomaron sin fundamentar detenidamente las opciones.
+    - Las ONGs pueden tener creado software usable.
 2. **Disonancia entre lo que se dice y el contenido de la presentación:**
-    * En cuanto a los competidores no corresponde lo que está escrito con lo que se dice.
+    - En cuanto a los competidores no corresponde lo que está escrito con lo que se dice.
 3. **Incongruencias con el mvp y los objetivos:**
-    * El mvp y los objetivos no se corresponden.
+    - El mvp y los objetivos no se corresponden.
 4. **Sobre los costes:**
-    * Es necesario incluir el coste del posible mantenimiento y despliegue en la nube.
+    - Es necesario incluir el coste del posible mantenimiento y despliegue en la nube.
 5. **Sobre las comunicaciones:**
-    * Se debe formalizar la comunicación de forma más detallada para evitar que información importante no se transmita correctamente.
+    - Se debe formalizar la comunicación de forma más detallada para evitar que información importante no se transmita correctamente.
 6. **Consideración sobre el software final:**
-    * Debemos tomar todas las decisiones para que al final del desarrollo se haya creado un software usable por las ONGs a largo plazo.
-
+    - Debemos tomar todas las decisiones para que al final del desarrollo se haya creado un software usable por las ONGs a largo plazo.
 
 ## Semana 2
 
 1. **Sobre la presentación:**
-    * Hay que apoyarse más en las diapositivas, poniendo elementos más visuales y evitando usar la misma diapositiva durante demasiado tiempo.
-    * Marcar las diapositivas de alguna forma si son respuesta de feedback anterior.
-    * Killer opener debería estar relacionado con el proyecto.
+    - Hay que apoyarse más en las diapositivas, poniendo elementos más visuales y evitando usar la misma diapositiva durante demasiado tiempo.
+    - Marcar las diapositivas de alguna forma si son respuesta de feedback anterior.
+    - Killer opener debería estar relacionado con el proyecto.
 2. **Falta el análisis de competencias:**
-    * No se ha incluido el análisis de competencias en la presentación.
+    - No se ha incluido el análisis de competencias en la presentación.
 3. **Contingencia:**
-    * Expresar bien el valor del porcentaje de la contingencia.
+    - Expresar bien el valor del porcentaje de la contingencia.
 4. **Sobre los riesgos:**
-    * Se tiene que ser cuidadoso en los riesgos y no se deben de asumir como un hecho.
-    * Matizar los riesgos y no ponerlos de forma general.
+    - Se tiene que ser cuidadoso en los riesgos y no se deben de asumir como un hecho.
+    - Matizar los riesgos y no ponerlos de forma general.
 5. **Posible funcionalidad:**
-    * Considerar un login social para la aplicación.
-
+    - Considerar un login social para la aplicación.
 
 ## Semana 3
 
@@ -152,7 +142,6 @@ Las siguientes contribuciones son las específicas al grupo 5:
 8. Indicar en diapositiva cuánto cubre la presentación sobre lo que piden.
 9. Preparar la gestión de usuarios pilotos.
 
-
 ## Semana 4
 
 1. No se ha visto transparencia con las horas por miembro.
@@ -165,7 +154,6 @@ Las siguientes contribuciones son las específicas al grupo 5:
 8. Commitment: Si alguien no aspira al 10 debe de aparecer
 9. Debe aparecer el responsable de cada tarea en la sección de commitment
 
-
 ## Semana 5
 
 -   Aclarar qué GitHub Actions usamos, qué objetivos tienen y si tienen un impacto positivo.
@@ -173,7 +161,6 @@ Las siguientes contribuciones son las específicas al grupo 5:
 -   En el análisis positivo, pesimista y realista de ingresos deben aparecer porcentajes en vez de cifras exactas.
 -   La matriz RACI debe considerar más roles.
 -   Razonar el razonamiento detrás del individual performance.
-
 
 ## Semana 6
 
@@ -183,6 +170,19 @@ Las siguientes contribuciones son las específicas al grupo 5:
 -   Empezar a poner la versión del Commitment Agreement en las presentaciones.
 -   Mejorar el tema deadlines. Se podría hacer un seguimiento de tareas durante la semana.
 
+## Semana 7
+
+-   La demo ha sido demasiado rápida. Estudiar la posibilidad de añadir subtítulos.
+-   Los números de página son difíciles de ver.
+-   Quitar lineas rojas de las tablas.
+-   Customer agreement debe ser un contrato entre el cliente y los desarrolladores sobre la aplicación desplegada, no sobre el desarrollo.
+-   Distinguir entre contrato de desarrollo y el customer agreement real.
+-   Propiedad intelectual tiene sentido en los documentos, pero hay cosas que no.
+-   Añadir gastos e ingresos a corto y medio plazo.
+-   Añadir la licencia de Office en OPEX, o explicarlo bien y dejarlo en CAPEX.
+-   Enseñar avances. Como mínimo mencionar los avances en una diapositiva.
+-   cambiar el nombre lessons a lectures en las horas asistidas a clase.
+-   Sugerencia: poner si la IA usada ha fallado o no.
 
 ## General
 
@@ -192,12 +192,10 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 
 1. Evitar usar los primeros competidores que se encuentren, analizarlos bien.
 
-
 ### Análisis de costes
 
 1. Separar en el análisis de costes el TCO (coste total de propiedad) del proyecto del coste de mantenimiento.
 2. No se debe expresar los costes (TCO) de manera anual, los costes de los servicios se deben poner de forma mensual
-
 
 ### Análisis de riesgo
 
@@ -205,21 +203,17 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 2. Matizar los riesgos y no ponerlos de forma general.
 3. Se deberá hacer un seguimiento de los riesgos a lo largo del proyecto. Establecer consecuencias al incumplir el agreement.
 
-
 ### Inicio efectivo
 
 1. El inicio efectivo debería tener relación con el proyecto.
-
 
 ### Modelos de negocio
 
 1. Hay que buscar el elemento diferenciador de tu aplicación.
 
-
 ### Normas de conducta
 
 1. No usar lenguaje informal.
-
 
 ### Presentación
 
@@ -228,24 +222,21 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 3. Marcar las diapositivas que sean respuesta de seguir el feedback anterior.
 4. Dejar los mockups para el final de la presentación.
 
-
 ### Presentadores
 
 1. La forma de comunicar la presentación debe tener un ritmo agradable. Hay que evitar hablar muy rápido o muy lento.
 2. Evitar hablar en voz baja o usar alguna herramienta para hacerte oír.
-
 
 ### Proyecto en general
 
 1. Evitar usar la palabra castigo, cambiarla por otras palabras como penalizar.
 2. Es mejor recompensar en lugar de castigar en el agreement.
 
-
 # 3. Acciones llevadas a cabo
 
-* Hemos estudiado las alternativas tecnológicas, hemos comprobado si podemos usar software de las ONGs y hemos tomado la decisión sobre las tecnologías a usar de forma fundamentada. 
-* Hemos formalizado las comunicaciones.
-* Hemos resuelto incongruencias entre los documentos y en la presentación.
-* Hemos añadido al análisis de competencias las principales competencias, distinguiendo entre las que ofrecen servicios open source y las que no.
-* Hemos explicado los riesgos de manera más extensa.
-* Hemos expresado el valor del porcentaje de contingencia de manera correcta.
+-   Hemos estudiado las alternativas tecnológicas, hemos comprobado si podemos usar software de las ONGs y hemos tomado la decisión sobre las tecnologías a usar de forma fundamentada.
+-   Hemos formalizado las comunicaciones.
+-   Hemos resuelto incongruencias entre los documentos y en la presentación.
+-   Hemos añadido al análisis de competencias las principales competencias, distinguiendo entre las que ofrecen servicios open source y las que no.
+-   Hemos explicado los riesgos de manera más extensa.
+-   Hemos expresado el valor del porcentaje de contingencia de manera correcta.
