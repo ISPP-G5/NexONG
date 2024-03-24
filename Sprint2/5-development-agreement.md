@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development Agreement Appendix - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development Agreement - Sprint 2
 
 **_MIEMBROS_**:
 
@@ -38,11 +38,13 @@
 ## Índice
 
 1. Introducción
-2. Contribuciones del grupo 5
-    1. Semana 1
-    2. Semana 2
-    3. General
-3. Acciones llevadas a cabo
+2. Objeto del Acuerdo
+    1. Colaboración
+    2. Responsabilidad de Usuario Piloto
+    3. Plazos
+    4. Confidencialidad
+    5. Terminación
+3. Anexo A
 
 ## Registro de cambios
 
