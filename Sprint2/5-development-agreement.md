@@ -131,6 +131,6 @@ A …… de febrero de 2024
 | Fecha de Entrega | Actividad                                             |
 | ---------------- | ----------------------------------------------------- |
 | 25/03/2024       | Entrega del primer prototipo de la aplicación         |
-| 02/04/2024       | Entrega de las pruebas realizadas por parte de la ONG |
+| 30/03/2024       | Entrega de las pruebas realizadas por parte de la ONG |
 | 15/04/2024       | Entrega del segundo prototipo de la aplicación        |
 | 23/04/2024       | Entrega de las pruebas realizadas por parte de la ONG |
