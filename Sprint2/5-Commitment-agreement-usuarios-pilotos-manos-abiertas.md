@@ -64,7 +64,7 @@ El canal principal que se usará para la comunicación entre ambos será a trav�
 
 Para cualquier problema (por ejemplo, el posible acceso a la aplicación) el grupo de usuarios pilotos deberá contactar con el responsable de comunicación de NexONG para cualquier duda.
 
-## Firma
+## Firma de NexONG
 
 Firmado:  ........................................................................................................................................
 
@@ -72,7 +72,11 @@ Fecha:    ............. de ................................................. de 
 
 Firma:
 
+## Firma de Manos Abiertas
 
-</br>
+Firmado:  ........................................................................................................................................
 
-</br>
+Fecha:    ............. de ................................................. de 2024
+
+Firma:
+
