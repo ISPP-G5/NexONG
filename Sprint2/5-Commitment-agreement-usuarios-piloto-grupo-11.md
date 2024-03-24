@@ -29,8 +29,25 @@ La evaluación debe ser descrita a través de un *feedback* detallado y debe ser
 
 ## 4. Frecuencia y Formato de Retroalimentación
 
-**PENDIENTE:** Acordar la frecuencia con la que se proporcionará la retroalimentación sobre el progreso y la calidad de cada proyecto, así como el formato en el que se espera que se entregue esta retroalimentación (por ejemplo, reuniones periódicas, informes escritos, encuestas, etc.).
+A continuación, destacamos las fechas claves para la retroalimentación de ambos proyectos:
 
+<table>
+  <tr>
+    <td></td>
+    <td><strong>Primer feedback</strong></td>
+    <td><strong>Segundo feedback</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Fecha límite de despliegue</strong></td>
+    <td>24/03/2024</td>
+    <td>14/04/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Tiempo para el feedback</strong></td>
+    <td>25/03/2024 - 27/03/2024</td>
+    <td>15/04/2024 - 17/04/2024</td>
+  </tr>
+</table>
 
 
 ## 5. Confidencialidad y Seguridad de los Datos
