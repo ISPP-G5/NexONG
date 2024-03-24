@@ -81,10 +81,10 @@ Como país miembro de la Unión Europea, estamos sujetos al Reglamento General d
 Además, en España está vigente la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD), que sustituyó en diciembre de 2018 a la antigua Ley Orgánica de Protección de Datos (LOPD) adaptándola a todo el contendio del reglamento europeo y exendiéndolo, de forma que cumpliendo la LOPDGDD se estará cumpliendo también la RGPD.
 Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliaciones de la RGPD:
 - Se eleva la edad de consentimiento de un menor de 13 a 14 años.
-- Amplía los individuos que pueden acceeder a los datos de personas fallecidas.
+- Amplía los individuos que pueden acceder a los datos de personas fallecidas.
 - Amplía los drechos digitales.
 - Otorga una mayor precisión a la hora de exponer las infracciones y la cuantía legal de las mismas.
-- Expone los caos concretos en los que una empresa debe designar un delegado de protección de datos.
+- Expone los casos concretos en los que una empresa debe designar un delegado de protección de datos.
 
 # 3. Seguridad de datos
 La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas, por lo que se considerarán las siguientes opciones:
