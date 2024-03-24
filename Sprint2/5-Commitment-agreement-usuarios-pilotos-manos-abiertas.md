@@ -25,8 +25,25 @@ La retroalimentación es fundamental para garantizar la calidad y la adecuación
 Se proporcionará a los usuarios piloto una encuesta, donde podrán compartir sus opiniones, sugerencias y observaciones sobre el software.
 La encuesta contendrá secciones específicas destinadas a evaluar diferentes aspectos del software, como errores encontrados, lo intuitivo que es y la experiencia general del usuario.
 
-Se llevarán a cabo dos sesiones de prueba con usuarios piloto, siendo la primera el 25 de marzo. Manos Abiertas con Norte contará con una semana para probar la aplicación y rellenar la encuesta.
-Respecto a la segunda sesión, no se ha llegado a ningún acuerdo aún respecto a fechas. 
+Se llevarán a cabo dos sesiones de prueba con usuarios piloto:
+<table>
+  <tr>
+    <td></td>
+    <td><strong>Primera sesión</strong></td>
+    <td><strong>Segunda sesión</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Fecha límite de entrega del enlace</strong></td>
+    <td>25/03/2024</td>
+    <td>14/04/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Tiempo para probar la aplicación</strong></td>
+    <td>25/03/2024 - 01/04/2024</td>
+    <td>15/04/2024 - 22/04/2024</td>
+  </tr>
+</table>
+Destacar que las fechas para la segunda sesión aún no son seguras.
 
 Estos métodos nos permitirán recopilar información valiosa que orientará el proceso de mejora continua del software, asegurando que satisfaga las necesidades y expectativas de nuestros usuarios.
 
