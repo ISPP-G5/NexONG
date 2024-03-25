@@ -2,7 +2,7 @@
 
 ¡Bienvenido a NexOng!
 
-Al utilizar NexOng, aceptas quedar vinculado por los siguientes términos y condiciones. Por favor, léelos detenidamente.
+Al utilizar los servicios proporcionados por NexOng, aceptas quedar vinculado por los siguientes términos y condiciones. Por favor, léelos detenidamente.
 
 1. **Aceptación de los Términos**:
 
@@ -10,7 +10,7 @@ Este Acuerdo establece los términos bajo los cuales se proporciona el Servicio 
 
 2. **Descripción del Servicio**:
 
-NexONG proporciona un servicio web para ONGs donde aparece tanto un sitio web que podrán visitar todo el mundo y conocer y contactar con la ONG, como un sistema donde pueden trabajar administradores, voluntarios, educadores y usuarios de la ONG para realizar actividades de gestión. El Servicio puede ser actualizado, ampliado o limitado de vez en cuando a nuestra discreción.
+NexONG proporciona un servicio web para ONGs donde aparece tanto un sitio web que podrá visitar todo el mundo y conocer y contactar con la ONG, así como un sistema donde pueden trabajar administradores, voluntarios, educadores y usuarios de la ONG para realizar actividades de gestión. El Servicio puede ser actualizado, ampliado o limitado de vez en cuando a nuestra discreción.
 
 3. **Uso del Servicio**:
 
@@ -52,4 +52,4 @@ Este Acuerdo se regirá por las leyes de España, sin tener en cuenta sus dispos
 
 Si tienes alguna pregunta sobre este acuerdo, contáctanos en info.nexong@gmail.com.
 
-Al utilizar NexOng, reconoces que has leído, entendido y aceptado quedar vinculado por este Acuerdo.
+Al utilizar los servicios proporcionados por NexOng, reconoces que has leído, entendido y aceptado quedar vinculado por este Acuerdo.
