@@ -537,4 +537,4 @@ A continuación vamos a desglosar el coste real por entrega.
 
 
 ## <a name="_qjmd6ssc05vk"></a>5.1 Gráfica comparativa de costos y puntos de historia completados.
-<image src="Grafico Costes.jpg" alt="Grafico de los costes asociados">
+<image src="./Grafico Costes.jpg" alt="Grafico de los costes asociados">
