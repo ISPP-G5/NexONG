@@ -62,6 +62,16 @@
    <td>16/3/2024</td>
    <td>Primera versión</td>
   </tr>
+  <tr>
+    <td>1.1.0</td>
+    <td>25/3/2024</td>
+    <td>
+      <ul>
+        <li>Ampliación del apartado 3</li>
+        <li>Corrección de erratas</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 
@@ -78,7 +88,7 @@ El presente documento recoge las consideraciones legales a tener en cuenta duran
 # 2. Leyes de protección de datos
 Como país miembro de la Unión Europea, estamos sujetos al Reglamento General de Protección de Datos (RGPD), vigente desde el 27 de abril de 2016, que rige la recopilación y el tratamiento de datos personales de los usuarios para compañías establecidas en la UE, sin importar si el tratamiento se hace dentro o fuera de esta, así como compañías no establecidas en la UE ofreciendo bienes o servicios dentro de la UE o a individuos de la UE.
 
-Además, en España está vigente la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD), que sustituyó en diciembre de 2018 a la antigua Ley Orgánica de Protección de Datos (LOPD) adaptándola a todo el contendio del reglamento europeo y exendiéndolo, de forma que cumpliendo la LOPDGDD se estará cumpliendo también la RGPD.
+Además, en España está vigente la Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD), que sustituyó en diciembre de 2018 a la antigua Ley Orgánica de Protección de Datos (LOPD) adaptándola a todo el contendio del reglamento europeo y extendiéndolo, de forma que cumpliendo la LOPDGDD se estará cumpliendo también la RGPD.
 Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliaciones de la RGPD:
 - Se eleva la edad de consentimiento de un menor de 13 a 14 años.
 - Amplía los individuos que pueden acceder a los datos de personas fallecidas.
@@ -87,10 +97,14 @@ Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliacion
 - Expone los casos concretos en los que una empresa debe designar un delegado de protección de datos.
 
 # 3. Seguridad de datos
-La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas, por lo que se considerarán las siguientes opciones:
-- **Control de acceso**. Establecer controles estrictos de acceso para que solo personas autorizadas puedan acceder a la información.
-- **Plan de respuesta ante iccidentes**. Disponer de un plan de respuesta ante incidentes para actuar de manera rápida y eficiente en caso de acceso no autorizado a los datos.
-
+La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas; de esta forma contaremos con:
+- **Control de acceso**. Implementar un sistema de control de acceso robusto, basado en roles y privilegios, que garantice que solo personal autorizado tenga acceso a la información relevante. Lo llevaremos a cabo mediante la autenticación de usuarios y la implementación de políticas de acceso basadas en el principio de "menos privilegios", donde cada usuario tenga acceso exclusivamente a la información necesaria para llevar a cabo sus funciones.
+- **Plan de respuesta ante incidentes**. Disponer de un plan de respuesta ante incidentes para actuar de manera rápida y eficiente en caso de acceso no autorizado a los datos. Este constará de los siguientes procedimientos:
+    - **Procedimientos de notificación**. Establecer protocolos claros para notificar a las partes pertinentes sobre cualquier incidente de seguridad.
+    - **Investigación y evaluación**. Investigación exhaustiva para determinar la naturaleza y el alcnace del incidente de seguridad.
+    - **Mitigación de riesgos**. Medidas inmediatas para mitigar los riesgos asociados con el incidente de seguridad, entre las que se encuentran la desconexión de sistemas comprometidos y la restauración de copias de seguridad limpias.
+    - **Evaluación post-inicidente**. Evaluación exhaustiva tras el incidente para identificar lecciones aprendidas y áreas de mejora en el plan de respuesta.
+ 
 # 4. Confidencialidad y privacidad
 Se deberá garantizar la confidencialidad de todos los datos almacenados en la aplicación. Para ello debemos considerar:
 - **Políticas y procedimientos claros**. Establecer políticas y procedimientos claros para garantizar la confidencialidad de los datos almacenados en la aplicación web. Entre estas medidas destacamos:
