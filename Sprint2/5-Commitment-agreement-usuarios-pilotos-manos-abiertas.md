@@ -62,7 +62,7 @@ Se establecen como responsables en esta comunicación entre NexONG y los usuario
 
 El canal principal que se usará para la comunicación entre ambos será a través de correos electrónicos entre los dos responsables.
 
-Para cualquier problema (por ejemplo, el posible acceso a la aplicación) el grupo de usuarios pilotos deberá contactar con el responsable de comunicación de NexONG para cualquier duda.
+Para cualquier problema (por ejemplo, el posible acceso a la aplicación) el grupo de usuarios pilotos deberá contactar con el responsable de comunicación de NexONG.
 
 ## Firma de NexONG
 
