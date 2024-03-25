@@ -66,9 +66,9 @@ Para cualquier problema (por ejemplo, el posible acceso a la aplicación) el gru
 
 ## Firma de NexONG
 
-Firmado:  ........................................................................................................................................
+Firmado:  Aurora Navas Jiménez
 
-Fecha:    ............. de ................................................. de 2024
+Fecha:    25 de marzo de 2024
 
 Firma:
 
