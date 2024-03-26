@@ -1,5 +1,5 @@
-# Problemas: Semana 6 (Sprint 2)
-**7 de Marzo del 2024**
+# Problemas Sprint 2
+**26 de Marzo del 2024**
 
 
 ***MIEMBROS***:
@@ -48,6 +48,9 @@
 **Versión** | **Fecha** | **Descripción**
 --- | --- | ---
 1.0.0 | 7/3/2024 | Primera versión
+2.0.0 | 16/3/2024 | Segunda versión
+3.0.0 | 26/3/2024 | Tercera versión
+
 
 ## Introducción
 Este documento recopila los problemas encontrados a lo largo de todo el proceso de desarrollo del proyecto. Por cada problema se especifica el conflicto en sí, cuando se dio, cómo (y cuándo) se resolvió y el impacto que tuvo sobre el proyecto.
@@ -61,6 +64,7 @@ Algunos miembros del equipo han mostrado su frustración en la reunión del día
 
 ### Disconformidad general con las medidas de auto evaluación del equipo y falta de transparencia
 La mayoría del equipo ha sentido que las medidas de evaluación que se realizan sobre otros miembros no han sido correctas. Por una parte, es complicado ofrecer una valoración realista a las personas con las que menos contacto se ha tenido, además no se ha considerado algunas valoraciones justas cuando algunas encuestas son de carácter objetivo. Luego, se desea buscar un nivel más alto de transparencia a la hora de realizar la rúbrica del rendimiento de cada persona, para poder presentar dudas y tener los motivos de nuestra nota visibles.
+En la reunión del pasado marte 12 de marzo, se ha seguido mostrando disconformidad con las notas anteriores. Parte del equipo ha sentido que las medidas de evaluación que se realizan sobre otros miembros no han sido correctas ni justas. Por una parte, es complicado ofrecer una valoración realista a las personas con las que menos contacto se ha tenido, además no se ha considerado algunas valoraciones justas cuando algunas encuestas son de carácter objetivo. Luego, se desea buscar un nivel más alto de transparencia a la hora de realizar la rúbrica del rendimiento de cada persona, para poder presentar dudas y tener los motivos de nuestra nota visibles.
 
 ### Problemas con las políticas de ramas y commits
 Las políticas de ramas y de commits buscan asegurar el cumplimiento uniforme y correcto al trabajar con git flow, pero se ha comprobado que también puede causar problemas. Algunos conflictos de una rama por las medidas del conventional commits acabaron afectando a varios miembros de modo que no podían hacer sus Pull Requests.
@@ -70,6 +74,13 @@ Algunos miembros del equipo no realizan sus tareas de forma correcta y hay pérd
 
 ### Poca atención a la descripción de las issues por parte de algunos miembros
 Algunos miembros del equipo han visto retrasos en sus tareas por no comprender los requerimientos de algunas issues por no leer detenidamente la descripción de éstas.
+
+### Discordancia entre backend y frontend
+La coordinación entre backend y frontend no ha sido muy acertada esta semana. Debido a la incompatibilidad de los atributos necesitados en frontend y los implementados en backend, el equipo de frontend ha tenido que aplazar alguna issue y adelantar contenido del sprint 3 para tener suficiente trabajo que implementar esta semana. Esto puede haberse debido a la disparidad en la planificación inicial, errores de concepción de algunos requisitos y falta de seguimiento del *mockup*.
+
+### Merge Problematico
+
+Un miembro del equipo al integrar una funcionalidad realizó por error un pull de una rama que no debería haber hecho provocando fallas en las siguientes implementaciones a partir de esa
 
 ## Soluciones
 Las soluciones que se pondrán o ya se han puesto en marcha para resolver los problemas anteriores son los siguientes:
@@ -82,3 +93,24 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
    - Los miembros del equipo miden el rendimiento del PM y los Team Leader
 - Se han relajado las restricciones a la hora de hacer commits para evitar posibles desastres por bloqueos. Sin embargo, el incumplimiento continuo de las conventional commits se penalizará tras varios avisos.
 - Se le recordará a los miembros del equipo la importancia de hacer una revisión general al proyecto, de informarse sobre los requerimientos de su tarea y de leer bien las descripciones de las issues. También hay que esforzarse por escribir descripciones lo más claras y detalladas posibles, así como dejar un buen comentario de revisión.
+
+- Buscar una mayor alineación entre los requerimientos solicitados por las páginas y la base de datos del backend a través del diálogo entre ambos equipos.
+
+- Una vez se localizó el problema del merge se creo un rama Hotfix para intentar mitigar los daños causados 
+
+
+## Resultados
+
+Los resultados tras la aplicación de las soluciones
+
+- Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realiza comentarios por cada discrepacia que vaya apareciendo para llegar a un concenso en todos los miembros del grupo.
+
+- Respecto a sistema de evaluaciación a día de la realización del documento se desconoce cual será la complicidad del equipo una vez conozcan los resultados.
+
+- Tras relajar las restricciones a la hora de realizar los commits y pull request ha fluido un poco mejor el trabajo aunque todavia a final de semana seguian habiendo pull requests por aprobar por lo que se ha sugerido que todos los miembros del equipo activen las notificaciones por email para mitigar la ralentización.
+
+- Una vez dejado claro la importancia de relizar una buena lectura de las issues y esforzarse por escribir descripciones lo más claras y detalladas posibles, así como dejar un buen comentario de revisión, ha aparecido nuevos comentarios en las reviews mucho más ricas tanto por parte de que ha implementado la issue incorporando formas de como acceder a la tarea realizada y como probarla, tanto por parte de los revisores.
+
+- Acerca de la comunicación entre backend y fronted, ha incrementado la participación de los miembros de frontend preguntando dudas al equipo de backend, aunque todavía hay discrepacias lingüisticas entre miembros, es por ello que varios miembros en la retrospectiva han propuesto realizar una reunión en próximas semana entre ambos equipos.
+
+- Tras revertir los cambios, el miembro del equipo en cuestión pidió perdón y revirtió el merge en su rama haciendo que solucionase el problema. Además al integrarse la rama hotfix en develop, los demás miembros al hacer pull de la misma en sus ramas solucionaron los errores causados.
