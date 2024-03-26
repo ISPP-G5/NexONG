@@ -92,16 +92,16 @@ Además, en España está vigente la Ley Orgánica de Protección de Datos y Gar
 Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliaciones de la RGPD:
 - Se eleva la edad de consentimiento de un menor de 13 a 14 años.
 - Amplía los individuos que pueden acceder a los datos de personas fallecidas.
-- Amplía los drechos digitales.
+- Amplía los derechos digitales.
 - Otorga una mayor precisión a la hora de exponer las infracciones y la cuantía legal de las mismas.
 - Expone los casos concretos en los que una empresa debe designar un delegado de protección de datos.
 
 # 3. Seguridad de datos
-La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custiodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas; de esta forma contaremos con:
+La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas; de esta forma contaremos con:
 - **Control de acceso**. Implementar un sistema de control de acceso robusto, basado en roles y privilegios, que garantice que solo personal autorizado tenga acceso a la información relevante. Lo llevaremos a cabo mediante la autenticación de usuarios y la implementación de políticas de acceso basadas en el principio de "menos privilegios", donde cada usuario tenga acceso exclusivamente a la información necesaria para llevar a cabo sus funciones.
 - **Plan de respuesta ante incidentes**. Disponer de un plan de respuesta ante incidentes para actuar de manera rápida y eficiente en caso de acceso no autorizado a los datos. Este constará de los siguientes procedimientos:
     - **Procedimientos de notificación**. Establecer protocolos claros para notificar a las partes pertinentes sobre cualquier incidente de seguridad.
-    - **Investigación y evaluación**. Investigación exhaustiva para determinar la naturaleza y el alcnace del incidente de seguridad.
+    - **Investigación y evaluación**. Investigación exhaustiva para determinar la naturaleza y el alcance del incidente de seguridad.
     - **Mitigación de riesgos**. Medidas inmediatas para mitigar los riesgos asociados con el incidente de seguridad, entre las que se encuentran la desconexión de sistemas comprometidos y la restauración de copias de seguridad limpias.
     - **Evaluación post-inicidente**. Evaluación exhaustiva tras el incidente para identificar lecciones aprendidas y áreas de mejora en el plan de respuesta.
  
