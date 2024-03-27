@@ -181,7 +181,7 @@ Las siguientes contribuciones son las específicas al grupo 5:
 -   Añadir gastos e ingresos a corto y medio plazo.
 -   Añadir la licencia de Office en OPEX, o explicarlo bien y dejarlo en CAPEX.
 -   Enseñar avances. Como mínimo mencionar los avances en una diapositiva.
--   cambiar el nombre lessons a lectures en las horas asistidas a clase.
+-   Cambiar el nombre de lessons a lectures en las horas asistidas a clase.
 -   Sugerencia: poner si la IA usada ha fallado o no.
 
 ## General
