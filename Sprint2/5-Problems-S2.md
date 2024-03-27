@@ -80,7 +80,11 @@ La coordinación entre backend y frontend no ha sido muy acertada esta semana. D
 
 ### Merge Problematico
 
-Un miembro del equipo al integrar una funcionalidad realizó por error un pull de una rama que no debería haber hecho provocando fallas en las siguientes implementaciones a partir de esa
+Un miembro del equipo al integrar una funcionalidad realizó por error un pull de una rama que no debería haber hecho provocando fallas en las siguientes implementaciones a partir de esa.
+
+### Incumplimiento Commitment Agreement por los usuarios pilotos
+
+El grupo de la tarde y el nuetro firmamos un commitment agreement en el cual nos comprometiamos a desplegar la aplicación el lunes 25 de marzo  y tener para testear ese mismo lunes hasta el miercoles 27 de marzo. Llegado ese lunes nuestro grupo ya tenía desplegado la aplicación como habíamos firmado, pero el otro grupo no estaba en la misma situación alegando a una miembro de nuestro equipo que habian tenido problemas y que si podíamos cambiar el commitment agreement a más tarde, a lo que nosotros respondimos con una negativa debido a que ya estaba firmado y cambiarlo supondría el imcumplimiento total del mismo. 
 
 ## Soluciones
 Las soluciones que se pondrán o ya se han puesto en marcha para resolver los problemas anteriores son los siguientes:
@@ -98,6 +102,8 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
 
 - Una vez se localizó el problema del merge se creo un rama Hotfix para intentar mitigar los daños causados 
 
+- Tras trasladar nuestro pensamiento de no cambiar el commitment agreement, los usuarios piloto del grupo de tarde aceptaron las condiciones a muy a su pesar y enviaron una versión desplegada de la apliación ese mismo día.
+
 
 ## Resultados
 
@@ -114,3 +120,5 @@ Los resultados tras la aplicación de las soluciones
 - Acerca de la comunicación entre backend y fronted, ha incrementado la participación de los miembros de frontend preguntando dudas al equipo de backend, aunque todavía hay discrepacias lingüisticas entre miembros, es por ello que varios miembros en la retrospectiva han propuesto realizar una reunión en próximas semana entre ambos equipos.
 
 - Tras revertir los cambios, el miembro del equipo en cuestión pidió perdón y revirtió el merge en su rama haciendo que solucionase el problema. Además al integrarse la rama hotfix en develop, los demás miembros al hacer pull de la misma en sus ramas solucionaron los errores causados.
+
+- Cuando los usuarios pilotos de nuestro grupo accedieron a la version desplegada del grupo de tarde, rápidamente se dieron cuenta de que era una versión bastante básica sin apenas funcionalidades, por lo que no pudieron testear demasiado.
