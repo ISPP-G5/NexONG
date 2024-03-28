@@ -99,11 +99,11 @@ Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliacion
 # 3. Seguridad de datos
 La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas; de esta forma contaremos con:
 - **Control de acceso**. Implementar un sistema de control de acceso robusto, basado en roles y privilegios, que garantice que solo personal autorizado tenga acceso a la información relevante. Lo llevaremos a cabo mediante la autenticación de usuarios y la implementación de políticas de acceso basadas en el principio de "menos privilegios", donde cada usuario tenga acceso exclusivamente a la información necesaria para llevar a cabo sus funciones. Los roles con los que contará nuestro sistema son:
-    - **Socio**. Dona periódicamente a la organización, y tiene por ello derecho a consultar también el calendario de actividades
-    - **Familia**. Corresponde a la cuenta de un familiar o tutor legal de un menor registrado como alumno; puede monitorizar su asistencia y evaluaciones y gestionar sus autorizaciones.
-    - **Voluntario**. Se registra para ayudar a la ONG. Puede ver el calendario de actividades y apuntarse en ellas para avisar de su asistencia.
-    - **Educador**. Trabajadores fijos de la organización. Llevan el control de las clases, las actividades y los alumnos y su asistencia.
-    - **Administrador**. Tiene acceso y control sobre toda la aplicación.
+    - **Socio**. Dona periódicamente a la organización y puede saber por ello qué actividades se llevarán a cabo.
+    - **Familia**. Corresponde a la cuenta de un familiar o tutor legal de un menor registrado como alumno.
+    - **Voluntario**. Ayuda a la ONG colaborando con los educadores en actividades y clases.
+    - **Educador**. Trabajadores fijos de la organización, se encargan de los alumnos y llevan a cabo las actividades y clases.
+    - **Administrador**. La figura principal de la organización, lleva el control de todos los datos y acontecimientos.
 - **Plan de respuesta ante incidentes**. Disponer de un plan de respuesta ante incidentes para actuar de manera rápida y eficiente en caso de acceso no autorizado a los datos. Este constará de los siguientes procedimientos:
     - **Procedimientos de notificación**. Notificar a las partes pertinentes sobre cualquier incidente de seguridad.
     - **Investigación y evaluación**. Investigación exhaustiva para determinar la naturaleza y el alcance del incidente de seguridad.
