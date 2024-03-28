@@ -99,7 +99,7 @@ Entre las diferencias, podemos encontrar en la LOPDGDD las siguientes ampliacion
 # 3. Seguridad de datos
 La seguridad de los datos es una preocupación fundamental para NexONG, dada su responsabilidad como custodio de la información personal de los niños, familias y voluntarios. Para garantizar la seguridad de estos datos, es crucial implementar medidas técnicas y organizativas sólidas; de esta forma contaremos con:
 - **Control de acceso**. Implementar un sistema de control de acceso robusto, basado en roles y privilegios, que garantice que solo personal autorizado tenga acceso a la información relevante. Lo llevaremos a cabo mediante la autenticación de usuarios y la implementación de políticas de acceso basadas en el principio de "menos privilegios", donde cada usuario tenga acceso exclusivamente a la información necesaria para llevar a cabo sus funciones. Los roles con los que contará nuestro sistema son:
-    - **Socio**. Dona periódicamente a la organización y puede saber por ello qué actividades se llevarán a cabo.
+    - **Socio**. Dona periódicamente a la organización y puede ir a asambleas convocadas por la junta directiva.
     - **Familia**. Corresponde a la cuenta de un familiar o tutor legal de un menor registrado como alumno.
     - **Voluntario**. Ayuda a la ONG colaborando con los educadores en actividades y clases.
     - **Educador**. Trabajadores fijos de la organización, se encargan de los alumnos y llevan a cabo las actividades y clases.
