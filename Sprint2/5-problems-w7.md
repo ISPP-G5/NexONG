@@ -78,3 +78,11 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
    - Los miembros del equipo miden el rendimiento del PM y los Team Leader
 - Respecto a las notas anteriores, se ha hablado con las personas disconformes y llegado a la conclusión de que en un futuro se puedan cambiar las notas antes del último entregable si se ve un progreso.
 - Buscar una mayor alineación entre los requerimientos solicitados por las páginas y la base de datos del backend a través del diálogo entre ambos equipos.
+
+## Resultados
+
+Los resultados tras la aplicación de las soluciones
+
+- Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realiza comentarios por cada discrepacia que vaya apareciendo para llegar a un concenso en todos los miembros del grupo
+
+- Respecto a sistema de evaluaciación a día de la realización del documento se desconoce cual será la complicidad del equipo una vez conozcan 
