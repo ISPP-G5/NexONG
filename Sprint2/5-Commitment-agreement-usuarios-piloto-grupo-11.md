@@ -1,4 +1,4 @@
-# Demo: Commitment agrement usuarios piloto - Grupo de tarde
+# Commitment agrement usuarios piloto - Grupo de tarde
 
 ## 1. Resumen ejecutivo
 
