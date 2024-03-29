@@ -1,4 +1,4 @@
-# Pilot Users Feedback - Sprint 2
+# Feedback de los usuarios pilotos - Sprint 2
 
 
 ***MIEMBROS***:
