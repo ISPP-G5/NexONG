@@ -342,11 +342,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>Chat Gpt</td>
    <td>Builder.io</td>
    <td>Anima</td>
+   <td>Bing Copilot</td>
    <td>Total</td>
   </tr>
   <tr>
    <td>11/2/2024</td>
    <td>5</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>5</td>
@@ -356,11 +358,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>2</td>
    <td>1</td>
    <td>1</td>
+   <td>0</td>
    <td>4</td>
   </tr>
   <tr>
    <td>25/2/2024</td>
    <td>2</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>2</td>
@@ -370,6 +374,7 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>3</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>3</td>
   </tr>
   <tr>
@@ -377,19 +382,22 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>5</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>5</td>
   </tr>
   <tr>
    <td>28/3/2024</td>
    <td>3</td>
-   <td>1</td>
    <td>0</td>
+   <td>0</td>
+   <td>1</td>
    <td>4</td>
   </tr>
   <tr>
    <td></td>
    <td>20</td>
-   <td>2</td>
+   <td>1</td>
+   <td>1</td>
    <td>1</td>
    <td>23</td>
   </tr>
