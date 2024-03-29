@@ -262,8 +262,9 @@ Si tienes algún problema durante el testing contacto en Discord con la usuaria 
 
 #### Finalización
 Si en algún momento del testeo has borrado alguna instancia o has aceptado/rechazado alguna solicitud de voluntario, por favor, comuníqueselo por Discord a auroragarciacortes.
+
 15. ¿Algún comentario que quieras añadir?
-16 .Proporciona el enlace de Clockify correspondiente a esta tarea
+16. Proporciona el enlace de Clockify correspondiente a esta tarea
 
 # 4. Pruebas y _feedback_
 
