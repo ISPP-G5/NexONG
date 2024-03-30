@@ -178,3 +178,15 @@ Estas son las seis personas del grupo 11 que hicieron de usuarios pilotos:
 Se les envió el formulario y el despliegue el 25 de marzo, pero Manos Abiertas con Norte aún no han hecho de usuarios piloto. Entendemos que son una organización ocupada y que no tienen un horario flexible. Al ser su feedback tan importante para nosotros, se les dará más márgen.
 
 ### 2.3 Futuros cambios
+
+Tras el feedback recibido por parte del grupo de tarde, desde el grupo de frontend hemos llegado a la conclusión de hacer los siguientes cambios en nuestro código:
+- Mejorar todavía más la versión movil
+- Comprobar formularios para escribir caracteres deseados y limitar el numero
+- Revisar ortografía (seguramente tras el Sprint 3 como revisión de toda la página)
+- Adaptar el nombre de la pestaña de la aplicación
+- (Posible mejora) añadir mapa interactivo en pantalla "Donde estamos"
+- Crear nuevos mensajes de errores mas descriptivos y recargar la página automaticamente (operaciones CUD)
+- Mostrar "No tiene solicitudes" si no hay solicitudes (admin)
+- Cambiar "Añadir educador" y "Convocar asamblea" de pantalla a boton
+- Evitar que se puedan crear asambleas en el pasado 
+- Arreglar los problemas de rendimiento con los 8 recursos mencionados 
