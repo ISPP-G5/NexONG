@@ -1,5 +1,5 @@
 # Usuarios Pilotos - Sprint 2
-
+# NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -46,48 +46,16 @@
 3. Pruebas y feedback	
 
 ## Registro de cambios
-
-<table>
-  <tr>
-   <td><strong>Versión</strong>
-   </td>
-   <td><strong>Fecha</strong>
-   </td>
-   <td><strong>Descripción</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1.0.0</td>
-   <td>1/2/2024</td>
-   <td>Primera versión del documento de usuarios pilotos</td>
-  </tr>
-  <tr>
-   <td>1.1.0</td>
-   <td>8/2/2024</td>
-   <td>Nuevo apartado añadido: Pruebas y <em>feedback</em></td>
-  </tr>
-  <tr>
-   <td>1.2.0</td>
-   <td>15/2/2024</td>
-   <td>Modificación de usuarios pilotos debido a la eliminación de dos ONGs
-   </td>
-  </tr>
-  <tr>
-   <td>2.0.0</td>
-   <td>29/02/2024</td>
-   <td>Gestión de fechas concretas y de las respuestas de los usuarios pilotos</td>
-  </tr>
-  <tr>
-   <td>2.0.1</td>
-   <td>1/03/2024</td>
-   <td>Aclaración sobre la gestión del cliente como usuario piloto</td>
-  </tr>
-  <tr>
-   <td>3.0.0</td>
-   <td>21/03/2024</td>
-   <td>Actualización de fechas</td>
-  </tr>
-</table>
+| Versión | Fecha | Descripción | Participantes |
+|---------|-------|-------------|---------------|
+|1.0.0|1/2/2024|Primera versión del documento de usuarios pilotos||
+|1.1.0|8/2/2024|Nuevo apartado añadido: Pruebas y _feedback_||
+|1.2.0|15/2/2024|Modificación de usuarios pilotos debido a la eliminación de dos ONGs||
+|2.0.0|29/2/2024|Gestión de fechas concretas y de las respuestas de los usuarios pilotos||
+|2.0.1|1/03/2024|Aclaración sobre la gestión del cliente como usuario piloto||
+|3.0.0|21/03/2024|Actualización de fechas|Redacción: AURORA NAVAS JIMÉNEZ Revisor: CLAUDIA GILABERT PRIETO|
+|3.0.1|29/03/2024|Inclusión del contenido y estructura de los formularios de usuarios piloto|Redacción: AURORA NAVAS JIMÉNEZ Revisor: MARÍA NÚÑEZ REYES|
+|3.0.2|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ Revisor: MANUEL ORTIZ BLANCO y PEDRO LOPEZ RUZ|
 
 
 <br/>
