@@ -93,15 +93,13 @@ _Voluntarios_
 _Socios_
 - Inicie sesión con el usuario esteban@gmail.com y la contraseña *parnerio1*.
 
-#### Other requested URLs
+#### Otras URL solicitadas
 
-|                  | URL | Credentials | Observations |
-|------------------|-----|-------------|-|
-| Landing page     |https://ispp-g5.github.io/| | |
-| App Engine (Backend)|     |             |Both the credentials and the URL |
-| App Engine (Frontend)|     |             | |
-| GH backend       |https://github.com/ISPP-G5/NexONG_Backend| |The deployment code is in branch *deploy/s2*|
-| GH frontend      |https://github.com/ISPP-G5/NexONG_Frontend|             | |
-| GH documentation |https://github.com/ISPP-G5/NexONG|             | |
-| Clockify         |     |             | |
-| Demo video       | | |The demo video is on the last release of the documentation repository|
+|                  | URL | Observations |
+|------------------|-----|-|
+| Landing page     |https://ispp-g5.github.io/| | 
+| GH backend       |https://github.com/ISPP-G5/NexONG_Backend|The deployment code is in branch *deploy/s2*|
+| GH frontend      |https://github.com/ISPP-G5/NexONG_Frontend|              |
+| GH documentation |https://github.com/ISPP-G5/NexONG|              |
+| Clockify         |https://app.clockify.me/shared/66085b400f0fa031f07dd478|              |
+| Demo video       | |The demo video is on the last release of the documentation repository|
