@@ -109,16 +109,16 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
 
 Los resultados tras la aplicación de las soluciones
 
-- Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realiza comentarios por cada discrepacia que vaya apareciendo para llegar a un concenso en todos los miembros del grupo.
+- Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realizan comentarios por cada discrepacia que vaya apareciendo para llegar a un concenso entre todos los miembros del grupo.
 
-- Respecto a sistema de evaluaciación a día de la realización del documento se desconoce cual será la complicidad del equipo una vez conozcan los resultados.
+- Respecto al sistema de evaluaciación a día de la realización del documento se desconoce cual será la complicidad del equipo una vez conozcan los resultados.
 
-- Tras relajar las restricciones a la hora de realizar los commits y pull request ha fluido un poco mejor el trabajo aunque todavia a final de semana seguian habiendo pull requests por aprobar por lo que se ha sugerido que todos los miembros del equipo activen las notificaciones por email para mitigar la ralentización.
+- Tras relajar las restricciones a la hora de realizar los commits y pull request ha fluido un poco mejor el trabajo pero todavia a final de semana seguian habiendo pull requests por aprobar y por ello se ha sugerido que todos los miembros del equipo activen las notificaciones por email para mitigar la ralentización.
 
-- Una vez dejado claro la importancia de relizar una buena lectura de las issues y esforzarse por escribir descripciones lo más claras y detalladas posibles, así como dejar un buen comentario de revisión, ha aparecido nuevos comentarios en las reviews mucho más ricas tanto por parte de que ha implementado la issue incorporando formas de como acceder a la tarea realizada y como probarla, tanto por parte de los revisores.
+- Una vez dejado claro la importancia de realizar una buena lectura de las issues y esforzarse por escribir descripciones lo más claras y detalladas posibles, así como dejar un buen comentario de revisión, han aparecido nuevos comentarios en las reviews mucho más ricas tanto por parte de quien ha implementado la issue incorporando formas de como acceder a la tarea realizada y como probarla, tanto por parte de los revisores.
 
-- Acerca de la comunicación entre backend y fronted, ha incrementado la participación de los miembros de frontend preguntando dudas al equipo de backend, aunque todavía hay discrepacias lingüisticas entre miembros, es por ello que varios miembros en la retrospectiva han propuesto realizar una reunión en próximas semana entre ambos equipos.
+- Acerca de la comunicación entre backend y fronted, se ha incrementado la participación de los miembros de frontend preguntando dudas al equipo de backend, aunque todavía hay discrepacias lingüisticas entre miembros, es por ello que varias personas en la retrospectiva han propuesto realizar una reunión en próximas semana entre ambos equipos.
 
-- Tras revertir los cambios, el miembro del equipo en cuestión pidió perdón y revirtió el merge en su rama haciendo que solucionase el problema. Además al integrarse la rama hotfix en develop, los demás miembros al hacer pull de la misma en sus ramas solucionaron los errores causados.
+- Tras revertir los cambios, el miembro del equipo en cuestión pidió perdón y revirtió el merge en su rama haciendo que se solucionase el problema. Además al integrarse la rama hotfix en develop, los demás miembros al hacer pull de la misma en sus ramas, solucionaron los errores causados.
 
-- Cuando los usuarios pilotos de nuestro grupo accedieron a la version desplegada del grupo de tarde, rápidamente se dieron cuenta de que era una versión bastante básica sin apenas funcionalidades, por lo que no pudieron testear demasiado.
+- Cuando los usuarios pilotos de nuestro grupo accedieron a la versión desplegada del grupo de tarde, rápidamente se dieron cuenta de que era una versión bastante básica sin apenas funcionalidades, por lo que no pudieron testear demasiado.
