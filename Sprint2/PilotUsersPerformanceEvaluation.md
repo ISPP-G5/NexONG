@@ -1,5 +1,5 @@
 # Pilot Users Performance Evaluation - Sprint 2
-
+# NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -36,7 +36,12 @@
   </tr>
 </table>
 
-# PILOT USER ISPP GROUP NUMBER: 11
+## Registro de cambios
+| Versión | Fecha | Descripción | Participantes |
+|---------|-------|-------------|---------------|
+|1.0.0|30/03/2024|Sprint 2 evaluation|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: MARTA INÉS GONZÁLEZ DIÁNEZ|
+
+## PILOT USER ISPP GROUP NUMBER: 11
 
 | Factor            | #S1 | #S2 | #S3 | #PPL | #WPL |
 |-------------------|-----|-----|-----|------|------|
