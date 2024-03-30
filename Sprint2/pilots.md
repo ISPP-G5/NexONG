@@ -242,6 +242,6 @@ Una vez obtenido el feedback sobre el _mockup_, comenzará la parte de desarroll
 
 Gracias a los formularios que proporcionaremos, podremos comprobar las fortalezas y flaquezas de nuestro código, además de apuntar cualquier sugerencia sobre la interfaz o experiencia de usuario. 
 
-La información será recogida en un documento llamado **5-Feedback-Pilot-Users**. El feedback con respecto a errores se tendrá en cuenta de inmediato para mitigarlos. Con respecto a las sugerencias y la intuitividad, se tendrá especialmente en cuenta si es de parte de la ONG, ya que ellos son nuestros clientes y las personas que usarán el software. Todo lo que no supongan cambios de la base de la aplicación se incluirá como tarea para el sprint siguiente. 
+La información será recogida en un documento llamado **InformationProvidedByPilotUsers.md**. El feedback con respecto a errores se tendrá en cuenta de inmediato para mitigarlos. Con respecto a las sugerencias y la intuitividad, se tendrá especialmente en cuenta si es de parte de la ONG, ya que ellos son nuestros clientes y las personas que usarán el software. Todo lo que no supongan cambios de la base de la aplicación se incluirá como tarea para el sprint siguiente. 
 
 Como se ha mencionado anteriormente, la ONG va a contar con más margen de tiempo para completar su labor como usuarios pilotos. Así que, si como mucho tardan una semana para testear el software, su feedback se tendrá en cuenta para la segunda semana del sprint como muy tarde. 
