@@ -56,11 +56,16 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Participantes</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>16/3/2024</td>
    <td>Primera versión</td>
+   <td>
+     Redacción: FRANCISCO DE ASÍS ROSSO RAMÍREZ Revisión: CLAUDIA GILABERT PRIETO
+   </td>
   </tr>
   <tr>
     <td>1.1.0</td>
@@ -70,6 +75,9 @@
         <li>Ampliación del apartado 3</li>
         <li>Corrección de erratas</li>
       </ul>
+    </td>
+    <td>
+      Redacción: FRANCISCO DE ASÍS ROSSO RAMÍREZ Revisión: AURORA NAVAS JIMÉNEZ
     </td>
   </tr>
 </table>
