@@ -1,7 +1,7 @@
-﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
-Repositorio: <https://github.com/ISPP-G5>
 
 ***MIEMBROS***:
 
@@ -56,6 +56,8 @@ Repositorio: <https://github.com/ISPP-G5>
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Participantes</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
@@ -66,6 +68,7 @@ Repositorio: <https://github.com/ISPP-G5>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 6 (Sprint 2)</td>
+   <td>Redacción: PEDRO LÓPEZ RUZ Revisor: CLAUDIA GILABERT PRIETO</td>
   </tr>
     <tr>
    <td>3.0.0</td>
