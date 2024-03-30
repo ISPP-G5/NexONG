@@ -40,6 +40,9 @@
 | Versión | Fecha | Descripción | Participantes |
 |---------|-------|-------------|---------------|
 |1.0.0|30/03/2024|Sprint 2 evaluation|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: MARTA INÉS GONZÁLEZ DIÁNEZ|
+|1.0.1|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
+
+
 
 ## PILOT USER ISPP GROUP NUMBER: 11
 
