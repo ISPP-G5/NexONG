@@ -1,4 +1,6 @@
-﻿# &nbsp; Organización de Grupo - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organización de Grupo - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+
 
 
 ***MIEMBROS***:
@@ -55,6 +57,8 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Participantes</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
@@ -65,6 +69,13 @@
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Segunda versión por solicitud del grupo</td>
+   <td>Redacción: PEDRO LÓPEZ RUZ Revisor:MANUEL ORTIZ BLANCO Y MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+  </tr>
+  <tr>
+   <td>2.0.0</td>
+   <td>30/3/2024</td>
+   <td>Tecera Versión</td>
+   <td>Redacción: PEDRO LÓPEZ RUZ Revisor:MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
