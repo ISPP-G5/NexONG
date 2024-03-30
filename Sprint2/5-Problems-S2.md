@@ -47,9 +47,9 @@
 ## Registro de cambios
 **Versión** | **Fecha** | **Descripción**| **Participantes** 
 --- | --- | --- | --- 
-1.0.0 | 7/3/2024 | Primera versión
-2.0.0 | 16/3/2024 | Segunda versión
-3.0.0 | 30/3/2024 | Tercera versión | Redacción: PEDRO LÓPEZ RUZ Revisor: SAMUEL LUIS RODRÍGUEZ MANESS
+1.0.0 | 7/3/2024 | Semana 6 | Redacción: SAMUEL LUIS RODRÍGUEZ MANESS Revisor: MARÍA NÚÑEZ REYES
+2.0.0 | 16/3/2024 | Semana 7 | Redacción: MARÍA NÚÑEZ REYES Revisor: CLAUDIA GILABERT PRIETO
+3.0.0 | 30/3/2024 | Semana 8 | Redacción: PEDRO LÓPEZ RUZ Revisor: SAMUEL LUIS RODRÍGUEZ MANESS
 
 
 ## Introducción
