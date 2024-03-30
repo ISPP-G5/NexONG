@@ -1,4 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
 ***MIEMBROS***:
@@ -58,46 +59,57 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Participantes</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>2/2/2024</td>
    <td>Primera versión</td>
+   <td></td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>15/2/2024</td>
    <td>Añadido el registro de usos</td>
+   <td></td>
   </tr>
   <tr>
    <td>3.0.0</td>
    <td>23/2/2024</td>
    <td>Añadido usos directos en el proyecto</td>
+   <td></td>
   </tr>
   <tr>
    <td>3.0.1</td>
    <td>24/2/2023</td>
    <td>Cambios de revisión</td>
+   <td></td>
   </tr>
   <tr>
    <td>4.0.0</td>
    <td>2/3/2024</td>
    <td>Actualizado el registro de usos</td>
+   <td></td>
   </tr>
   <tr>
    <td>5.0.0</td>
    <td>9/3/2024</td>
    <td>Actualizado el registro de usos</td>
+   <td></td>
   </tr>
   <tr>
    <td>6.0.0</td>
    <td>16/3/2024</td>
    <td>Actualizado el registro de usos</td>
+   <td></td>
   </tr>
   <tr>
    <td>7.0.0</td>
-   <td>28/3/2024</td>
-   <td>Actualizado el registro de usos y cambios en como mostrar los registros</td>
+   <td>30/3/2024</td>
+   <td>Actualizado el registro de usos y descripción, además de cambiar en como mostrar los registros</td>
+   <td>Redacción: MANUEL ORTIZ BLANCO
+   Revisor: FÉLIX ÁNGEL GUDIEL GÜEMES</td>
   </tr>
 </table>
 
