@@ -1,5 +1,5 @@
 # Feedback de los usuarios pilotos - Sprint 2
-
+# NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -48,21 +48,11 @@
 
 ## Registro de cambios
 
-<table>
-  <tr>
-   <td><strong>Versión</strong>
-   </td>
-   <td><strong>Fecha</strong>
-   </td>
-   <td><strong>Descripción</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1.0.0</td>
-   <td>28/03/2024</td>
-   <td>Feedback del Sprint 2</td>
-  </tr>
-</table>
+| Versión | Fecha | Descripción | Participantes |
+|---------|-------|-------------|---------------|
+|1.0.0|28/03/2024|Feedback del Sprint 2|Redacción: AURORA NAVAS JIMÉNEZ Revisión: MARÍA NÚÑEZ REYES|
+|1.0.1|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ Revisión: MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
+
 
 ## 1. Introducción
 El presente documento tiene como objetivo principal recopilar y analizar el valioso feedback proporcionado por los usuarios pilotos, previamente definidos en el documento **5-Pilot-Users**. Este proceso de retroalimentación juega un papel fundamental en el desarrollo y mejora continua de nuestra aplicación, ya que nos brinda una perspectiva directa de las experiencias, necesidades y sugerencias de aquellos que están utilizando activamente nuestra plataforma en su fase inicial.
