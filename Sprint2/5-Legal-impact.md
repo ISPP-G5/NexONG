@@ -1,4 +1,5 @@
-﻿# Impacto Legal del Proyecto
+﻿# Impacto Legal del Proyecto - Sprint 2
+# Nexong - Grupo 5
 
  ***MIEMBROS***:
 
