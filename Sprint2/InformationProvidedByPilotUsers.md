@@ -55,13 +55,13 @@
 
 
 ## 1. Introducción
-El presente documento tiene como objetivo principal recopilar y analizar el valioso feedback proporcionado por los usuarios pilotos, previamente definidos en el documento **5-Pilot-Users**. Este proceso de retroalimentación juega un papel fundamental en el desarrollo y mejora continua de nuestra aplicación, ya que nos brinda una perspectiva directa de las experiencias, necesidades y sugerencias de aquellos que están utilizando activamente nuestra plataforma en su fase inicial.
+El presente documento tiene como objetivo principal recopilar y analizar el valioso feedback proporcionado por los usuarios pilotos, previamente definidos en el documento **pilots.md**. Este proceso de retroalimentación juega un papel fundamental en el desarrollo y mejora continua de nuestra aplicación, ya que nos brinda una perspectiva directa de las experiencias, necesidades y sugerencias de aquellos que están utilizando activamente nuestra plataforma en su fase inicial.
 
 ## 2. Sprint 2
-En el Sprint 2, la aplicación desplegada junto al formulario (definido en el documento **5-Pilot-Users**) se entregó el 25 de marzo. Posteriormente, el formulario se cerró el 27 de marzo para el grupo de tarde y el 2 de abril para Manos Abiertas con Norte. Cabe destacar que se hizo un formulario para cada uno de los dos tipos de usuarios piloto.
+En el Sprint 2, la aplicación desplegada junto al formulario (definido en el documento **pilots.md**) se entregó el 25 de marzo. Posteriormente, el formulario se cerró el 27 de marzo para el grupo de tarde y el 2 de abril para Manos Abiertas con Norte. Cabe destacar que se hizo un formulario para cada uno de los dos tipos de usuarios piloto.
 
 ### 2.1 Feedback del grupo 11
-Según el commitment agreement de usuarios piloto con el grupo 11 de la tarde, serían 8 personas de cada grupo las que harían el testing. A 28 de marzo a las 00:00 solo obtuvimos 6 respuestas, con lo cual, el grupo 11 incumplió el acuerdo. También cabe destacar que parte del feedback recibido no nos es de gran ayuda, ya que muestra que la información incluida en el formulario no fue leída con atención. Por ejemplo, mucho feedback corresponde a temas de autenticación de usuarios, cosa que en el formulario se indicó que aún no estaba implementada. Aún así, este es el feedback recibido:
+Según el commitment agreement de usuarios piloto con el grupo 11 de la tarde, serían 8 personas de cada grupo las que harían el testing. A 28 de marzo a las 00:00 solo obtuvimos 6 respuestas, con lo cual, el grupo 11 incumplió el acuerdo. Además, el grupoTambién cabe destacar que parte del feedback recibido no nos es de gran ayuda, ya que muestra que la información incluida en el formulario no fue leída con atención. Por ejemplo, mucho feedback corresponde a temas de autenticación de usuarios, cosa que en el formulario se indicó que aún no estaba implementada. Aún así, este es el feedback recibido:
 #### General
 ###### Errores
 - Arreglar la visibilidad de la versión móvil.
@@ -178,15 +178,4 @@ Estas son las seis personas del grupo 11 que hicieron de usuarios pilotos:
 Se les envió el formulario y el despliegue el 25 de marzo, pero Manos Abiertas con Norte aún no han hecho de usuarios piloto. Entendemos que son una organización ocupada y que no tienen un horario flexible. Al ser su feedback tan importante para nosotros, se les dará más márgen.
 
 ### 2.3 Futuros cambios
-
-Tras el feedback recibido por parte del grupo de tarde, desde el grupo de frontend hemos llegado a la conclusión de hacer los siguientes cambios en nuestro código:
-- Mejorar todavía más la versión movil
-- Comprobar formularios para escribir caracteres deseados y limitar el numero
-- Revisar ortografía (seguramente tras el Sprint 3 como revisión de toda la página)
-- Adaptar el nombre de la pestaña de la aplicación
-- (Posible mejora) añadir mapa interactivo en pantalla "Donde estamos"
-- Crear nuevos mensajes de errores mas descriptivos y recargar la página automaticamente (operaciones CUD)
-- Mostrar "No tiene solicitudes" si no hay solicitudes (admin)
-- Cambiar "Añadir educador" y "Convocar asamblea" de pantalla a boton
-- Evitar que se puedan crear asambleas en el pasado 
-- Arreglar los problemas de rendimiento con los 8 recursos mencionados 
+Tras el feedback recibido por parte del grupo de tarde, habrá una tarea durante el Sprint 3 que será la mitigación de errores y la implementación de sugerencias. El feedback general y el seguridad se tendrán completamente en cuenta en el desarrollo de dicha tarea. Sin embargo, en el rendimiento no se tendrán en cuenta el LCP y el CLS, pero se investigarán las otras cuestiones.
