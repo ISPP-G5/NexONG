@@ -50,7 +50,7 @@
 
 | Versión | Fecha | Descripción | Participantes |
 |---------|-------|-------------|---------------|
-|1.0.0|28/03/2024|Feedback del Sprint 2|Redacción: AURORA NAVAS JIMÉNEZ Revisión: MARÍA NÚÑEZ REYES|
+|1.0.0|28/03/2024|Feedback del Sprint 2|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: SAMUEL LUIS RODRÍGUEZ MANESS|
 |1.0.1|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ Revisión: MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
 
 
