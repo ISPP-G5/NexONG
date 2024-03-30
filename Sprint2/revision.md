@@ -39,7 +39,6 @@
 ## Índice
 1. Mapeo de los usos core
 2. Información necesaria para la prueba
-3. Link al video demo
 
 ## Registro de cambios
 | Versión | Fecha | Descripción | Participantes |
