@@ -48,10 +48,10 @@
 
 | Factor            | #S1 | #S2 | #S3 | #PPL | #WPL |
 |-------------------|-----|-----|-----|------|------|
-| Punctuality       |  1  |  4  |     |      |      |
-| Feedback validity |  1  |  5  |     |      |      |
-| Feedback amount   |  1  | 10  |     |      |      |
-| Feedback amount   |  1  |  3  |     |      |      |
+| Punctuality       |  x  |  4  |     |      |      |
+| Feedback validity |  x  |  7  |     |      |      |
+| Feedback amount   |  x  | 10  |     |      |      |
+| Fellowship        |  x  |  3  |     |      |      |
 
 
 *Please, score from 1 to 10 each factor in each development cycle of your product.*
