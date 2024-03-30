@@ -1,5 +1,5 @@
-# Problemas Sprint 2
-**26 de Marzo del 2024**
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
 ***MIEMBROS***:
@@ -45,11 +45,11 @@
 4. Soluciones
 
 ## Registro de cambios
-**Versión** | **Fecha** | **Descripción**
---- | --- | ---
+**Versión** | **Fecha** | **Descripción**| **Participantes** 
+--- | --- | --- | --- 
 1.0.0 | 7/3/2024 | Primera versión
 2.0.0 | 16/3/2024 | Segunda versión
-3.0.0 | 26/3/2024 | Tercera versión
+3.0.0 | 30/3/2024 | Tercera versión | Redacción: PEDRO LÓPEZ RUZ Revisor: SAMUEL LUIS RODRÍGUEZ MANESS
 
 
 ## Introducción
