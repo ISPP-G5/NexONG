@@ -45,6 +45,8 @@
    3. Nota máxima de los miembros del equipo
    4. Formatos acordados en los repositorios de equipo
    5. Responsabilidades individuales en S1
+   6. Rendimiento del S2
+   7. Responsabilidades individuales en S2
 
 
 ## Registro de cambios
@@ -57,16 +59,33 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+    </td>
+   <td><strong>Redacción</strong>
+   </td>
+    </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>29/2/2024</td>
    <td>Primera versión del anexo</td>
+    <td>Pablo Periañez</td>
+    <td>Marta Gonzalez</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Cambio en la performance por solicitud del equipo</td>
+    <td>Pablo Periañez</td>
+        <td>Marta Gonzalez</td>
+  </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>21/3/2024</td>
+   <td>Cambio en la formula por consistencia</td>
+    <td>Pablo Periañez</td>
+        <td>Marta Gonzalez</td>
   </tr>
 </table>
 
@@ -271,3 +290,68 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Arquitectura
 
 Cabe destacar que esto es una asignación de responsabilidades y no tiene relación con las actividades finalmente realizadas por cada miembro.
+
+## Rendimiento del S2
+
+Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint2:
+
+(PM)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png]
+(TL_Back)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png]
+
+## Responsabilidades individuales en S2
+
+Se acuerda, mediante consenso, asignar responsabilidades individuales y compartidas a todos los miembros del equipo durante el Sprint 2. Es de suma importancia que estas tareas se completen dentro del plazo establecido, siendo acompañadas de posibles recompensas por su ejecución exitosa o, en caso de incumplimiento, de las consecuencias definidas en el Commitment Agreement. A continuación se describen las responsabilidades individuales comprometidas por cada miembro del equipo:
+
+* AURORA NAVAS JIMÉNEZ
+    * Deploy
+    * Suggestion Model and CRUD
+    * Pilots users management
+    * Do as pilot user
+    * Performance evaluation
+    * Software review guidlines
+* CLAUDIA GILABERT PRIETO
+    * Liderar el equipo de frontend
+    * Frontend login
+    * Favicon
+    * Educators component
+    * Kids evaluation
+    * Deploy frontend
+    * Partners
+    * Educator evaluation
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * 
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * 
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * 
+* IVÁN RAMÍREZ LARA
+    * 
+* MANUEL ORTIZ BLANCO
+    * 
+* JUAN LUIS RUANO MURIEDAS
+    * 
+* MARÍA NÚÑEZ REYES
+    * 
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Retrospectiva
+    * Presentación W4 y W5
+    * Modificación de requisitos
+    * Estilos de la app
+    * Exportar Mock-ups
+    * Información requerida por la ONG
+    * Reunión con la ONG
+    * Pantalla de Transparencia de la Homepage
+* MIGUEL ANGEL ROMALDE DORADO
+    * TCO: Capex, Opex
+    * 
+* PABLO PERIÁÑEZ CABRERO
+    * Liderar el equipo de backend
+    * 
+* PEDRO LOPEZ RUZ
+    * 
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * 
+* SERGIO AGUAYO OROZCO
+    * 
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * 
