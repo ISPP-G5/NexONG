@@ -41,9 +41,9 @@
 2. Información necesaria para la prueba
 
 ## Registro de cambios
-| Versión | Fecha | Descripción | Participantes |
-|---------|-------|-------------|---------------|
-|1.0.0|30/03/2024|Sprint 2 guidelines|Redacción: AURORA NAVAS JIMÉNEZ Revisión: PABLO PERIÁÑEZ CABRERO|
+| Versión | Fecha | Descripción | Redacción | Revisión |
+|---------|-------|-------------|---------------|-|
+|1.0.0|30/03/2024|Sprint 2 guidelines|AURORA NAVAS JIMÉNEZ|PABLO PERIÁÑEZ CABRERO|
 
 ## 1. Mapeo de los usos core
 En nuestro caso, los usos core han cambiado un par de veces a lo largo del proyecto. Esto se debe a que en cada reunión con Manos Abiertas con Norte los requisitos se refinaban un poco más, con lo cual, no tiene ningún sentido que los casos de uso core iniciales persistieran. Finalmente, estos son nuestros casos de uso core:
@@ -101,5 +101,5 @@ _Socios_
 | GH backend       |https://github.com/ISPP-G5/NexONG_Backend|The deployment code is in branch *deploy/s2*|
 | GH frontend      |https://github.com/ISPP-G5/NexONG_Frontend|              |
 | GH documentation |https://github.com/ISPP-G5/NexONG|              |
-| Clockify         |https://app.clockify.me/shared/66085b400f0fa031f07dd478|              |
+| Clockify         |[https://app.clockify.me/shared/66085b400f0fa031f07dd478](https://app.clockify.me/shared/660996276cf4e742fab78a5b)|              |
 | Demo video       | |The demo video is on the last release of the documentation repository|
