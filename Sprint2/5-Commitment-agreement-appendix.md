@@ -237,6 +237,11 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Esquema DB
     * Roles de usuario
     * CRUD de evaluación
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Dropdown de la Homepage sobre la Asociación
+    * Pantalla de Administrador de clases, eventos y proyectos
+    * Análisis de costes
+    * Arquitectura
 * MARÍA NÚÑEZ REYES
     * Governify
     * Usuarios pilotos
@@ -283,11 +288,6 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Planificación del modelo
     * CRUD de donaciones
     * Revisitar CRUD de evento y crear CRUD de excursión
-* MANUEL FRANCISCO BARCIA JIMENEZ
-    * Dropdown de la Homepage sobre la Asociación
-    * Pantalla de Administrador de clases, eventos y proyectos
-    * Análisis de costes
-    * Arquitectura
 
 Cabe destacar que esto es una asignación de responsabilidades y no tiene relación con las actividades finalmente realizadas por cada miembro.
 
@@ -310,7 +310,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Performance evaluation
     * Software review guidlines
 * CLAUDIA GILABERT PRIETO
-    * Liderar el equipo de frontend
+    * Frontend team lead
     * Frontend login
     * Favicon
     * Educators component
@@ -318,40 +318,88 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Deploy frontend
     * Partners
     * Educator evaluation
+    * Do as pilot user
 * FÉLIX ÁNGEL GUDIEL GÜEMES
-    * 
+    * AI Report
+    * Business logic
+    * Populate
+    * Deploy
+    * Do as pilot user
 * FRANCISCO DE ASÍS ROSSO RAMÍREZ
-    * 
+    * Legal impact
+    * Donations and Suggestions in navbar
+    * Suggestion admin
 * FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
-    * 
+    * Landing page
+    * Admin profile
+    * Volunteer profile
+    * Update profile
+    * Do as pilot user
 * IVÁN RAMÍREZ LARA
-    * 
+    * Volunteer, educators and partner admin
+    * Add educator
+    * Volunteer form
 * MANUEL ORTIZ BLANCO
-    * 
+    * Poker planning
+    * Expected aspects review
+    * Failure Conditions review and check
+    * AI Report
+    * Backend documentation
+    * Email validation
 * JUAN LUIS RUANO MURIEDAS
-    * 
-* MARÍA NÚÑEZ REYES
-    * 
-* MARTA INÉS GONZÁLEZ DIÁNEZ
-    * Retrospectiva
-    * Presentación W4 y W5
-    * Modificación de requisitos
-    * Estilos de la app
-    * Exportar Mock-ups
-    * Información requerida por la ONG
-    * Reunión con la ONG
-    * Pantalla de Transparencia de la Homepage
-* MIGUEL ANGEL ROMALDE DORADO
-    * TCO: Capex, Opex
-    * 
-* PABLO PERIÁÑEZ CABRERO
-    * Liderar el equipo de backend
-    * 
-* PEDRO LOPEZ RUZ
-    * 
-* SAMUEL LUIS RODRÍGUEZ MANESS
-    * 
-* SERGIO AGUAYO OROZCO
-    * 
+    * Fixes for frontend
+    * Authorisations for admin, educative centre, educator, volunteer, partner, student, family and volunteer
+    * Do as pilot user
 * MANUEL FRANCISCO BARCIA JIMENEZ
-    * 
+    * Customer agreement
+    * Volunteer component
+    * Volunteer agreement
+    * Volunteer agenda
+    * Volunteer attendance
+    * Volunteer event
+* MARÍA NÚÑEZ REYES
+    * Problems encountered
+    * Agreement with pilots users
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Manage the project as PM
+    * Retrospective
+    * Presentations
+    * Storyboard
+    * Evaluation and performance system
+    * Frontend agenda
+    * Do as pilot user
+* MIGUEL ANGEL ROMALDE DORADO
+    * TCO
+    * Export the donations and punctual donations
+    * Punctual donations CRUD
+    * Payment method (Can be delayed to S3)
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * New evaluation and performace system
+    * Poker planning
+    * Commitment agreement
+    * Expected aspect review
+    * Documents name
+    * Files organisation
+* PEDRO LOPEZ RUZ
+    * Learned lessons
+    * RACI Matrix
+    * FC teams review
+    * Group organisation
+    * Problems encountered
+    * Backend documentation
+    * Export Students
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Problems encountered
+    * Learned lessons
+    * Demo video S2
+    * Admin classes,projects and events
+    * Activities educators
+    * Event creation
+    * Do as pilot user
+* SERGIO AGUAYO OROZCO
+    * Common database
+    * Do as pilot user
+    * Advertisement
+    * Register and login
+    * Authorisation framework
