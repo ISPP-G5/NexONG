@@ -1,4 +1,6 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retrospectiva - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retrospectiva - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+
 
 
 ***MIEMBROS***:
@@ -44,7 +46,8 @@
 3. Retrospectiva 02.03
 4. Retrospectiva 09.03
 5. Retrospectiva 16.03
-6. Conclusiones
+6. Retrospectiva 23.03
+7. Conclusiones
 
 
 
@@ -59,26 +62,45 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>25/2/2024</td>
    <td>Primera versión (Retrospectiva 24.02)</td>
+    <td>Marta Inés González Diánez</td>
+    <td>Pedro Lopez Ruz</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>3/3/2024</td>
    <td>Añadir Retrospectiva 02.03</td>
+   <td>Marta Inés González Diánez</td>
+   <td>Pablo Periañez Cabrero</td>
   </tr>
   <tr>
    <td>3.0.0</td>
    <td>10/3/2024</td>
    <td>Añadir Retrospectiva 09.03</td>
+   <td>Marta Inés González Diánez</td>
+   <td>Miguel Ángel Romalde Dorado</td>
   </tr>
   <tr>
    <td>4.0.0</td>
    <td>20/3/2024</td>
    <td>Añadir Retrospectiva 16.03</td>
+   <td>Marta Inés González Diánez</td>
+   <td>Manuel Ortiz Blanco</td>
+  </tr>
+  <tr>
+   <td>5.0.0</td>
+   <td>30/3/2024</td>
+   <td>Añadir Retrospectiva 23.03</td>
+   <td>Marta Inés González Diánez</td>
+   <td>Manuel Ortiz Blanco</td>
   </tr>
 </table>
 
@@ -391,6 +413,67 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - In-between deadline  so we can see the status of each task before the final deadline  ( Marta González, 1 Up Vote  )
 
 
+# 6. Retrospectiva 23.03
+
+**Participants:** 
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Went Well
+- Everything went better than lasts weeks  ( Pablo P )
+- Documentation tasks assigned since the first day of the week  ( Pedro López Ruz )
+- Everyone si very educated and mindful  makes for a good working enviroment  ( Juan Luis Ruano )
+- Support between team members  ( Manuel Ortiz Blanco )
+- Backend deploy in app engine  ( Anonymous, 1 Up Vote  )
+- Good effort reviewing each other's PRs (frontend) and giving good feedback  ( Samuel  )
+- Team work helping each other with coding problems  ( Claudia Gilabert Prieto )
+- PRs from frontend were all closed on saturday way before the deadline for the first time  ( Maria, 2 Up Votes  )
+- Communication with client  ( Aurora Navas )
+
+
+### To Improve
+- Research more in deep the tasks you don’t know how to proceed  ( Pablo P )
+- Hard to keep track of changes in requirements  ( Samuel  )
+- Communication between team leaders  ( Claudia Gilabert Prieto, 2 Up Votes  )
+- Communication between backend and frontend  ( Maria, 3 Up Votes  )
+- Communication between TL  ( Aurora Navas, 2 Up Votes  )
+
+
+### Action Items
+- The team leader of each team must communicate with the person before assigning new tasks not foreseen in order to know the availability.  ( Pedro López Ruz )
+- have meetings between front and back teams to find out what is needed  ( Manuel Ortiz Blanco )
+- Having meetings between frontend and backend before changing how everything works  ( Francisco Calderón )
+
 
 # 6. Conclusiones
 
@@ -400,4 +483,6 @@ En la segunda semana del Sprint 1, los resultados de la retrospectiva se vuelven
 
 Después de la retrospectiva de la semana pasada y habernos reunido todos para discutir la situación, se empiezan a ver mejoras en cuanto a la comunicación entre los miembros del equipo y el como se agradece el haber hablado de los problemas. Sin embargo, las cosas que mejorar siguen aumentando semanalmente de manera alarmante, lo que nos hace planteranos más posibles medidas que tomar para abordar la situación.
 
-Finalmente, tras la restrospectiva del 16 de marzo, se ve una mejora en el ambiente de equipo, aumentando el número de cosas que han ido bien y disminuyendo considerablemente las cosas que mejorar, las cuales son también más constructivas. Gracias a esta retrospectiva nos hemos dado cuenta de que las soluciones que estamos implementando funcionan. 
+Finalmente, tras la restrospectiva del 16 de marzo, se ve una mejora en el ambiente de equipo, aumentando el número de cosas que han ido bien y disminuyendo considerablemente las cosas que mejorar, las cuales son también más constructivas. Gracias a esta retrospectiva nos hemos dado cuenta de que las soluciones que estamos implementando funcionan.
+
+Siguiendo la línea de avance postivo que llevabamos las últimas semanas, la retrospectiva del día 23 de marzo vuelve a ser optimista. Sin embargo, si que se detectan algunos problemas graves que hay que solucionar, como puede ser la comunicación entre Backend y Frontend, aunque también se ofrece una clara solución, que es que los líderes de ambos equipos tengan un mayor nivel de comunicación entre ellos. Pero en esta semana lo que vemos más importante destacar es la mejora, ya no solo del ambiente, sino también de la organización de las tareas. 
