@@ -742,7 +742,7 @@ Por último, se ha analizado y tenido en cuenta para el TCO, los costes de marke
 |                 Reservas de contingencia                  | **5.492,05€**   |
 |               Costes totales en producción                | **96.758,62€**  |
 |                         **Total**                         | **157.171,15€** |
-|                          **Mes**                          | **13.097,60€**  |
+|                     **TCO (por mes)**                     | **13.097,60€**  |
 
 Si además queremos ver el Capex y el Opex, vamos a calcular lo que equivale a cada uno. Lo primero que vamos a ver es que es:
 
@@ -752,26 +752,26 @@ Si además queremos ver el Capex y el Opex, vamos a calcular lo que equivale a c
 
 Para el Capex:
 
-|          **Capex**           |                |
-| :--------------------------: | :------------- |
-|     Costes del material      | **9.600€**     |
-|   Amortización de equipos    | **3000€**      |
-| Coste de licencias iniciales | **825,86€**    |
-|     Coste del despliegue     | **20736€/año** |
-|      Coste del dominio       | **50€/año**    |
-|          **Total**           | **54.261,86€** |
+|            **Capex**            |               |
+| :-----------------------------: | :------------ |
+|       Costes del material       | **9.600€**    |
+|     Amortización de equipos     | **3.000€**    |
+| Sueldos mensuales en desarrollo | **27.736,5€** |
+|            **Total**            | **40.336,5€** |
 
 Para el Opex:
 
-|              **Opex**              |                 |
-| :--------------------------------: | :-------------- |
-|    Costes salariales del equipo    | **61.594,50€**  |
-|      Costes derivados totales      | **3.775€**      |
-|    Costes de licencias totales     | **19.820,64€**  |
-| Costes derivados del mantenimiento | **3.330€**      |
-|   Costes licencias en producción   | **8.228,56€**   |
-| Costes de marketing en producción  | **7.367,20€**   |
-|             **Total**              | **102.420,90€** |
+|              **Opex**              |                |
+| :--------------------------------: | :------------- |
+|    Costes salariales del equipo    | **61.594,50€** |
+|      Costes derivados totales      | **3.775€**     |
+|    Costes de licencias totales     | **19.820,64€** |
+| Costes derivados del mantenimiento | **3.330€**     |
+|   Costes licencias en producción   | **8.228,56€**  |
+| Costes de marketing en producción  | **7.367,20€**  |
+|        Coste del despliegue        | **20736€/año** |
+|         Coste del dominio          | **50€/año**    |
+|             **Total**              | **123.206,9€** |
 
 # **4. ROI.**
 
