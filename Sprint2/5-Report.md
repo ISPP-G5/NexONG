@@ -1,4 +1,6 @@
-# Informe de contribuciones a la base de datos común - Sprint 1
+# Informe de contribuciones a la base de datos común - Sprint 2
+
+# NexOng - Grupo 5
 
 **_MIEMBROS_**:
 
@@ -74,6 +76,12 @@
    <td>19/03/2024</td>
    <td>Actualización del documento</td>
   </tr>
+  </tr>
+   <td>1.4.0</td>
+   <td>30/03/2024</td>
+   <td>Modificar formato de plantilla. Adición de más acciones llevadas a cabo</td>
+  </tr>
+
 </table>
 
 <br/>
@@ -240,3 +248,17 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 -   Hemos añadido al análisis de competencias las principales competencias, distinguiendo entre las que ofrecen servicios open source y las que no.
 -   Hemos explicado los riesgos de manera más extensa.
 -   Hemos expresado el valor del porcentaje de contingencia de manera correcta.
+-   Hemos calculado precio de github actions.
+-   Hemos aumentado la matriz RACI.
+-   Usamos documentación como código con docsaurus.
+-   Añadimos al commitment los responsables de cada tarea.
+-   Indicamos en presentación porcentaje de cuánto hemos hecho de lo que debíamos hacer.
+-   Hemos creado landing page.
+-   Hemos calculado los minutos de github actions.
+-   Hemos cambiado el project manager.
+-   Usamos un intermediario para solucionar problemas.
+-   Hemos creado tareas de seguimiento.
+-   Hemos desanonimizado nuestras evaluaciones.
+-   Sustituimos lessons por lectures.
+-   Hemos mejorado cómo mostramos las horas del clockify.
+-   Hemos creado development agreement.
