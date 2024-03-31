@@ -297,6 +297,7 @@ Según las medidas explicadas anteriormente, los miembros del equipo han obtenid
 
 (PM)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png]
 (TL_Back)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png]
+(TL_Front)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image3.png]
 
 ## Responsabilidades individuales en S2
 
