@@ -1,5 +1,5 @@
-﻿# Impacto Legal del Proyecto - Sprint 2
-# Nexong - Grupo 5
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Impacto Legal del Proyecto - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nexong - Grupo 5
 
  ***MIEMBROS***:
 
@@ -57,7 +57,9 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
-   <td><strong>Participantes</strong>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
    </td>
   </tr>
   <tr>
@@ -65,8 +67,9 @@
    <td>16/3/2024</td>
    <td>Primera versión</td>
    <td>
-     Redacción: FRANCISCO DE ASÍS ROSSO RAMÍREZ Revisión: CLAUDIA GILABERT PRIETO
+      FRANCISCO DE ASÍS ROSSO RAMÍREZ
    </td>
+   <td>CLAUDIA GILABERT PRIETO</td>
   </tr>
   <tr>
     <td>1.1.0</td>
@@ -78,8 +81,9 @@
       </ul>
     </td>
     <td>
-      Redacción: FRANCISCO DE ASÍS ROSSO RAMÍREZ Revisión: AURORA NAVAS JIMÉNEZ
+      FRANCISCO DE ASÍS ROSSO RAMÍREZ
     </td>
+    <td>AURORA NAVAS JIMÉNEZ</td>
   </tr>
 </table>
 

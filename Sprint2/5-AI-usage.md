@@ -59,7 +59,9 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
-   <td><strong>Participantes</strong>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
    </td>
   </tr>
   <tr>
@@ -96,20 +98,22 @@
    <td>5.0.0</td>
    <td>9/3/2024</td>
    <td>Actualizado el registro de usos</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
   </tr>
   <tr>
    <td>6.0.0</td>
    <td>16/3/2024</td>
    <td>Actualizado el registro de usos</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
   </tr>
   <tr>
    <td>7.0.0</td>
    <td>30/3/2024</td>
    <td>Actualizado el registro de usos y descripción, además de cambiar en como mostrar los registros</td>
-   <td>Redacción: MANUEL ORTIZ BLANCO
-   Revisor: FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MANUEL ORTIZ BLANCO</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
   </tr>
 </table>
 
