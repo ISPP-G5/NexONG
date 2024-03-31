@@ -645,3 +645,104 @@ Version: 2.0
 - CRUD Donations 
 - Revisit Event CRUD and Create Excursion CRUD
 
+## Sprint 2 (#S2)
+
+* AURORA NAVAS JIMÉNEZ
+    * Deploy
+    * Suggestion Model and CRUD
+    * Pilots users management
+    * Act as pilot user
+    * Performance evaluation
+    * Software review guidlines
+* CLAUDIA GILABERT PRIETO
+    * Frontend team lead
+    * Frontend login
+    * Favicon
+    * Educators component
+    * Kids evaluation
+    * Deploy frontend
+    * Partners
+    * Educator evaluation
+    * Act as pilot user
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * AI Report
+    * Business logic
+    * Populate
+    * Deploy
+    * Act as pilot user
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * Legal impact
+    * Donations and Suggestions in navbar
+    * Suggestion admin
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * Landing page
+    * Admin profile
+    * Volunteer profile
+    * Update profile
+    * Act as pilot user
+* IVÁN RAMÍREZ LARA
+    * Volunteer, educators and partner admin
+    * Add educator
+    * Volunteer form
+* MANUEL ORTIZ BLANCO
+    * Poker planning
+    * Expected aspects review
+    * Failure Conditions review and check
+    * AI Report
+    * Backend documentation
+    * Email validation
+* JUAN LUIS RUANO MURIEDAS
+    * Fixes for frontend
+    * Authorisations for admin, educative centre, educator, volunteer, partner, student, family and volunteer
+    * Act as pilot user
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Customer agreement
+    * Volunteer component
+    * Volunteer agreement
+    * Volunteer agenda
+    * Volunteer attendance
+    * Volunteer event
+* MARÍA NÚÑEZ REYES
+    * Problems encountered
+    * Agreement with pilots users
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Manage the project as PM
+    * Retrospective
+    * Presentations
+    * Storyboard
+    * Evaluation and performance system
+    * Frontend agenda
+    * Act as pilot user
+* MIGUEL ANGEL ROMALDE DORADO
+    * Export the donations and punctual donations
+    * Punctual donations CRUD
+    * Payment method (Can be delayed to S3)
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * New evaluation and performace system
+    * Poker planning
+    * Commitment agreement
+    * Expected aspect review
+    * Documents name
+    * Files organisation
+* PEDRO LOPEZ RUZ
+    * Learned lessons
+    * RACI Matrix
+    * FC teams review
+    * Group organisation
+    * Problems encountered
+    * Backend documentation
+    * Export Students
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Problems encountered
+    * Learned lessons
+    * Demo video S2
+    * Admin classes,projects and events
+    * Activities educators
+    * Event creation
+    * Act as pilot user
+* SERGIO AGUAYO OROZCO
+    * Common database
+    * Act as pilot user
+    * Register and login
+    * Authorisation framework
