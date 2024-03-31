@@ -306,7 +306,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Deploy
     * Suggestion Model and CRUD
     * Pilots users management
-    * Do as pilot user
+    * Act as pilot user
     * Performance evaluation
     * Software review guidlines
 * CLAUDIA GILABERT PRIETO
@@ -318,13 +318,13 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Deploy frontend
     * Partners
     * Educator evaluation
-    * Do as pilot user
+    * Act as pilot user
 * FÉLIX ÁNGEL GUDIEL GÜEMES
     * AI Report
     * Business logic
     * Populate
     * Deploy
-    * Do as pilot user
+    * Act as pilot user
 * FRANCISCO DE ASÍS ROSSO RAMÍREZ
     * Legal impact
     * Donations and Suggestions in navbar
@@ -334,7 +334,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Admin profile
     * Volunteer profile
     * Update profile
-    * Do as pilot user
+    * Act as pilot user
 * IVÁN RAMÍREZ LARA
     * Volunteer, educators and partner admin
     * Add educator
@@ -349,7 +349,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
 * JUAN LUIS RUANO MURIEDAS
     * Fixes for frontend
     * Authorisations for admin, educative centre, educator, volunteer, partner, student, family and volunteer
-    * Do as pilot user
+    * Act as pilot user
 * MANUEL FRANCISCO BARCIA JIMENEZ
     * Customer agreement
     * Volunteer component
@@ -367,7 +367,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Storyboard
     * Evaluation and performance system
     * Frontend agenda
-    * Do as pilot user
+    * Act as pilot user
 * MIGUEL ANGEL ROMALDE DORADO
     * TCO
     * Export the donations and punctual donations
@@ -396,10 +396,10 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Admin classes,projects and events
     * Activities educators
     * Event creation
-    * Do as pilot user
+    * Act as pilot user
 * SERGIO AGUAYO OROZCO
     * Common database
-    * Do as pilot user
+    * Act as pilot user
     * Advertisement
     * Register and login
     * Authorisation framework
