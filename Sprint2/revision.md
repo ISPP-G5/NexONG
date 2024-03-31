@@ -72,6 +72,8 @@ En nuestro caso, los usos core han cambiado un par de veces a lo largo del proye
 - La URL del **despliegue del frontend** es [esta](https://nexong.ew.r.appspot.com/).
 - La URL del **despligue del backend** es [esta](https://nexongapi.ew.r.appspot.com/api/). Además, puede ver su documentación en Swagger [aquí](https://nexongapi.ew.r.appspot.com/docs/).
 
+>[!NOTE] Podría ocurrir que al entrar en alguno de los dos despliegues diera un `Server Error`. Esto se daría en caso de que los créditos se hubieran consumido. Estaremos atentos a que esto no pase, pero, si ocurriera, por favor avísennos.
+
 _Página de Inicio_
 - Pueden navegar a través de las diferentes pantallas. Tengan en cuenta que nada del registro está completado aún.
 - Sabemos que las páginas "La Salle" y "Organización" están vacías.
