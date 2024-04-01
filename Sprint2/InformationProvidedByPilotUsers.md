@@ -1,5 +1,5 @@
-# Feedback de los usuarios pilotos - Sprint 2
-# NexOng - Grupo 5
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feedback de los usuarios pilotos - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -48,10 +48,10 @@
 
 ## Registro de cambios
 
-| Versión | Fecha | Descripción | Participantes |
-|---------|-------|-------------|---------------|
-|1.0.0|28/03/2024|Feedback del Sprint 2|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: FRANCISCO JAVIER CALDERÓN RODRÍGUEZ|
-|1.0.1|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ Revisión: MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
+| Versión | Fecha | Descripción | Redacción | Revisión
+|---------|-------|-------------|---------------|---------------|
+|1.0.0|28/03/2024|Feedback del Sprint 2|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES | FRANCISCO JAVIER CALDERÓN RODRÍGUEZ|
+|1.0.1|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ |MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
 
 
 ## 1. Introducción

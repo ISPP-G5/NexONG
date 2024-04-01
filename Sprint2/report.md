@@ -1,6 +1,7 @@
 # Informe de contribuciones a la base de datos común - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
-# NexOng - Grupo 5
+
 
 **_MIEMBROS_**:
 
@@ -56,30 +57,44 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>16/2/2024</td>
    <td>Primera versión</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
   </tr>
   <tr>
    <td>1.1.0</td>
    <td>17/2/2024</td>
    <td>Terminado el documento</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
   </tr>
   <tr>
    <td>1.2.0</td>
    <td>04/03/2024</td>
    <td>Actualización del documento</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>AURORA NAVAS JIMÉNEZ</td>
   </tr>
    <td>1.3.0</td>
    <td>19/03/2024</td>
    <td>Actualización del documento</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
   </tr>
    <td>1.4.0</td>
    <td>30/03/2024</td>
    <td>Modificar formato de plantilla. Adición de más acciones llevadas a cabo</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
 
 </table>

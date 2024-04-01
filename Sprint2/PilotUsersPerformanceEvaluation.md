@@ -1,5 +1,5 @@
-# Pilot Users Performance Evaluation - Sprint 2
-# NexOng - Grupo 5
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pilot Users Performance Evaluation - Sprint 2
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -37,10 +37,10 @@
 </table>
 
 ## Registro de cambios
-| Versión | Fecha | Descripción | Participantes |
-|---------|-------|-------------|---------------|
-|1.0.0|30/03/2024|Sprint 2 evaluation|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: MARTA INÉS GONZÁLEZ DIÁNEZ|
-|1.0.1|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisión: MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
+| Versión | Fecha | Descripción | Redacción | Revisión |
+|---------|-------|-------------|---------------|---------------|
+|1.0.0|30/03/2024|Sprint 2 evaluation|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES | MARTA INÉS GONZÁLEZ DIÁNEZ|
+|1.0.1|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES| MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
 
 
 

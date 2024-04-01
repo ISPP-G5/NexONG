@@ -65,6 +65,8 @@
    <td>1.0.0</td>
    <td>24/2/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 5 (Sprint 1)</td>
+   <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
   </tr>
   <tr>
    <td>2.0.0</td>

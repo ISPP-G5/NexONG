@@ -68,31 +68,36 @@
    <td>1.0.0</td>
    <td>2/2/2024</td>
    <td>Primera versión</td>
-   <td></td>
+   <td>PEDRO LOPEZ RUZ</td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>15/2/2024</td>
    <td>Añadido el registro de usos</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>PEDRO LOPEZ RUZ</td>
   </tr>
   <tr>
    <td>3.0.0</td>
    <td>23/2/2024</td>
    <td>Añadido usos directos en el proyecto</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>3.0.1</td>
    <td>24/2/2023</td>
    <td>Cambios de revisión</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>4.0.0</td>
    <td>2/3/2024</td>
    <td>Actualizado el registro de usos</td>
-   <td></td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
   <tr>
    <td>5.0.0</td>
@@ -337,12 +342,13 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 
 
-| Tipo de consulta | Enlace       |
-|------------------|-----------------------|
-| Consulta sobre como realizar volunteer-form           | [https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e](https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e) |
-| Cómo devolver un string en lugar del valor del email si es nulo           | [https://sl.bing.net/g3AwAIT9r4e](https://sl.bing.net/g3AwAIT9r4e) |
-| Claves para un acuerdo colaborativo de usuarios pilotos          | [https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4](https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4) |
-| Apartado seguridad de datos en el proyecto impacto legal          | [https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738](https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738) |
+| Tipo de consulta | Enlace    | Análisis       |
+|------------------|--------------|--------------|
+| Consulta sobre como realizar volunteer-form           | [https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e](https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e) |Respuesta conseguida en la primera consulta |
+| Cómo devolver un string en lugar del valor del email si es nulo           | [https://sl.bing.net/g3AwAIT9r4e](https://sl.bing.net/g3AwAIT9r4e) |Respuesta conseguida en la primera consulta|
+| Claves para un acuerdo colaborativo de usuarios pilotos          | [https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4](https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4) | Respuesta conseguida en la primera consulta|
+| Apartado seguridad de datos en el proyecto impacto legal          | [https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738](https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738) |Consulta realizada para entender qué necesitaba rellenar en el documento|
+| Anuncio          | [https://app.suno.ai/song/33bede18-bfb8-4fe1-a911-2b26e74816da](https://app.suno.ai/song/33bede18-bfb8-4fe1-a911-2b26e74816da) |Se realizaron 4 consultas hasta conseguir el resultado|
 
 <br/>
 
@@ -359,11 +365,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>Builder.io</td>
    <td>Anima</td>
    <td>Bing Copilot</td>
+   <td>SunoAI</td>
    <td>Total</td>
   </tr>
   <tr>
    <td>11/2/2024</td>
    <td>5</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -375,11 +383,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>1</td>
    <td>0</td>
+   <td>0</td>
    <td>4</td>
   </tr>
   <tr>
    <td>25/2/2024</td>
    <td>2</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -391,11 +401,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>3</td>
   </tr>
   <tr>
    <td>10/3/2024</td>
    <td>5</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -407,7 +419,8 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>1</td>
-   <td>4</td>
+   <td>1</td>
+   <td>5</td>
   </tr>
   <tr>
    <td></td>
@@ -415,7 +428,8 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>1</td>
    <td>1</td>
-   <td>23</td>
+   <td>1</td>
+   <td>24</td>
   </tr>
 </table>
 
@@ -431,7 +445,7 @@ La semana del 3/3/2024 se hacen 3 consultas a Chat Gpt, 2 de ellas respecto a pr
 
 La semana del 10/3/2024 se hacen 5 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal, que es un tema muy delicado y es pertinente preguntar a inteligencias artificiales para tener una dirección general. Cabe recalcar una petición sobre errores en JSON, que es un problema que ha tenido que afrontar el frontend debido a la complejidad de mandar documentos mediante JSON.
 
-La semana del 19/3/2024 se hacen 3 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal y sobre el commitment agreement de los usuarios pilotos. La tercera fue respecto a como realizar un formulario para una peticion con unos determinados atributos y 1 uso de Copilot.
+La semana del 19/3/2024 se hacen 3 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal y sobre el commitment agreement de los usuarios pilotos. La tercera fue respecto a como realizar un formulario para una peticion con unos determinados atributos y 1 uso de Copilot. Además, el anuncio se ha realizado con la ayuda de SunoAI.
 
 # 7. Conclusión. 
 

@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Problemas - Sprint 2
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
@@ -45,7 +45,7 @@
 4. Soluciones
 
 ## Registro de cambios
-**Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisor**
+**Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
 --- | --- | --- | --- | --- 
 1.0.0 | 7/3/2024 | Semana 6 | SAMUEL LUIS RODRÍGUEZ MANESS | MARÍA NÚÑEZ REYES
 2.0.0 | 16/3/2024 | Semana 7 | MARÍA NÚÑEZ REYES | CLAUDIA GILABERT PRIETO

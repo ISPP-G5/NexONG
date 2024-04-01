@@ -1,4 +1,4 @@
-﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organización de Grupo - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organización de Grupo - Sprint 2
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
@@ -66,6 +66,8 @@
    <td>1.0.0</td>
    <td>17/2/2024</td>
    <td>Primera versión</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+   <td>PABLO PERIÁÑEZ CABRERO</td>
   </tr>
   <tr>
    <td>2.0.0</td>

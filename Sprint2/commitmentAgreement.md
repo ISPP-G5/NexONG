@@ -1,4 +1,5 @@
-
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment Agreement - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 Yo, ………………………………………………………………… al incorporarme a la asignatura de  Ingeniería de Software y Práctica Profesional (ISPP) para el curso 2023-24, me comprometo a  cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo G5,  compuesto de 16 personas: 
 
 
