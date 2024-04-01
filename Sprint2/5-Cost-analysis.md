@@ -1623,10 +1623,13 @@ Para el Opex:
 |         Coste del dominio          | **100€**    |
 |             **Total**              | **90.301,45€** |
 
+Usando las estimaciones obtenidas en el documento "Estimación de Ingresos" podemos crear un gráfico que compara los costes que se acaban de mostrar con los posibles beneficios a recivir.
 
+<image src="./grafico-tco.png" alt="Grafico de los costes asociados">
+
+Como se puede observar, en el caso optimista superamos los costes en menos de 2 meses, mientras que tardamos 2 meses más en compensar estas pérdidas en el caso realista. En el caso pesimista los ingresos son tan bajos que no se muestran en el grafo, pero se ha calculado que se tardarían 21 meses tras el despliegue para sobrepasar las pérdidas.
 <br/>
 
 # 5. ROI
 
-
-<img src="./DP/images/roi.png" alt="alt_text" style="width: 50%; display: block; margin: 0 auto;" />
+<image src="./grafico-costes.png" alt="Grafico de los costes asociados">
