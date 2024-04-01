@@ -1568,19 +1568,19 @@ Por último, se ha analizado y tenido en cuenta para el TCO, los costes de marke
   <tr>
    <td>Costes totales en producción (98 semanas)
    </td>
-   <td><strong>98.835,33€ (37.315,38€/37 semanas)</strong>
+   <td><strong>89.758,61€ (37.315,38€/37 semanas)</strong>
    </td>
   </tr>
   <tr>
    <td><strong>Total</strong>
    </td>
-   <td><strong>159.247,86€</strong>
+   <td><strong>150.171,14€</strong>
    </td>
   </tr>
   <tr>
    <td><strong>TCO (Mes)</strong>
    </td>
-   <td><strong>6635.32€</strong>
+   <td><strong>3128.56€</strong>
    </td>
   </tr>
 </table>
@@ -1597,7 +1597,7 @@ Para el Capex:
 | :-----------------------------: | :------------ |
 |       Costes del material       | **9.600€**    |
 |  Costes de licencias en desarrollo  | **3.096.98€** |
-|       Costes derivados          | **3.375€**    |
+|       Costes derivados          | **8118.24€**    |
 |    Costes marketing incial      | **1026 €**    |
 | Sueldos mensuales en desarrollo | **37.822,5€** |
 |            **Total**            | **54.920,48€** |
@@ -1615,15 +1615,13 @@ Para el Opex:
 
 |              **Opex**              |                |
 | :--------------------------------: | :------------- |
-|    Costes salariales del equipo    | **61.594,50€** |
-|      Costes derivados totales      | **3.775€**     |
-|    Costes de licencias totales     | **19.820,64€** |
-| Costes derivados del mantenimiento | **3.330€**     |
-|   Costes licencias en producción   | **8.228,56€**  |
+|    Costes salariales del equipo    | **62.967,50€** |
+|      Costes derivados totales      | **8118.24€**     |
+|   Costes licencias en producción   | **9896,51€**  |
 | Costes de marketing en producción  | **7.367,20€**  |
-|        Coste del despliegue        | **926€/año** |
-|         Coste del dominio          | **50€/año**    |
-|             **Total**              | **103.396,90€** |
+|        Coste del despliegue        | **1852€** |
+|         Coste del dominio          | **100€**    |
+|             **Total**              | **90.301,45€** |
 
 
 <br/>
