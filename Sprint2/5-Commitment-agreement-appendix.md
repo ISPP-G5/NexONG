@@ -45,6 +45,8 @@
    3. Nota máxima de los miembros del equipo
    4. Formatos acordados en los repositorios de equipo
    5. Responsabilidades individuales en S1
+   6. Rendimiento del S2
+   7. Responsabilidades individuales en S2
 
 
 ## Registro de cambios
@@ -57,16 +59,33 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+    </td>
+   <td><strong>Redacción</strong>
+   </td>
+    </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>29/2/2024</td>
    <td>Primera versión del anexo</td>
+    <td>Pablo Periañez</td>
+    <td>Marta Gonzalez</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Cambio en la performance por solicitud del equipo</td>
+    <td>Pablo Periañez</td>
+        <td>Marta Gonzalez</td>
+  </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>21/3/2024</td>
+   <td>Cambio en la formula por consistencia</td>
+    <td>Pablo Periañez</td>
+        <td>Marta Gonzalez</td>
   </tr>
 </table>
 
@@ -218,6 +237,11 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Esquema DB
     * Roles de usuario
     * CRUD de evaluación
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Dropdown de la Homepage sobre la Asociación
+    * Pantalla de Administrador de clases, eventos y proyectos
+    * Análisis de costes
+    * Arquitectura
 * MARÍA NÚÑEZ REYES
     * Governify
     * Usuarios pilotos
@@ -264,10 +288,119 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Planificación del modelo
     * CRUD de donaciones
     * Revisitar CRUD de evento y crear CRUD de excursión
-* MANUEL FRANCISCO BARCIA JIMENEZ
-    * Dropdown de la Homepage sobre la Asociación
-    * Pantalla de Administrador de clases, eventos y proyectos
-    * Análisis de costes
-    * Arquitectura
 
 Cabe destacar que esto es una asignación de responsabilidades y no tiene relación con las actividades finalmente realizadas por cada miembro.
+
+## Rendimiento del S2
+
+Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint2:
+
+(PM)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png]
+(TL_Back)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png]
+(TL_Front)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image3.png]
+
+## Responsabilidades individuales en S2
+
+Se acuerda, mediante consenso, asignar responsabilidades individuales y compartidas a todos los miembros del equipo durante el Sprint 2. Es de suma importancia que estas tareas se completen dentro del plazo establecido, siendo acompañadas de posibles recompensas por su ejecución exitosa o, en caso de incumplimiento, de las consecuencias definidas en el Commitment Agreement. A continuación se describen las responsabilidades individuales comprometidas por cada miembro del equipo:
+
+* AURORA NAVAS JIMÉNEZ
+    * Deploy
+    * Suggestion Model and CRUD
+    * Pilots users management
+    * Act as pilot user
+    * Performance evaluation
+    * Software review guidlines
+* CLAUDIA GILABERT PRIETO
+    * Frontend team lead
+    * Frontend login
+    * Favicon
+    * Educators component
+    * Kids evaluation
+    * Deploy frontend
+    * Partners
+    * Educator evaluation
+    * Act as pilot user
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * AI Report
+    * Business logic
+    * Populate
+    * Deploy
+    * Act as pilot user
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * Legal impact
+    * Donations and Suggestions in navbar
+    * Suggestion admin
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * Landing page
+    * Admin profile
+    * Volunteer profile
+    * Update profile
+    * Act as pilot user
+* IVÁN RAMÍREZ LARA
+    * Volunteer, educators and partner admin
+    * Add educator
+    * Volunteer form
+* MANUEL ORTIZ BLANCO
+    * Poker planning
+    * Expected aspects review
+    * Failure Conditions review and check
+    * AI Report
+    * Backend documentation
+    * Email validation
+* JUAN LUIS RUANO MURIEDAS
+    * Fixes for frontend
+    * Authorisations for admin, educative centre, educator, volunteer, partner, student, family and volunteer
+    * Act as pilot user
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Customer agreement
+    * Volunteer component
+    * Volunteer agreement
+    * Volunteer agenda
+    * Volunteer attendance
+    * Volunteer event
+* MARÍA NÚÑEZ REYES
+    * Problems encountered
+    * Agreement with pilots users
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Manage the project as PM
+    * Retrospective
+    * Presentations
+    * Storyboard
+    * Evaluation and performance system
+    * Frontend agenda
+    * Act as pilot user
+* MIGUEL ANGEL ROMALDE DORADO
+    * TCO
+    * Export the donations and punctual donations
+    * Punctual donations CRUD
+    * Payment method (Can be delayed to S3)
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * New evaluation and performace system
+    * Poker planning
+    * Commitment agreement
+    * Expected aspect review
+    * Documents name
+    * Files organisation
+* PEDRO LOPEZ RUZ
+    * Learned lessons
+    * RACI Matrix
+    * FC teams review
+    * Group organisation
+    * Problems encountered
+    * Backend documentation
+    * Export Students
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Problems encountered
+    * Learned lessons
+    * Demo video S2
+    * Admin classes,projects and events
+    * Activities educators
+    * Event creation
+    * Act as pilot user
+* SERGIO AGUAYO OROZCO
+    * Common database
+    * Act as pilot user
+    * Advertisement
+    * Register and login
+    * Authorisation framework
