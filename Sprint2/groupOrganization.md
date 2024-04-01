@@ -1,4 +1,4 @@
-﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organización de Grupo - Sprint 2
+﻿# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organización de Grupo - Sprint 2
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
@@ -57,25 +57,31 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
-   <td><strong>Participantes</strong>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
    </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>17/2/2024</td>
    <td>Primera versión</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+   <td>PABLO PERIÁÑEZ CABRERO</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Segunda versión por solicitud del grupo</td>
-   <td>Redacción: PEDRO LÓPEZ RUZ Revisor:MANUEL ORTIZ BLANCO Y MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+   <td>PEDRO LÓPEZ RUZ</td>
+   <td>MANUEL ORTIZ BLANCO Y MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>30/3/2024</td>
    <td>Tecera Versión</td>
-   <td>Redacción: PEDRO LÓPEZ RUZ Revisor:MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+   <td>PEDRO LÓPEZ RUZ</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 

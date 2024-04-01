@@ -56,24 +56,31 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
-   <td><strong>Participantes</strong>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
    </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>24/2/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 5 (Sprint 1)</td>
+   <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 6 (Sprint 2)</td>
-   <td>Redacción: PEDRO LÓPEZ RUZ Revisor: CLAUDIA GILABERT PRIETO</td>
+   <td>PEDRO LÓPEZ RUZ</td>
+   <td>CLAUDIA GILABERT PRIETO</td>
   </tr>
     <tr>
    <td>3.0.0</td>
    <td>16/3/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 7 (Sprint 2)</td>
+   <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+   <td>AURORA NAVAS JIMÉNEZ</td>
   </tr>
 </table>
 

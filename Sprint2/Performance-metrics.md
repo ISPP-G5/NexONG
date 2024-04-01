@@ -1,5 +1,5 @@
-# &nbsp; Evaluación de Medidas de Rendimiento - Sprint 2
-
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluación de Medidas de Rendimiento - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -55,16 +55,24 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>17/2/2024</td>
    <td>Primera versión</td>
+   <td>PABLO PERIÁÑEZ CABRERO</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
   </tr>
   <tr>
    <td>2.0.0</td>
    <td>09/3/2024</td>
    <td>Segunda versión por solicitud del grupo</td>
+   <td>PABLO PERIÁÑEZ CABRERO</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 

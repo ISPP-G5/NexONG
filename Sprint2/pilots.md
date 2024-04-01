@@ -1,5 +1,5 @@
-# Usuarios Pilotos - Sprint 2
-# NexOng - Grupo 5
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Usuarios Pilotos - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 ***MIEMBROS***:
 
@@ -46,16 +46,16 @@
 3. Pruebas y feedback	
 
 ## Registro de cambios
-| Versión | Fecha | Descripción | Participantes |
-|---------|-------|-------------|---------------|
-|1.0.0|1/2/2024|Primera versión del documento de usuarios pilotos|Redacción: MARÍA NÚÑEZ REYES Revisor: PABLO PERIÁÑEZ CABRERO|
-|1.1.0|8/2/2024|Nuevo apartado añadido: Pruebas y _feedback_|Redacción: MARÍA NÚÑEZ REYES Revisor: SAMUEL LUIS RODRÍGUEZ MANESS|
-|1.2.0|15/2/2024|Modificación de usuarios pilotos debido a la eliminación de dos ONGs|Redacción: MARÍA NÚÑEZ REYES Revisor: PABLO PERIÁÑEZ CABRERO|
-|2.0.0|29/2/2024|Gestión de fechas concretas y de las respuestas de los usuarios pilotos|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisor: MARTA INÉS GONZÁLEZ DIÁNEZ|
-|2.0.1|1/03/2024|Aclaración sobre la gestión del cliente como usuario piloto|Redacción: AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES Revisor: MARTA INÉS GONZÁLEZ DIÁNEZ|
-|3.0.0|21/03/2024|Actualización de fechas|Redacción: AURORA NAVAS JIMÉNEZ Revisor: CLAUDIA GILABERT PRIETO|
-|3.0.1|29/03/2024|Inclusión del contenido y estructura de los formularios de usuarios piloto|Redacción: AURORA NAVAS JIMÉNEZ Revisor: MARÍA NÚÑEZ REYES|
-|3.0.2|30/03/2024|Cambio de portada según failure conditions|Redacción: AURORA NAVAS JIMÉNEZ Revisor: MANUEL ORTIZ BLANCO y PEDRO LOPEZ RUZ|
+| Versión | Fecha | Descripción | Redacción | Revisión |
+|---------|-------|-------------|---------------|---------------|
+|1.0.0|1/2/2024|Primera versión del documento de usuarios pilotos|MARÍA NÚÑEZ REYES | PABLO PERIÁÑEZ CABRERO|
+|1.1.0|8/2/2024|Nuevo apartado añadido: Pruebas y _feedback_|MARÍA NÚÑEZ REYES |SAMUEL LUIS RODRÍGUEZ MANESS|
+|1.2.0|15/2/2024|Modificación de usuarios pilotos debido a la eliminación de dos ONGs|MARÍA NÚÑEZ REYES|PABLO PERIÁÑEZ CABRERO|
+|2.0.0|29/2/2024|Gestión de fechas concretas y de las respuestas de los usuarios pilotos|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES |MARTA INÉS GONZÁLEZ DIÁNEZ|
+|2.0.1|1/03/2024|Aclaración sobre la gestión del cliente como usuario piloto|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES |MARTA INÉS GONZÁLEZ DIÁNEZ|
+|3.0.0|21/03/2024|Actualización de fechas|AURORA NAVAS JIMÉNEZ | CLAUDIA GILABERT PRIETO|
+|3.0.1|29/03/2024|Inclusión del contenido y estructura de los formularios de usuarios piloto|AURORA NAVAS JIMÉNEZ | MARÍA NÚÑEZ REYES|
+|3.0.2|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ |MANUEL ORTIZ BLANCO y PEDRO LOPEZ RUZ|
 
 
 <br/>

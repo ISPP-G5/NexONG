@@ -1,4 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development Agreement - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 **_MIEMBROS_**:
 
@@ -56,11 +57,17 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>23/03/2024</td>
    <td>Primera versión</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
