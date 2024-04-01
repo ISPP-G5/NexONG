@@ -1,6 +1,50 @@
-Summary report ![](Aspose.Words.d1cabf34-a6ad-4fae-9683-f27527c3535b.001.png)
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time Effort Report - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+![](Aspose.Words.d1cabf34-a6ad-4fae-9683-f27527c3535b.001.png)
 
-05/03/2024 - 31/03/2024 Total: 677:57:43
+***MIEMBROS***:
+
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<br/>
+
+## Registro de cambios
+**Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
+--- | --- | --- | --- | --- 
+1.0.0 | 19/2/2024 | DP 6 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
+2.0.0 | 4/3/2024 | S1 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
+3.0.0 | 1/4/2024 | S2 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
 
 ![](Aspose.Words.d1cabf34-a6ad-4fae-9683-f27527c3535b.002.jpeg)
 
