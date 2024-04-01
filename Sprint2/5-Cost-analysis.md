@@ -631,7 +631,7 @@ A continuación trataremos el desglose de los costes asociados a las licencias u
 
 <br/>
 
-Durante el periodo de desarrollo, en el despliegue, los planes de prueba gratuitos son suficientes, por lo que no obtendremos ningún coste adicional.
+Durante el periodo de desarrollo, en el despliegue, los planes de prueba gratuitos son suficientes, por lo que no obtendremos ningún coste adicional. Usamos tanto Codacy como Black Formatter, que para el tamaño de nuestro proyecto y equipo no requieren pagos extra.
 
 
 <table>
