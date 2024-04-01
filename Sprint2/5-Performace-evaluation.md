@@ -1,4 +1,5 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individual Performance Evaluation - Sprint 1
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individual Performance Evaluation - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
 ***MIEMBROS***:
@@ -37,6 +38,13 @@
 </table>
 
 <br/>
+
+## Registro de cambios
+**Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
+--- | --- | --- | --- | --- 
+1.0.0 | 19/2/2024 | DP 6 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
+2.0.0 | 4/3/2024 | S1 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
+3.0.0 | 1/4/2024 | S2 | PABLO PERIAÑEZ CABRERO | MARTA INES GONZALEZ DIANEZ
 
 # Agreed Individual Performance Evaluation G5 
 
