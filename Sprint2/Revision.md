@@ -50,7 +50,7 @@ En nuestro caso, los usos core han cambiado un par de veces a lo largo del proye
 
 ### Sprint 2
 - **Panel de administrador**
-	- *Administración de voluntarios:* deben hacer operaciones RUD con voluntarios. En la app desplegada el administrador puede ver a los voluntarios, eliminarlos y ver/aceptar/rechazar solicitudes. .
+	- *Administración de voluntarios:* deben hacer operaciones RUD con voluntarios. En la app desplegada el administrador puede ver a los voluntarios, eliminarlos y ver/aceptar/rechazar solicitudes.
 	- *Administración de educadores:* deben hacer operaciones CRUD con educadores. En la app desplegada el administrador puede verlos y eliminarlos.
 	- *Administración de socios*: deben hacer operaciones RUD con socios y hacer operaciones CRUD con asambleas. En la app desplegada el administrador puede verlos, eliminarlos y convocar asambleas. 
 	- *Administración de familias:* deben hacer operaciones RUD con las familias y aceptar/denegar solicitudes de éstas. En la app desplegada, esto no está implementado.
@@ -58,13 +58,8 @@ En nuestro caso, los usos core han cambiado un par de veces a lo largo del proye
 	- *Administración de eventos:* deben poder hacer operaciones CRUD con eventos. En la app desplegada el administrador puede hacer las operaciones CRUD correspondientes.
 	- *Administración de sugerencias:* deben poder hacer operaciones RD con sugerencias. En la app desplegada el administrador puede verlas.
 - **Página home:** diferentes ventanas navegables en las que la ONG puede anunciar su labor. Está en la app desplegada.
-- **Página de voluntarios:** los voluntarios podrán ver los eventos y las clases, a los cuales se podrán apuntar y/o editar o borrar su asistencia. En la app desplegada, los voluntarios pueden ver los eventos disponibles y apuntarse a ellos.
-- **Página de educadores:** los educadores podrán ver sus clases y a sus alumnos. Además, podrán evaluarles. En la app desplegada, esto no está implementado.
-- **Página de familias:** las familias podrán hacer operaciones CRUD con sus hijos y ver las evaluaciones de los educadores. En la app desplegada, esto no está implementado.
-- **Página de socios:** los socios podrán hacer operaciones CRU con sus donaciones. En la app desplegada, esto no está implementado.
-- **Página de centros educativos:** los centros educativos podrán hacer operaciones CRUD con sus estudiantes y ver las evaluaciones de los educadores. En la app desplegada, esto no está implementado. Aclaración: en Manos Abiertas con Norte hay dos tipos de estudiantes: de tarde y de mañana. Los de mañana son alumnos expulsados de sus centros y la ONG tiene la obligación de darles clase durante la mañana. Además, son responsables por ellos lo propios centros educativos. Los estudiantes de tarde son aquellos que sus familias apuntan. La ONG debe aceptarlos o rechazarlos.
 > [!NOTE] 
-> Cabe destacar que todos los usos core, además de la autenticación, están realizados en la API, pero no en el frontend.
+> Cabe destacar que todos los usos core están realizados en la API, pero no en el frontend. En el Sprint 3 se terminará la completa implementación de los casos de uso core además de la autenticación y el sandbox de pago.
 
 ## Información necesaria para la prueba
 ### Sprint 2
