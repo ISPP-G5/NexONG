@@ -598,13 +598,7 @@ A continuación trataremos el desglose de los costes asociados a las licencias u
    </td>
   </tr>
   <tr>
-   <td>(Despliegue backend)
-   </td>
-   <td>0€
-   </td>
-  </tr>
-  <tr>
-   <td>(Despliegue frontend)
+   <td>Despliegue
    </td>
    <td>0€
    </td>
@@ -1311,18 +1305,6 @@ Aquí se describen, de forma similar al análisis de costes derivados del desarr
    </td>
   </tr>
   <tr>
-   <td>(Despliegue backend)
-   </td>
-   <td>0€
-   </td>
-  </tr>
-  <tr>
-   <td>(Despliegue frontend)
-   </td>
-   <td>0€
-   </td>
-  </tr>
-  <tr>
    <td>API
    </td>
    <td>0€ 
@@ -1521,7 +1503,7 @@ El coste de dominio lo sacamos de la página de IONOS, compramos el dominio .es 
 
 <table>
   <tr>
-   <td colspan="2" ><strong>Costes posteriores de la ONG</strong>
+   <td colspan="2" ><strong>Costes posteriores de la ONG (por año)</strong>
    </td>
   </tr>
   <tr>
@@ -1544,8 +1526,6 @@ El coste de dominio lo sacamos de la página de IONOS, compramos el dominio .es 
   </tr>
 </table>
 
-
-Estos valores se ha de mencionar que son por año.
 
 <br/>
 
