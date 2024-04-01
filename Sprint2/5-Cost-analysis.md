@@ -1,4 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Análisis de Costes - Sprint 2
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
 ***MIEMBROS***:
@@ -65,41 +66,52 @@
    </td>
    <td><strong>Descripción</strong>
    </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
   </tr>
   <tr>
    <td>1.0.0</td>
    <td>1/2/2024</td>
    <td>Completado la primera versión del análisis del coste preliminar del proyecto.</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>CLAUDIA GILABERT PRIETO</td>
   </tr>
   <tr>
    <td>1.0.1</td>
    <td>02/02/24</td>
    <td>Añadido desglose por semana a los costes derivados del desarrollo, nuevas licencias y presupuesto de contingencia.</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
   <tr>
    <td>1.0.2</td>
    <td>04/02/24</td>
    <td>Se han desglosado los costes en función de las distintas fases del desarrollo del proyecto. Se ha calculado la amortización de los equipos informáticos. Se ha realizado el análisis de los TCO.</td>
+   <td>MANUEL ORTIZ BLANCO</td>
+   <td>PEDRO LOPEZ RUZ</td>
   </tr>
   <tr>
    <td>1.0.3</td>
    <td>13/02/24</td>
    <td>Añadidos costes de márketing.</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>1.0.4</td>
    <td>14/02/24</td>
    <td>Añadida más información al documento y el ROI</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>1.0.5</td>
-   <td>24/02/24</td>
-   <td>Añadida más información y reorganizando el documento</td>
-  </tr>
-  <tr>
-   <td>1.0.6</td>
    <td>1/04/24</td>
    <td>Añadida más información respecto al TCO</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
