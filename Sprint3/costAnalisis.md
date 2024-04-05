@@ -1625,11 +1625,12 @@ contratar un nuevo servicio para sostener el proyecto en la fase de mantenimient
 
 Teniendo en cuenta estas condiciones, los posibles totales tras las 89 semanas (sin reservas de contingencia) son:
 
-| Situación |Precio inicial + precio/mes| Precio 2 años|
-| :--------------------------------: | :------------- |
-|Optimista|46180,6 + 941,36€|125.154,69€|
-|Realista|52908,5 + 1008,52€|144.671,14€|
-|Pesimista|63977,87 + 1134,76|164.976,23€|
+
+| **Situación** |**Precio inicial + precio/mes**| **Precio 2 años**|
+| :-----------:|:--------------: | :----------- |
+|Optimista   |   46180,6 + 941,36€            |125.154,69€   |
+|Realista   |52908,5 + 1008,52€            |144.671,14€   |
+|Pesimista|63977,87 + 1134,76€           |164.976,23€   |
 
 
 
