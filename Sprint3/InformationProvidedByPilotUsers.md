@@ -52,6 +52,7 @@
 |---------|-------|-------------|---------------|---------------|
 |1.0.0|28/03/2024|Feedback del Sprint 2|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES | FRANCISCO JAVIER CALDERÓN RODRÍGUEZ|
 |1.0.1|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ |MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
+|2.0.0|05/04/2024|Feedback del Sprint 2 de Manos Abiertas|AURORA NAVAS JIMÉNEZ |CLAUDIA GILABERT PRIETO|
 
 
 ## 1. Introducción
