@@ -43,7 +43,8 @@
    1. Asociación Manos Abiertas con Norte
    2. Alumnos de ISPP del grupo de tarde
 2. Calendario de usuarios pilotos
-3. Pruebas y feedback	
+3. Estructura de formularios
+4. Pruebas y feedback	
 
 ## Registro de cambios
 | Versión | Fecha | Descripción | Redacción | Revisión |
@@ -56,7 +57,7 @@
 |3.0.0|21/03/2024|Actualización de fechas|AURORA NAVAS JIMÉNEZ | CLAUDIA GILABERT PRIETO|
 |3.0.1|29/03/2024|Inclusión del contenido y estructura de los formularios de usuarios piloto|AURORA NAVAS JIMÉNEZ | MARÍA NÚÑEZ REYES|
 |3.0.2|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ |MANUEL ORTIZ BLANCO y PEDRO LOPEZ RUZ|
-|4.0.0|06/04/2024|Documento creado para Sprint 3|MARÍA NÚÑEZ REYES |MANUEL ORTIZ BLANCO y PEDRO LOPEZ RUZ|
+|4.0.0|06/04/2024|Documento creado para Sprint 3|MARÍA NÚÑEZ REYES |AURORA NAVAS JIMÉNEZ|
 
 
 <br/>
@@ -83,11 +84,49 @@ Un grupo compuesto por nuestros compañeros de la asignatura Ingeniería del Sof
 
 En esta sección se presentan las fechas correspondientes a los diferentes inicios y finales de etapas de testing de parte de los usuarios pilotos dependiendo del sprint. Las fechas de cierre de formularios solo se llevarán a cabo para el grupo de la tarde, ya que nuestros otros usuarios pilotos, la ONG, cuentan con un horario menos predecible. Por lo tanto, se les dará el tiempo que necesiten para terminar estos formularios, aunque se les animará a que lo tengan terminado lo antes posible. 
 Los prototipos se irán añadiendo a nuestra Landing Page. 
+
 _Nota: previamente, quedó establecido que al final del Sprint 1 ibamos a recopilar feedback de nuestros usuarios pilotos. Sin embargo, ya que no había suficiente material para probar, la prueba se canceló. Así quedan finalmente las fechas para el Sprint 2 y 3._
 
-- **Sprint 2:** el envío de formularios para usuarios pilotos sería el 25 de marzo y el cierre del formulario sería el 28 de marzo. 
+## Manos Abiertas con Norte
 
-- **Sprint 3:** el envío de formularios para usuarios pilotos sería el 23 de abril y el cierre del formulario sería el 26 de abril.
+<table>
+  <tr>
+    <td></td>
+    <td><strong>Fecha de entrega</strong></td>
+    <td><strong>Fecha límite de feedback</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2</strong></td>
+    <td>25/03/2024</td>
+    <td>01/04/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3</strong></td>
+    <td>15/04/2024</td>
+    <td>22/04/2024</td>
+  </tr>
+</table>
+
+## Alumnos del grupo de tarde
+
+<table>
+  <tr>
+    <td></td>
+    <td><strong>Fecha de entrega</strong></td>
+    <td><strong>Fecha límite de feedback</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2</strong></td>
+    <td>24/03/2024</td>
+    <td>27/03/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3</strong></td>
+    <td>14/04/2024</td>
+    <td>17/04/2024</td>
+  </tr>
+</table>
+
 
 # 3. Estructura de los formularios
 En esta sección se expone el contenido y estructura de los formularios. Dado a que los dos grupos de usuarios piloto tienen dos perfiles muy diferentes los formularios son diferentes.
