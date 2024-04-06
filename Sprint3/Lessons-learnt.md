@@ -150,6 +150,6 @@ Una vez realizado el primer pilotaje de la aplicación con los usuarios pilotos 
 
 ● La necesidad de mayor claridad a la hora de errores que aparecen ya que para nosotros debido a la base técnica que tenemos nos puede parecer sencillo de entender pero hay que tener en mente que no todos parten desde esa base de conocimiento. 
 
-● La importancia de un pilotaje ayuda a ser concientes de partes de la aplicación que no funcionan como se espera o que no son tan intuitivas para el usuario como se pensaba a la hora de su diseño. 
+● La importancia de un pilotaje ayuda a ser conscientes de cual son las partes de la aplicación que no funcionan de manera correcta o que no son tan intuitivas para el usuario como se pensaba a la hora de su diseño. 
 
-● Gracias a la información obtenida de la ONG se ha podido saber de manera más detallada y clara que es lo que esperan y lo que necesitan con la aplicación que esta siendo desarrollada.
+● Gracias a la información obtenida de la ONG se ha podido saber de manera más detallada y clara que es lo que esperan y lo que necesitan con la aplicación que esta siendo desarrollada. Nos ayuda a ajustarnos más a sus necesidades.
