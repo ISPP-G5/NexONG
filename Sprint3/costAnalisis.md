@@ -113,6 +113,13 @@
    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
+  <tr>
+   <td>1.0.6</td>
+   <td>1/04/24</td>
+   <td>Añadida más información respecto a la variación del TCO</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES, MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
 </table>
 
 <br/>
