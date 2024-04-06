@@ -1434,7 +1434,7 @@ Estos costes son teniendo en cuenta que es un trabajador externo, por eso no cue
 </table>
 
 
-Teniendo esto en cuenta, durante 37 semanas, que junto con las 15 semanas de desarrollo completamos el 1º año de vida del producto, amortizamos **7.400€.**
+Teniendo esto en cuenta, durante 37 semanas, que junto con las 15 semanas de desarrollo completamos el 1.er año de vida del producto, amortizamos **7.400€.**
 
 <br/>
 
@@ -1585,7 +1585,7 @@ Por último, se ha analizado y tenido en cuenta para el TCO, los costes de marke
 </table>
 
 
-Si además queremos ver el Capex y el Opex, vamos a calcular lo que equivale a cada uno. Lo primero que vamos a ver es que es:
+Si además queremos ver el Capex y el Opex, vamos a calcular lo que equivale a cada uno. Lo primero que vamos a ver es:
 
 - **Capex:** Representa el gasto inicial necesario para adquirir, construir o mejorar los activos físicos de un proyecto. Incluye la compra de equipos, maquinaria, infraestructura, y otros activos que se capitalizan y se amortizan a lo largo del tiempo. Los gastos de CAPEX son típicamente de naturaleza no recurrente y se consideran como inversiones a largo plazo en el negocio.
 - **Opex:** Representa los costos recurrentes y continuos asociados con el funcionamiento y mantenimiento de los activos adquiridos con el CAPEX. Incluye gastos como salarios del personal, mantenimiento, suministros, alquileres, servicios públicos, y otros costos operativos necesarios para mantener en funcionamiento el proyecto. Los gastos de OPEX son considerados como gastos corrientes y se incurren durante toda la vida útil del proyecto.
