@@ -60,18 +60,22 @@ Este historial no debe sólo informar sobre el historial del desarrollo de la ap
 
 ### Problemas con los permisos de algunas funcionalidades
 
-Durante la realización de los test varios compañeros se dieron cuenta que faltaban permisos para una serie de funcionalidades como por ejemplo la creación de familias. Tras investigar la causa se comprobó que provenía de una implentación, la cual, trataba de adjuntar los permisos admin de las aplicaciones pero durante el desarrollo de la misma omitió algunos permisos provocando errores. Debido a esto el fronted no puedo trabajar de manera fluida debido que se les impedían realizar varias funciones para probar sus métodos implemetados.
+Durante la realización de los test en el backend, varios compañeros se dieron cuenta de que faltaban permisos para una serie de funcionalidades como por ejemplo la creación de familias. Tras investigar la causa se comprobó que provenía de una implentación, la cual, trataba de adjuntar los permisos admin de las aplicaciones, pero durante el desarrollo de la misma omitió algunos permisos provocando errores. Debido a esto el frontend no pudo trabajar de manera fluida debido que se les impedían realizar varias funciones para probar sus métodos implemetados.
+
+Haciendo enfoque en la parte del frontend, por errores similares al mencionado anteriormente algunos miembros han tenido que empezar sus tareas más tarde de lo habitual y han sido acabadas mucho más cerca de la deadline, mientras que otras no han sido terminadas.
+
  
 
 ## Soluciones
 Las soluciones que se pondrán o ya se han puesto en marcha para resolver los problemas anteriores son los siguientes:
 
 - Tras localizar los errores se lanzó una rama hotfix que corregía dichos permisos y se lanzó una pull request para comprobar que verdaderamente se había realizado el cambio.
+- Se notificó a los miembros de frontend del arreglo y se consiguió trabajar en condiciones finalmente.
 
 ## Resultados
 
 Los resultados tras la aplicación de las soluciones
 
-- Una vez aceptada la pull request y integrada en la rama develop el frontend pudieron trabajar sin ningun tipo de problema.
+- Una vez aceptada la pull request y integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
 
 
