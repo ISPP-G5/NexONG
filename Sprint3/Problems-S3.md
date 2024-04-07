@@ -117,7 +117,6 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
 ## Resultados
 
 Los resultados tras la aplicación de las soluciones
-Los resultados tras la aplicación de las soluciones
 
 - Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realizan comentarios por cada discrepacia que vaya apareciendo para llegar a un concenso entre todos los miembros del grupo.
   
@@ -133,6 +132,6 @@ Los resultados tras la aplicación de las soluciones
   
 - Cuando los usuarios pilotos de nuestro grupo accedieron a la versión desplegada del grupo de tarde, rápidamente se dieron cuenta de que era una versión bastante básica sin apenas funcionalidades, por lo que no pudieron testear demasiado.
   
-- Una vez aceptada la pull request y integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
+- Una vez aceptada la pull request e integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
 
 
