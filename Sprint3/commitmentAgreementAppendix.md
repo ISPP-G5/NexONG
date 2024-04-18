@@ -129,7 +129,7 @@ De cada Milestone, cada miembro del equipo contará con una calificación en ref
 - **(C) Calificación de tareas:** Al final de cada milestone, los Team leader asignarán un número del 0 al 5, que simbolizará la calidad total del trabajo realizado por ese miembro. Cada Team leader solo lo asignará a los miembros de su equipo. Sin embargo habrá que tener en cuenta que:
   - Se podrá restar hasta 1 punto por cada problema grave implementado en código, o documentación en la que no se haya tenido en cuenta el feedback.
   - Se podrá restar hasta 1 punto si no se ha tenido en cuenta el orden a realizar las tareas o su prioridad asignada.
-  - Se podrá restar hasta 1 punto si no ha realizado ninguna tarea de docuemtación en el Sprint.
+  - Se podrá restar hasta 1 punto si no ha realizado ninguna tarea de documentación en el Sprint.
 - **(E) Esfuerzo:** Calculo estimado de la formula anterior dada la planificación del poker planning y las horas trabajadas.
 - **(TNR) Tarea/s no realizadas:** Se tendrá en cuenta las tareas no realizadas o reasignadas a otros compañeros, que hayan alterado el flujo de trabajo normal del milestone. Este valor estará reflejado como la puntuación del poker planning de esas tareas no realizadas
 
