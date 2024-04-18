@@ -9,10 +9,10 @@ Yo, ………………………………………………………………… 
 2. **Dedicación de Tiempo:** Me comprometo a dedicar un esfuerzo de 10 horas semanales a las  actividades y tareas asignadas en el marco de la asignatura. 
 
 
-3. **Esfuerzo semanal:** Soy consciente de que, si mi esfuerzo o dedicación no alcanza al menos  el 50% de lo requerido durante cualquier semana de trabajo, obtendré un _strike _por parte del  Project Manager o Team leader, pudiendo ser también solicitado por los miembros del equipo. 
+3. **Esfuerzo semanal:** Soy consciente de que, si mi esfuerzo o dedicación no alcanza al menos  el 50% de lo requerido durante cualquier semana de trabajo, obtendré un strike por parte del  Project Manager o Team leader, pudiendo ser también solicitado por los miembros del equipo. 
 
 
-4. **Finalización de Tareas:** Me comprometo a finalizar mis tareas asignadas antes de todos los  <span style="text-decoration:underline;">sábados a las 23:59</span>. En donde el incumplimiento puede llevar a la obtención de un _strike _por  parte del Project Manager o Team leader, si así se considera necesario, pudiendo ser también  solicitado por los miembros del equipo. 
+4. **Finalización de Tareas:** Me comprometo a finalizar mis tareas asignadas antes de todos los  <span style="text-decoration:underline;">sábados a las 23:59</span>. En donde el incumplimiento puede llevar a la obtención de un strike por  parte del Project Manager o Team leader, si así se considera necesario, pudiendo ser también  solicitado por los miembros del equipo. 
 
 
 5. **Reducción de la puntuación final:** En caso de que una persona alcance la suma de 3 strikes durante todo  el desarrollo del proyecto, se le quitará 0.25 puntos de la nota final por cada 3 strikes acumulados. Los strikes serán comunicados a los integrantes del grupo así como a los profesores.  
@@ -45,7 +45,7 @@ Yo, ………………………………………………………………… 
 14. **Evaluación:** Me comprometo a evaluar y ser evaluado por otros compañeros mediante una  rúbrica, y un rendimiento que posteriormente se traducirá como PE en la nota final, donde todos hemos estado de acuerdo en el sistema a usar en estas evaluaciones y han sido votadas por mayoría.
 
 
-15. **Apéndice: :** Este docuemento es complementado por el documento de "Apendix", que incluye la metodología del rendimiento y los resultados de este, así como las responsabilidades individuales de cada miembro del equipo. Estas responsabilidades individuales serán utilizadas al final del Sprint para comprobar el cumplimineto individual de los acuerdos tomados en equipo.
+15. **Apéndice:** Este docuemento es complementado por el documento de "Apendix", que incluye la metodología del rendimiento y los resultados de este, así como las responsabilidades individuales de cada miembro del equipo. Estas responsabilidades individuales serán utilizadas al final del Sprint para comprobar el cumplimineto individual de los acuerdos tomados en equipo.
 
 
 Al firmar este documento, entiendo y acepto las responsabilidades que se me han asignado y me  comprometo a cumplirlas según lo establecido en este compromiso. 
