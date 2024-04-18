@@ -170,7 +170,7 @@ $$\left(Nota_{final} = 0.6 \cdot Ev_{Forms} + 0.25 \cdot Perf_{total} + 0.1 \cdo
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint1:
 
-<img src="./DP/images/rendimiento-s1.png" alt="alt_text" style="width: 70%; display: block; margin: 0 auto;" />
+<img width="615" alt="imagen" src="https://github.com/ISPP-G5/NexONG/assets/72883992/8ad14a25-4af5-47dd-9697-7f01d0ad8bcc">
 
 ## Nota máxima de los miembros del equipo
 
@@ -328,9 +328,9 @@ Cabe destacar que esto es una asignación de responsabilidades y no tiene relaci
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint2:
 
-(PM)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png]
-(TL_Back)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png]
-(TL_Front)[https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image3.png]
+<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png" alt="PM"/>
+<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png" alt="TL_Back"/>
+<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image3.png" alt="TL_Front"/>
 
 ## Responsabilidades individuales en S2
 
