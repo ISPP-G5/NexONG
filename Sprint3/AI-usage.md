@@ -516,6 +516,8 @@ La semana 2 del Sprint 3, incluida la semana de 15/04/2024(Feria de Sevilla) se 
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado S10.png">
 </p>
+
+
 # 7. Conclusión. 
 
 El empleo de inteligencias artificiales ha facilitado y mejorado la redacción de todos los documentos generados en las primeras semanas del proyecto y ha proporcionado una base estable para el proyecto. Esto puede haber sido mediante optimización de creación de documentos o ayudas más esporádicas y pequeñas en aspectos de contenido y ortografía, en el primer caso, o aportando esqueletos de sistemas o generando versiones preliminares de código a implementar, en el segundo. Esto ha sido, obviamente, usando los sistemas como complementos que nunca deben sustituir el juicio humano. Toda la información obtenida de los modelos ha sido contrastada y validada antes de su uso. La inteligencia artificial puede ser una herramienta muy útil en varios ámbitos, no sólo en la redacción de documentos oficiales, pero como toda herramienta, debe saberse cómo usarla adecuadamente y no abusar de ella.
