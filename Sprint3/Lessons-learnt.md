@@ -1,43 +1,6 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
-
-
-***MIEMBROS***:
-
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 <a name="br2"></a> 
 
 ## Índice
@@ -88,6 +51,13 @@
    <td>Añadido lecciones aprendidas durante la semana 9 (Sprint 3)</td>
    <td>CLAUDIA GILABERT PRIETO</td>
    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+   <td>5.0.0</td>
+   <td>19/4/2024</td>
+   <td>Añadido lecciones aprendidas durante la semana 10 (Sprint 3)</td>
+   <td>PEDRO LÓPEZ RUZ</td>
+   <td>ARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
@@ -140,8 +110,8 @@ de la documentación.
 ● La importancia de mantener una buena comunicación entre los dos team leader mediante reuniones tanto para planificar como para ver el avanze así como con los problemas que han podido surgir.
 
 ● La implementación de un calendario compartido entre los integrantes del grupo ayuda a tener un mayor conocimiento de la disponibilidad de cada uno, facilitando el trabajo y comunicación en el caso que se necesite.
- 
 
+● Los canales de comunicación han tomado un papel más importante debido a que los miembros han estado más activos solucionando dudas de manera más rapida y agilizando el trabajo
 
 
 # 3.Feedback de los usuarios pilotos
