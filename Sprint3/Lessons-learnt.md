@@ -111,7 +111,7 @@ de la documentación.
 
 ● La implementación de un calendario compartido entre los integrantes del grupo ayuda a tener un mayor conocimiento de la disponibilidad de cada uno, facilitando el trabajo y comunicación en el caso que se necesite.
 
-● Los canales de comunicación han tomado un papel más importante debido a que los miembros han estado más activos solucionando dudas de manera más rapida y agilizando el trabajo
+● Los canales de comunicación han tomado un papel más importante debido a que los miembros han estado más activos solucionando dudas de manera más rapida y agilizando el trabajo.
 
 
 # 3.Feedback de los usuarios pilotos
