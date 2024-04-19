@@ -2,41 +2,6 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
-***MIEMBROS***:
-
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 
 ## Índice
 
@@ -124,6 +89,13 @@
    <td>8.0.0</td>
    <td>07/04/2024</td>
    <td>Registro de la primera semana del Sprint 3 y gráficas obtenidas del análisis</td>
+   <td>MANUEL ORTIZ BLANCO</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+  </tr>
+  <tr>
+   <td>8.1.0</td>
+   <td>20/04/2024</td>
+   <td>Actualización de la segunda semana del Sprint 3 y gráficas obtenidas del análisis</td>
    <td>MANUEL ORTIZ BLANCO</td>
    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
   </tr>
@@ -375,7 +347,23 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 | Como actualizar los estilos de una sección sin estilos          | [https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee](https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee) | 14 |4 horas|5|Código |
 
 <br/>
+<br>
 
+- **Consultas desde 08/04 a 20/04**
+
+
+
+| Tipo de consulta | Enlace    | Num consultas       | Tiempo ahorrado estimado       |Nivel satisfación (0-5)      | Tipo de tarea       |
+|------------------|--------------|--------------|--------------|--------------|--------------|
+| Consulta sobre como arreglar refresco de un localStorage           | [https://chat.openai.com/share/4359efb7-3b3e-4ed9-889a-c154020ee8bf](https://chat.openai.com/share/4359efb7-3b3e-4ed9-889a-c154020ee8bf) | 1 |4 horas|5|Código |
+| Cómo ajustar el tamaño máximo de un contenedor           | [https://chat.openai.com/share/be7a0846-aaa2-489b-b791-0efd82e457dc](https://chat.openai.com/share/be7a0846-aaa2-489b-b791-0efd82e457dc) | 5 |45 minutos|4|Código |
+| Cómo quitar la letra de la canción para el anuncio          | [https://vocalremover.org/](https://vocalremover.org/) | 1 |0 minutos|5|Documentación |
+| Cómo crear voz con un texto          | [https://www.veed.io/](https://www.veed.io/) | 11 |30 minutos|4|Documentación |
+| Ayuda para anuncio          | [https://chat.openai.com/share/4d98f26e-4591-4694-91c6-191648fcca36](https://chat.openai.com/share/4d98f26e-4591-4694-91c6-191648fcca36) | 8 |45 minutos|4|Documentación |
+| Como arreglar un botón          | [https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf](https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf) | 2 |30 minutos|4|Código |
+
+
+<br/>
 # 6. Estadísticas. 
 
 
@@ -391,11 +379,15 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>Bing Copilot</td>
    <td>SunoAI</td>
    <td>Claudette</td>
+   <td>VocalRemover</td>
+   <td>Veed</td>
    <td>Total</td>
   </tr>
   <tr>
    <td>11/2/2024</td>
    <td>5</td>
+   <td>0</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -411,11 +403,15 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
+   <td>0</td>
    <td>4</td>
   </tr>
   <tr>
    <td>25/2/2024</td>
    <td>2</td>
+   <td>0</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -431,11 +427,15 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
+   <td>0</td>
    <td>3</td>
   </tr>
   <tr>
    <td>10/3/2024</td>
    <td>5</td>
+   <td>0</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -451,6 +451,8 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>1</td>
    <td>0</td>
+   <td>0</td>
+   <td>0</td>
    <td>5</td>
   </tr>
   <tr>
@@ -461,17 +463,33 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>0</td>
    <td>1</td>
+   <td>0</td>
+   <td>0</td>
    <td>7</td>
   </tr>
   <tr>
+   <td>08/4/2024</td>
+   <td>4</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+   <td>6</td>
+  </tr>
+  <tr>
    <td></td>
-   <td>25</td>
+   <td>29</td>
    <td>1</td>
    <td>1</td>
    <td>2</td>
    <td>1</td>
    <td>1</td>
-   <td>31</td>
+   <td>1</td>
+   <td>1</td>
+   <td>37</td>
   </tr>
 </table>
 
@@ -493,6 +511,12 @@ La semana 1 del Sprint 3, es decir la semana de 03/04/2024 se hacen 5 consultas 
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado.png">
 </p>
+
+La semana 2 del Sprint 3, incluida la semana de 15/04/2024(Feria de Sevilla) se han realizado en total 6 consultas a IAs. 4 de ellas fueron realizadas a Chat Gpt, ahorrando en total unas 6 horas estimadas, donde 3/4 fueron consultas dedicadas a tareas de programación. Además, en esta semana se han realizado 2 consultas a dos nuevas IAs: VocalRemover y Veed, centradas para la realización del anuncio. A continuación, se muestra la gráfica del nivel de satisfación frente al ahorro de tiempo estimado:
+<p align="center">
+<img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado S10.png">
+</p>
+
 
 # 7. Conclusión. 
 
