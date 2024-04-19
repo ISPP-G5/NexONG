@@ -44,6 +44,10 @@
 	1. Feedback del grupo 11
 	2. Feedback de Manos Abiertas con Norte
 	3. Futuros cambios
+3. Sprint 3
+	1. Feedback del grupo 11
+	2. Feedback de Manos Abiertas con Norte
+	3. Futuros cambios
 
 
 ## Registro de cambios
@@ -53,7 +57,7 @@
 |1.0.0|28/03/2024|Feedback del Sprint 2|AURORA NAVAS JIMÉNEZ y MARÍA NÚÑEZ REYES | FRANCISCO JAVIER CALDERÓN RODRÍGUEZ|
 |1.0.1|30/03/2024|Cambio de portada según failure conditions|AURORA NAVAS JIMÉNEZ |MANUEL ORTIZ BLANCO y PEDRO LÓPEZ RUZ|
 |2.0.0|05/04/2024|Feedback del Sprint 2 de Manos Abiertas|AURORA NAVAS JIMÉNEZ |CLAUDIA GILABERT PRIETO|
-
+|3.0.0|18/04/2024|Feedback del grupo 11 del Sprint 3|AURORA NAVAS JIMÉNEZ |CLAUDIA GILABERT PRIETO|
 
 ## 1. Introducción
 El presente documento tiene como objetivo principal recopilar y analizar el valioso feedback proporcionado por los usuarios pilotos, previamente definidos en el documento **pilots.md**. Este proceso de retroalimentación juega un papel fundamental en el desarrollo y mejora continua de nuestra aplicación, ya que nos brinda una perspectiva directa de las experiencias, necesidades y sugerencias de aquellos que están utilizando activamente nuestra plataforma en su fase inicial.
@@ -224,3 +228,88 @@ Esta es la información de nuestros usuarios piloto:
 Respecto al feedback recibido por parte del grupo de tarde, habrá una tarea durante el Sprint 3 que será la mitigación de errores y la implementación de sugerencias. El feedback general y el seguridad se tendrán completamente en cuenta en el desarrollo de dicha tarea. Sin embargo, en el rendimiento no se tendrán en cuenta el LCP y el CLS, pero se investigarán las otras cuestiones.
 
 Respecto al feedback recibido por parte de Manos Abiertas con Norte, se tendrá en cuenta todo. Se hará durante el resto del Sprint 3.
+
+## 3. Sprint 3
+En el Sprint 3, la aplicación desplegada junto al formulario (definido en el documento **pilots.md**) se entregaron el 14 de abril. Posteriormente, el formulario se cerró el 18 de abril para el grupo de tarde y el 22 de abril para Manos Abiertas con Norte. Cabe destacar que se hizo un formulario para cada uno de los dos tipos de usuarios piloto, al igual que en el Sprint 2.
+
+### 3.1 Feedback del grupo 11
+Según el commitment agreement de usuarios piloto con el grupo 11 de la tarde, serían 7 personas de cada grupo las que harían el testing. Se han recibido 7 respuestas antes del cierre del formulario, sin embargo, el grupo 11 no entregó su despliegue a tiempo, con lo cual, han vuelto a incumplir nuestro commitment agreement. Este es el feedback recibido:
+#### Página de inicio
+###### Errores
+ - Para las personas que lo probaron el 15 de abril les salía error de CORS. Esto fue arreglado pronto, pero esas personas no pudieron probarlo bien.
+ - En el registro de voluntarios, a veces salen los errores de validaciones y otras no.
+ - En la sección *Asociación* los textos se "buguean" cuando se recarga la página.
+ - En la sección *Entidades* las imágenes no cargan.
+ - Hay fallos 500 al inspeccionar la consola.
+ - Los errores tipo "toast" salen blanco sobre blanco, no se puede leer cual es el error.
+ - Quitar el botón de inicio de sesión con Google si no se va a implementar.
+###### Sugerencias
+- Revisar ortografía de nuevo. Por ejemplo, `Dónde estamos` debería ser `Donde estamos`.
+- En *Historia*, la imagen tiene mala calidad, considerar poner otra fotografía o reducir su tamaño.
+- En *Club de verano*, el texto del cuadro de CLUB DE VERANO no está centrado como el resto de páginas.
+#### Panel de administrador
+##### Perfil
+###### Errores
+- Salta un error 400 al editar.
+- No hay errores de validación.
+##### Gestión de voluntarios
+###### Errores
+- Cuando se actualiza a un voluntario, redirige al perfil del administrador.
+- Deja poner caracteres numéricos como nombre o apellido.
+- Los errores de validaciones son blanco sobre blanco y no se pueden ver.
+##### Gestión de educadores
+###### Errores
+- En la edición de educadores, redirige al perfil del administrador también.
+- No hay mensajes de validaciones.
+- Al crearlos, da un error 400.
+- Deja poner caracteres numéricos como nombre o apellido.
+- Los errores de validaciones son blanco sobre blanco y no se pueden ver.
+##### Gestión de socios
+###### Errores
+- En la edición de socios, redirige al perfil del administrador también.
+- Deja poner caracteres numéricos como nombre o apellido.
+- En la descarga de socios, cuando eliges un formato, se descarga bien, pero, si eliges la opción "Formato a descargar" salta un error 404.
+##### Gestión de familias
+###### Errores
+- Si aceptas una solicitud, el mensaje que sale es `Persona rechazada correctamente`.
+##### Gestión de clases
+###### Errores
+- Mismos errores que en el Sprint 2.
+- Los errores de validaciones son blanco sobre blanco y no se pueden ver.
+##### Gestión de eventos
+###### Errores
+- Los eventos desaparecen al ser editados, hay que recargar la página para verlos.
+- No hay errores de validaciones.
+##### Gestión de documentos
+###### Errores
+- Permite poner fechas muy extremas, como 1000 o 4000.
+- No se muestran en la página de *Transparencia* una vez creados.
+#### Registro de voluntarios
+###### Errores
+- No ha funcionado para algunos de ellos.
+#### Registro de familias
+###### Errores
+- No ha funcionado para algunos de ellos.
+- El token y los términos y condiciones no deberían verse por consola.
+- No hay mensajes de errores de validación.
+
+#### Sugerencia interesante de uno de los usuarios pilotos
+- Creo que el responsiveness de la pagina podría estar mas pulido. Hay paginas que en la versión móvil se ven regular, sobre todo por el header. Quizás sería mejor idea para el header y las secciones implementar un menú de hamburguesa que se despliegue en vez de comprimirlas todas.  Después en las pantallas grandes la aplicación ocupa todo el ancho de la pantalla, lo cual no es muy cómodo, podría ser buena idea utilizar media queries de css para acotar las paginas para tener una anchura máxima (https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/)
+
+Estas son las siete personas del grupo 11 que hicieron de usuarios pilotos:
+
+| Nombre                    | Correo US             | Fecha en que se recepciona el  acceso al sistema | Fecha en la que  envió el feedback | Link de Clockify                                        |
+|---------------------------|-----------------------|--------------------------------------------------|------------------------------------|---------------------------------------------------------|
+| LAURA ROLDÁN MERAT        | laurolmer@alum.us.es  | 15/04/2024                                       | 15/04/2024                         | [Link](https://app.clockify.me/shared/661d67378b3afb4fb192e682)                                                        |
+| MARIO AROCA PÁEZ          | mararopae@alum.us.es  | 15/04/2024                                       | 17/04/2024                         | [Link](https://app.clockify.me/shared/661fe9600730fe5f66b4b47e) |
+| ISMAEL RUIZ JURADO        | ismruijur@alum.us.es  | 15/04/2024                                       | 16/04/2024                         | [Link](https://app.clockify.me/shared/661e953580edc7302cbe6070) |
+| PEDRO JESUS RUIZ AGUILAR  | pedruiagu1@alum.us.es | 15/04/2024                                       | 16/04/2024                         | [Link](https://app.clockify.me/shared/661e96e7ea745f2d088db700) |
+| IVAN SANCHEZ SANJOSE    | ivasansan1@alum.us.es  | 15/04/2024                                       | 15/04/2024                         | [Link](https://app.clockify.me/shared/660497f3e2d3e843b7bb7b89) |
+| JOSE JAVIER ALCOBENDAS SANTOS    | josalcsan1@alum.us.es  | 15/04/2024                                       | 16/04/2024                         | [Link](https://app.clockify.me/shared/6620df3880edc7302cc41155) |
+| VIRGILIO OLIVA ALONSO    | virolialo@alum.us.es  | 15/04/2024                                       | 17/04/2024                         | [Link](https://app.clockify.me/shared/66200c5180edc7302cc27b21) |
+
+### 3.2 Feedback de Manos Abiertas con Norte
+Aún no se ha recibido feedback.
+
+### 3.3 Futuros cambios
+Respecto al feedback recibido por parte del grupo 11, será abordado durante la semana de retrospectiva entre el Sprint 3 y el PPL.
