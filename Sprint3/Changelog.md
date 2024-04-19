@@ -76,17 +76,76 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 
 # 2. Sprint 1
 
+
 ## 2.1. Incrementos Sprint 1
 
 ### Backend
 
+- **[Dummy data (#3)](https://github.com/ISPP-G5/NexONG_Backend/issues/3)**.
+    - Añadidos datos de prueba para frontend.
+
+- **[DB schema implementation (#5)](https://github.com/ISPP-G5/NexONG_Backend/issues/5)**.
+    - Implementado el esquema de la base de datos.
+ 
+- **[Users CRUD (#9)](https://github.com/ISPP-G5/NexONG_Backend/issues/9)**.
+    - Implementadas las operaciones CRUD para usuarios.
+ 
+- **[Creación api rest (#14)](https://github.com/ISPP-G5/NexONG_Backend/issues/14)**.
+    - Creada API REST.
+ 
+- **[Add corsheader and readme update (#17)](https://github.com/ISPP-G5/NexONG_Backend/issues/17)**.
+    - Añadido corsheader.
+    - Actualizado README.md.
+ 
+- **[Upload documents to the DB (#18)](https://github.com/ISPP-G5/NexONG_Backend/issues/18)**.
+    - Añadida la posibilidad de subir documentos a la base de datos.
+ 
+- **[Meeting CRUD (#19)](https://github.com/ISPP-G5/NexONG_Backend/issues/19)**.
+    - Implementadas las operaciones CRUD para reuniones.
+ 
+- **[Event CRUD (#20)](https://github.com/ISPP-G5/NexONG_Backend/issues/20)**.
+    - Implementadas las operaciones CRUD para eventos.
+ 
+- **[Student and CentreExit CRUD (#21)](https://github.com/ISPP-G5/NexONG_Backend/issues/21)**.
+    - Implementadas las operaciones CRUD para alumnos.
+    - Implementadas las operaciones CRUD para salidas.
+ 
+- **[Lesson CRUD (#24)](https://github.com/ISPP-G5/NexONG_Backend/issues/24)**.
+    - Implementadas las operaciones CRUD para clases.
+ 
+- **[Evaluation CRUD (#25)](https://github.com/ISPP-G5/NexONG_Backend/issues/25)**.
+    - Implementadas las operaciones CRUD para evaluaciones.
+ 
+- **[User, Educator, Partner, Volunteer y Family CRUD (#48)](https://github.com/ISPP-G5/NexONG_Backend/issues/48)**.
+    - Implementadas las operaciones CRUD para educadores.
+    - Implementadas las operaciones CRUD para voluntarios.
+    - Implementadas las operaciones CRUD para familias.
+ 
+- **[Donation CRUD (#55)](https://github.com/ISPP-G5/NexONG_Backend/issues/55)**.
+    - Implementadas las operaciones CRUD para donaciones.
+
+
 ### Frontend
+
 
 ## 2.2. Mejoras Sprint 1
 
 ### Backend
 
+- **[Change the DB to PostgreSQL (#16)](https://github.com/ISPP-G5/NexONG_Backend/issues/16)**.
+    - Cambiada la configuración por defecto de SQLite a PostgreSQL.
+ 
+- **[Populate (#52)](https://github.com/ISPP-G5/NexONG_Backend/issues/52)**.
+    - Creada una versión extendida del populate para la base de datos.
+ 
+- **[Revisit Event and LessonEvent CRUD (#57)](https://github.com/ISPP-G5/NexONG_Backend/issues/57)**.
+    - Implementadas más restricciones en CRUD de eventos.
+ 
+- **[Models changes in the app (#61)](https://github.com/ISPP-G5/NexONG_Backend/issues/61)**.
+    - Implementados en modelo los cambios surgidos tras la reunión con el cliente.
+
 ### Frontend
+
 
 ## 2.3. Arreglos Sprint 1
 
@@ -95,13 +154,16 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 ### Frontend
 
 
+
 # 3. Sprint 2
+
 
 ## 3.1. Incrementos Sprint 2
 
 ### Backend
 
 ### Frontend
+
 
 ## 3.2. Mejoras Sprint 2
 
@@ -114,6 +176,7 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 ### Backend
 
 ### Frontend
+
 
 
 # 4. Sprint 3
