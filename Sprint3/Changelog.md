@@ -196,7 +196,7 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
     - Añadida información a la pantalla "La Salle".
  
 - **[Feat/191-Partners membership (#191)](https://github.com/ISPP-G5/NexONG_Frontend/issues/191)**.
-    - Los socios ahora pueden modificar la cantidad que donan y actualizar y cancelar su afiliación.
+    - Los socios ahora pueden modificar la cantidad que donan y actualizar y cancelar su membresía.
  
 - **[Feat/204-Schedule for classes (#204)](https://github.com/ISPP-G5/NexONG_Frontend/issues/204)**.
     - Ahora las clases tienen un horario.
