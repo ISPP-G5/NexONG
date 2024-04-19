@@ -151,6 +151,8 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 
 ### Backend
 
+No aplica.
+
 ### Frontend
 
 
