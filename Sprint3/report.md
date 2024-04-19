@@ -72,7 +72,7 @@
    <td>14/04/2024</td>
    <td>Actualización del documento</td>
    <td>SERGIO AGUAYO OROZCO</td>
-   <td></td>
+   <td>MANUEL ORTIZ BLANCO</td>
   </tr>
 
 </table>
