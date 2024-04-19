@@ -101,4 +101,6 @@ Los resultados tras la aplicación de las soluciones
   
 - Una vez aceptada la pull request e integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
 
+- Llegados el jueves 19 de abril el grupo de tarde realizó el formulario por lo que no llegaron a incumplir totalmente el acuerdo.
+
 
