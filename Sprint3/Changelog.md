@@ -149,7 +149,7 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
     - Definidos estilos para la aplicación.
  
 - **[Feature/40-Connection with the backend (#40)](https://github.com/ISPP-G5/NexONG_Frontend/issues/40)**.
-    - Implementada la conexsión entre backend y frontend mediante un entorno para desarrollo y otro para despliegue.
+    - Implementada la conexión entre backend y frontend mediante un entorno para desarrollo y otro para despliegue.
  
 - **[Feature/50-Agenda2030 (#50)](https://github.com/ISPP-G5/NexONG_Frontend/issues/50)**.
     - Añadida una pantalla de la agenda 2030 a la barra de navegación.
@@ -158,7 +158,7 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
     - Creada la pantalla de voluntarios.
  
 - **[Feature/52-AssociationDropdown-1 (#52)](https://github.com/ISPP-G5/NexONG_Frontend/issues/52)**.
-    - Creado del dropdown de "Asociación" con las pantallas:
+    - Creado el dropdown de "Asociación" con las pantallas:
         - "Nosotros".
         - "Historia".
         - "Misión, Visión y Valores".
@@ -205,13 +205,6 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
  
 - **[Fix styles for admin (#56)](https://github.com/ISPP-G5/NexONG_Frontend/issues/56)**.
     - Mejorados los estilos para las vistas de administradores.
- 
-- **[Feature/61-Landing Page (#61)](https://github.com/ISPP-G5/NexONG_Frontend/issues/61)**.
-    - Traducida Landing Page a español.
-    - Mejorada la Landing Page incluyendo:
-        - Diseño *responsive*.
-        - Miembros del equipo.
-        - Enlaces a las versiones.
      
 - **[Fix/62-Activities screens (#67)](https://github.com/ISPP-G5/NexONG_Frontend/issues/67)**.
     - Cambiado el formato de las pantallas del desplegable de actividades al nuevo estilo.
@@ -615,7 +608,7 @@ No aplica.
     - Añadida la información de la página principal.
  
 - **[Fix/145-About us video and dossier (#145)](https://github.com/ISPP-G5/NexONG_Frontend/issues/145)**.
-    - Añadidos vídeo y dosier en la pantalla "Nosotros".
+    - Añadido vídeo en la pantalla "Nosotros".
  
 - **[Fix/146-History home page (#146)](https://github.com/ISPP-G5/NexONG_Frontend/issues/146)**.
     - Añadida información a la pantalla "Historia".
@@ -654,7 +647,6 @@ No aplica.
     - Voluntarios más pequeños en cabecera.
     - Mensaje si no hay solicitudes en la pantalla de voluntarios para administradores.
     - Mensajes de error de educadores más detallados.
-    - Cambio de añadir educador a un botón.
     - Cambio de campo de tiempo a solo hora y no día.
     - Mensaje de error en socios.
     - Mensaje de error en clases.
