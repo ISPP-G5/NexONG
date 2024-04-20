@@ -127,6 +127,53 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 
 ### Frontend
 
+- **[Home page (#1)](https://github.com/ISPP-G5/NexONG_Frontend/issues/1)**.
+    - Implementada la página de inicio de la aplicación.
+ 
+- **[Screen for the creation of the form (#2)](https://github.com/ISPP-G5/NexONG_Frontend/issues/2)**.
+    - Añadida una pantalla con el formulario de voluntarios.
+ 
+- **[Navbar-Activities (#3)](https://github.com/ISPP-G5/NexONG_Frontend/issues/3)**.
+    - Añadidas las pantallas de actividades a la página principal.
+ 
+- **[Admin-Families (#9)](https://github.com/ISPP-G5/NexONG_Frontend/issues/9)**.
+    - Añadida sección "Familias" a la pantalla de administradores.
+ 
+- **[Admin screen-Account configuration (#10)](https://github.com/ISPP-G5/NexONG_Frontend/issues/10)**.
+    - Añadida pantalla de configuración para administradores.
+ 
+- **[Feature/11-Admin screen- Lessons, events, projects (#11)](https://github.com/ISPP-G5/NexONG_Frontend/issues/11)**.
+    - Añadidas a la pantalla de administradores las secciones "Clases", "Eventos" y "Proyectos".
+ 
+- **[App styles (#12)](https://github.com/ISPP-G5/NexONG_Frontend/issues/12)**.
+    - Definidos estilos para la aplicación.
+ 
+- **[Feature/40-Connection with the backend (#40)](https://github.com/ISPP-G5/NexONG_Frontend/issues/40)**.
+    - Implementada la conexsión entre backend y frontend mediante un entorno para desarrollo y otro para despliegue.
+ 
+- **[Feature/50-Agenda2030 (#50)](https://github.com/ISPP-G5/NexONG_Frontend/issues/50)**.
+    - Añadida una pantalla de la agenda 2030 a la barra de navegación.
+ 
+- **[Feature/51-Volunteers (#51)](https://github.com/ISPP-G5/NexONG_Frontend/issues/51)**.
+    - Creada la pantalla de voluntarios.
+ 
+- **[Feature/52-AssociationDropdown-1 (#52)](https://github.com/ISPP-G5/NexONG_Frontend/issues/52)**.
+    - Creado del dropdown de "Asociación" con las pantallas:
+        - "Nosotros".
+        - "Historia".
+        - "Misión, Visión y Valores".
+     
+- **[Feature/53-AssociationTransparency (#53)](https://github.com/ISPP-G5/NexONG_Frontend/issues/53)**.
+    - Añadida pantalla "Transparencia".
+ 
+- **[Feature/54-AssociationDropdown2 (#54)](https://github.com/ISPP-G5/NexONG_Frontend/issues/54)**.
+    - Añadidas al dropdown de "Asociación" las pantallas:
+        - "Dónde estamos".
+        - "Entidades Colaboradoras".
+     
+- **[Agenda 2030 (#60)](https://github.com/ISPP-G5/NexONG_Frontend/issues/60)**.
+    - Creada la pantalla "Agenda 2030".
+
 
 ## 2.2. Mejoras Sprint 1
 
@@ -146,6 +193,29 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 
 ### Frontend
 
+- **[Fix/39-styles (#39)](https://github.com/ISPP-G5/NexONG_Frontend/issues/39)**.
+    - Arreglados los estilos para ajustarse a distintos tamaños de pantalla.
+ 
+- **[Fix/44-Home page (#44)](https://github.com/ISPP-G5/NexONG_Frontend/issues/44)**.
+    - Ahora el pie de página no ocupa tanta proporción de la pantalla.
+    - Añadida información faltante en la página de inicio.
+ 
+- **[Fix/47-Admin view for families (#47)](https://github.com/ISPP-G5/NexONG_Frontend/issues/47)**.
+    - Mejorada la pantalla de familias para administradores y su funcionalidad.
+ 
+- **[Fix styles for admin (#56)](https://github.com/ISPP-G5/NexONG_Frontend/issues/56)**.
+    - Mejorados los estilos para las vistas de administradores.
+ 
+- **[Feature/61-Landing Page (#61)](https://github.com/ISPP-G5/NexONG_Frontend/issues/61)**.
+    - Traducida Landing Page a español.
+    - Mejorada la Landing Page incluyendo:
+        - Diseño *responsive*.
+        - Miembros del equipo.
+        - Enlaces a las versiones.
+     
+- **[Fix/62-Activities screens (#67)](https://github.com/ISPP-G5/NexONG_Frontend/issues/67)**.
+    - Cambiado el formato de las pantallas del desplegable de actividades al nuevo estilo.
+
 
 ## 2.3. Arreglos Sprint 1
 
@@ -154,7 +224,17 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
 No aplica.
 
 ### Frontend
-
+ 
+- **[Navbar-Register (#4)](https://github.com/ISPP-G5/NexONG_Frontend/issues/4)**.
+    - Cambiada la estructura del formulario de registro.
+ 
+- **[Feature/5-Navbar-Log-in (#5)](https://github.com/ISPP-G5/NexONG_Frontend/issues/5)**.
+    - Cambiada la estructura del formulario de inicio de sesión.
+ 
+- **[Fix/42-register (#42)](https://github.com/ISPP-G5/NexONG_Frontend/issues/42)**.
+    - Arreglado botón de inicio de sesión con Google.
+    - Traducido el formulario de registro a español.
+    - Ahora la página "Registrarse" es más *responsive*.
 
 
 # 3. Sprint 2
