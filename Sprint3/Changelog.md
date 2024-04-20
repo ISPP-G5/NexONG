@@ -608,6 +608,12 @@ No aplica.
     - Habilitado el modelo y CRUD de horario.
     - Habilitado un campo en el usuario para almacenar si este ha aceptado los términos y condiciones y qué versión de estos.
     - La verificación por email se resuelve en backend ahora.
+ 
+- **[Fix name and surname (#181)](https://github.com/ISPP-G5/NexONG_Backend/issues/181)**.
+    - Ahora al registrarse no se permite introducir números en nombre o apellidos.
+ 
+- **[Fix email validation screen (#183)](https://github.com/ISPP-G5/NexONG_Backend/issues/183)**.
+    - Añadida en la validación de la cuenta una pantalla para avisar cuando la cuenta ya está activada.
 
 ### Frontend
 
@@ -668,6 +674,12 @@ No aplica.
  
 - **[Fix/194-Log in and register (#194)](https://github.com/ISPP-G5/NexONG_Frontend/issues/194)**.
     - Ahora se puede crear una cuenta e iniciar sesión sin la extensión Modheader.
+ 
+- **[Fix/214-Toast error (#214)](https://github.com/ISPP-G5/NexONG_Frontend/issues/214)**.
+    - Traducidos todos los mensajes Toast a español.
+    - Eliminados los errores de los mensajes Toast.
+    - Ajustado el color de todos los mensajes Toast a negro sobre blanco.
+    - Eliminado el botón de inicio de sesión con Google.
 
 
 ## 4.3. Arreglos Sprint 3
@@ -704,6 +716,10 @@ No aplica.
  
 - **[Fix user PATCH/PUT (#173)](https://github.com/ISPP-G5/NexONG_Backend/issues/173)**.
     - Ahora se puede editar un usuario.
+ 
+- **[Fix EvaluationType permissions (#175)](https://github.com/ISPP-G5/NexONG_Backend/issues/175)**.
+    - Ahora una familia puede ver los tipos de evaluación.
+    - Arreglado un problema de tipos de evaluación en populate.
 
 ### Frontend
 
@@ -733,3 +749,21 @@ No aplica.
  
 - **[Fix/190-Delete roles (#190)](https://github.com/ISPP-G5/NexONG_Frontend/issues/190)**.
     - Ahora se elimina el rol de un usuario en lugar del usuario en sí.
+ 
+- **[Fix/210-Punctual-Donations (#210)](https://github.com/ISPP-G5/NexONG_Frontend/issues/210)**.
+    - Ahora se pueden realizar donaciones puntuales de nuevo.
+ 
+- **[Fix/212-Log In token (#212)](https://github.com/ISPP-G5/NexONG_Frontend/issues/212)**.
+    - Arregladas las redirecciones tras el inicio de sesión.
+ 
+- **[Fix/215-HomePage (#215)](https://github.com/ISPP-G5/NexONG_Frontend/issues/215)**.
+    - Cambiados los links a imágenes de "Entidades Colaboradoras" por imágenes descargadas.
+    - Cambiada imagen de la pantalla "Historia".
+    - El texto de la pantalla "Club de verano" está centrado ahora.
+ 
+- **[Fix/216-Profile update (#216)](https://github.com/ISPP-G5/NexONG_Frontend/issues/216)**.
+    - Ahora un usuario puede actualizar su perfil sin introducir la contraseña.
+    - Un usuario puede cambiar su email.
+    - Corregida la redirección tras actualizar un perfil.
+    - Ahora un usuario no admnistrador puede borrar su propia cuenta correctamente.
+    - Corregida la redireción tras eliminar una cuenta.
