@@ -173,6 +173,9 @@ en cada Sprint, divididos en: incrementos o *features* (nuevas características 
      
 - **[Agenda 2030 (#60)](https://github.com/ISPP-G5/NexONG_Frontend/issues/60)**.
     - Creada la pantalla "Agenda 2030".
+ 
+- **[SideMenu Integration (#78)](https://github.com/ISPP-G5/NexONG_Frontend/issues/78)**.
+    - Creado menú lateral para las distintas pantallas de usuarios.
 
 
 ## 2.2. Mejoras Sprint 1
