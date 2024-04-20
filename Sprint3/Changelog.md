@@ -344,6 +344,33 @@ No aplica.
  
 - **[Feature/91-VolunteersAttendance (#91)](https://github.com/ISPP-G5/NexONG_Frontend/issues/91)**.
     - Los voluntarios ahora pueden ver el nombre y fecha de los eventos a los que están apuntados.
+ 
+- **[Feature/94-Creation volunteers component (#94)](https://github.com/ISPP-G5/NexONG_Frontend/issues/94)**.
+    - Añadida barra lateral a la pantalla para voluntarios.
+    - Añadida cabecera a la pantalla para voluntarios.
+ 
+- **[Feature/97-Educators component (#97)](https://github.com/ISPP-G5/NexONG_Frontend/issues/94)**.
+    - Añadida barra lateral a la pantalla para educadores.
+    - Añadida cabecera a la pantalla para educadores.
+ 
+- **[Feature/102-Kids evaluation (#102)](https://github.com/ISPP-G5/NexONG_Frontend/issues/102)**.
+    - Creadas las pantallas de evaluación diaria y anual.
+ 
+- **[Feature/116-Suggestion admin (#116)](https://github.com/ISPP-G5/NexONG_Frontend/issues/116)**.
+    - Creada la pantalla "Sugerencias" para administradores.
+    - Los administradores pueden ver las sugerencias en la pantalla correspondiente.
+ 
+- **[Feature/124-Partners screen (#124)](https://github.com/ISPP-G5/NexONG_Frontend/issues/124)**.
+    - Creada una pantalla para socios con un calendario de eventos y reuniones.
+ 
+- **[Feature/125-Educator-activity-screen (#125)](https://github.com/ISPP-G5/NexONG_Frontend/issues/125)**.
+    - Creada pantalla "Actividades" para educadores
+ 
+- **[Feature/126-Partners add button partners (#126)](https://github.com/ISPP-G5/NexONG_Frontend/issues/126)**.
+    - Añadido un botón para descargar un PDF con la información de las donaciones registradas.
+ 
+- **[Feature/128-Volunteer agenda unsuscribe (#128)](https://github.com/ISPP-G5/NexONG_Frontend/issues/128)**.
+    - Ahora los voluntarios tienen opción de cancelar su sucripción a eventos.
 
 
 ## 3.2. Mejoras Sprint 2
@@ -373,6 +400,24 @@ No aplica.
  
 - **[Feature/83-AdminProfile-Back-End (#83)](https://github.com/ISPP-G5/NexONG_Frontend/issues/83)**.
     - Mejorada la pantalla de perfil de administrador.
+ 
+- **[Feature/92-Change favicon (#92)](https://github.com/ISPP-G5/NexONG_Frontend/issues/92)**.
+    - Cambiado el favicon por defecto al logo de la organización.
+ 
+- **[Fix/99-Agenda (#99)](https://github.com/ISPP-G5/NexONG_Frontend/issues/99)**.
+    - Añadido contenido de la pantalla "Agenda 2030".
+ 
+- **[Feature/115-Log Out button (#115)](https://github.com/ISPP-G5/NexONG_Frontend/issues/115)**.
+    - Añadido a botón para cerrar sesión a la cabecera de los usuarios.
+ 
+- **[Fix/121-Volunteers event (#121)](https://github.com/ISPP-G5/NexONG_Frontend/issues/121)**.
+    - Ahora los voluntarios ven de un color distinto los eventos a los que se han apuntado.
+    - Se muestra un mensaje Toast en lugar de un mensaje de alerta cuando un voluntario intenta unirse a un evento al que ya está inscrito.
+    - El formulario ahora se cierra al pulsar el botón de aceptar.
+ 
+- **[Fix/130-Profile update (#130)](https://github.com/ISPP-G5/NexONG_Frontend/issues/130)**.
+    - Ahora para actualizar un perfil es suficiente con hacer un click en el botón en lugar de dos.
+
 
 ## 3.3. Arreglos Sprint 2
 
@@ -436,6 +481,26 @@ No aplica.
 - **[Fix/88-Volunteers form (#88)](https://github.com/ISPP-G5/NexONG_Frontend/issues/88)**.
     - El formulario de voluntarios ahora envía los datos al backend.
     - Mejorado el estilo del botón del formulario de voluntarios.
+ 
+- **[Fix/101-AdminFamilies (#101)](https://github.com/ISPP-G5/NexONG_Frontend/issues/101)**.
+    - Ahora la pantalla "Familias" para administradores muestra datos del backend.
+ 
+- **[Fix/117-Educators Evaluation (#117)](https://github.com/ISPP-G5/NexONG_Frontend/issues/117)**.
+    - Se puede volver a evaluar a un alumno tras los cambios en backend.
+ 
+- **[Fix/118-AdminPartners (#118)](https://github.com/ISPP-G5/NexONG_Frontend/issues/118)**.
+    - Ahora todos los socios pueden ver todas las reuniones.
+ 
+- **[Fix/119-Admin event (#119)](https://github.com/ISPP-G5/NexONG_Frontend/issues/119)**.
+    - Ahora los administradores no tienen opción de seleccionar voluntarios al crear un evento.
+ 
+- **[Fix/122-Add educator (#122)](https://github.com/ISPP-G5/NexONG_Frontend/issues/122)**.
+    - Se muestra un mensaje Toast en lugar de un mensaje de alerta cuando sucede un error al crear un educador.
+    - Ahora un administrador puede aceptar a un educador mediante un botón.
+ 
+- **[Fix/129-Admin families (#129)](https://github.com/ISPP-G5/NexONG_Frontend/issues/129)**.
+    - Arreglada la pantalla "Familias" para administradores para funcionar con los últimos cambios de backend.
+    - Ahora la pantalla "Familias" para administradores es *responsive*.
 
 
 
