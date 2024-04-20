@@ -1,6 +1,42 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Problemas - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
+***MIEMBROS***:
+
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<a name="br2"></a> 
 
 ## Índice
 1. Registro de cambios
@@ -60,7 +96,7 @@ Haciendo enfoque en la parte del frontend, por errores similares al mencionado a
 
 ### Incumplimiento de Commitment Agreement por los usuarios pilotos de nuevo
 
-Como comentamos en anteriores apartados el grupo de tarde y el nuestro firmamos un acuerdo por el que nos comprometiamos a ejercer de usuarios pilotos en unas fechas establecidas. El anterior acuerdo fue roto por el grupo de tarde, ya que les tomaron más tiempo ofrecernos su aplicación desplegada y cuando la recibimos era muy básica con poco con testerar. Recordando esto nos comprometimos en el Commitment Agreement que el día lunes 15 de abril ambos grupos deberiamos de tener la aplicación desplegada para poder testear hasta el día jueves de 18 de abril. Llegado ese lunes nuestro grupo desplegó la aplicación y avisó al grupo de tarde de que ya podían testear. Posteriormente el grupo de tarde, demorandose un poco más, entrego su landing page con la aplicación desplegada.Tras esto, una compañera de nuestro grupo, encargada de comunicarse con el grupo de tarde, entró a testear la aplicación encontrando para su sorpresa una aplicación sin terminar en donde había errores, enlaces que no te redirigian a ningun sitio y en resumen era prácticamente el enlace que nos habían entregado en el testeo del S2. Debido a esto nuestra compañera se puso en contacto con uno de los miembros del otro grupo alegando una explicación a lo que respondió textualmente que nos habían querido engañar, ya que no tenían la aplicación para nada terminada y que no iban a poder terminarla, por lo que nos dijeron que como muy pronto sería el mismo día de la entrega del S3.
+Como comentamos en anteriores apartados, el grupo de tarde y el nuestro firmamos un acuerdo por el que nos comprometiamos a ejercer de usuarios pilotos en unas fechas establecidas. El anterior acuerdo fue roto por el grupo de tarde, ya que les tomaron más tiempo ofrecernos su aplicación desplegada y cuando la recibimos era muy básica con poco que testerar. Recordando esto, nos comprometimos en el Commitment Agreement que el día lunes 15 de abril ambos grupos deberiamos de tener la aplicación desplegada, para poder testear hasta el día jueves de 18 de abril. Llegado ese lunes nuestro grupo desplegó la aplicación y avisó al grupo de tarde de que ya podían testear. Posteriormente, el grupo de tarde, demorandose un poco más, entrego un link con la supuesta aplicación desplegada y con el formulario para realizar el testeo a través de Discord, sin proporcionarnos ningun tipo de landing page.Tras esto, una compañera de nuestro grupo, encargada de comunicarse con el grupo de tarde, entró a testear la aplicación encontrando, para su sorpresa, una aplicación sin terminar en donde había errores, enlaces que no te redirigian a ningun sitio y en resumen, era prácticamente el enlace que nos habían entregado en el testeo del S2. Debido a esto nuestra compañera se puso en contacto con uno de los miembros del otro grupo, alegando una explicación a lo que respondió textualmente que nos habían querido engañar, ya que no tenían la aplicación para nada terminada y que no iban a poder terminarla, por lo que nos dijeron que como muy pronto sería el mismo día de la entrega del S3.
 
  
 
@@ -79,7 +115,7 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
 - Tras trasladar nuestro pensamiento de no cambiar el commitment agreement, los usuarios piloto del grupo de tarde aceptaron las condiciones a muy a su pesar y enviaron una versión desplegada de la apliación ese mismo día.
 - Tras localizar los errores se lanzó una rama hotfix que corregía dichos permisos y se lanzó una pull request para comprobar que verdaderamente se había realizado el cambio.
 - Se notificó a los miembros de frontend del arreglo y se consiguió trabajar en condiciones finalmente.
--Tras esta respuesta del grupo de tarde, la compañera expresó su decepción alegando que no estaba bien lo que habían hecho y que por lo tanto aunque nosotros no pudiesemos testear, ellos deberían de realizar el testeo en la fecha acordada de nuestra aplicación.
+-Tras esta respuesta del grupo de tarde, la compañera expresó su decepción, alegando que no estaba bien lo que habían hecho y que por lo tanto aunque nosotros no pudiesemos testear, ellos deberían de realizar el testeo en la fecha acordada de nuestra aplicación.
 
 ## Resultados
 
@@ -101,6 +137,6 @@ Los resultados tras la aplicación de las soluciones
   
 - Una vez aceptada la pull request e integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
 
-- Llegados el jueves 19 de abril el grupo de tarde realizó el formulario por lo que no llegaron a incumplir totalmente el acuerdo.
+- Llegados el jueves 19 de abril, el grupo de tarde realizó el formulario por lo que no llegaron a incumplir totalmente el acuerdo.
 
 
