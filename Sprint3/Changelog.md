@@ -296,6 +296,24 @@ No aplica.
     - Los voluntarios pueden realizar GET de actividades.
     - Los voluntarios pueden modificar el campo de voluntarios de eventos.
     - Los voluntarios pueden modificar el campo de voluntarios de actividades.
+ 
+- **[Punctual donations & Home documents models and CRUD (#93)](https://github.com/ISPP-G5/NexONG_Backend/issues/93)**.
+    - Creado modelo de donaciones puntuales.
+    - Añadido CRUD de donaciones puntuales
+    - Creado modelo de documentos de la página de inicio.
+    - Añadido CRUD de documentos de la página de inicio.
+ 
+- **[Email validation (#110)](https://github.com/ISPP-G5/NexONG_Backend/issues/110)**.
+    - Implementada verificación de cuenta por email.
+ 
+- **[Educative centre Authorisation (#128)](https://github.com/ISPP-G5/NexONG_Backend/issues/128)**.
+    - Los centros educativos pueden realizar las operaciones CRUD de alumnos.
+    - Los centros educativos realizar las operaciones CRUD de evaluaciones.
+    - Los centros educativos realizar las operaciones CRUD de salidas.
+    - Los centros educativos realizar GET de calificaciones. 
+    - Los centros educativos realizar GET de clases.
+    - Los centros educativos modificar el campo de asistentes a eventos.
+    - Los centros educativos modificar el campo de asistentes a actividades.
 
 ### Frontend
 
@@ -309,6 +327,16 @@ No aplica.
  
 - **[Feature/72 authentication frameworkgoogle (#104)](https://github.com/ISPP-G5/NexONG_Backend/issues/104)**.
     - Refactorizado sistema de autenticación para que utilice Djoser.
+
+- **[Export Donations / Donation data (#81)](https://github.com/ISPP-G5/NexONG_Backend/issues/81)**.
+    - Creados un CSV, un PDF y un Excel de los datos relativos a donaciones.
+    - Añadida opción de descargarlos individualmente o en un ZIP.
+ 
+- **[Files organisation (#82)](https://github.com/ISPP-G5/NexONG_Backend/issues/82)**.
+    - Ahora al subir un archivo a la base de datos el nombre permanece igual.
+ 
+- **[Update readme (#108)](https://github.com/ISPP-G5/NexONG_Backend/issues/108)**.
+    - Actualizado el README de backend.
 
 ### Frontend
 
@@ -327,6 +355,41 @@ No aplica.
     - Modificado *code* para que un alumno pueda tener familia y no centro educativo y viceversa.
     - Ahora una autorización solo puede ser añadida a un alumno y una actividad si la actividad contiene al alumno.
     - Añadida restricción en evaluaciones para que la clase del tipo de evaluación deba contener al alumno evaluado.
+ 
+- **[Suggestion Model and CRUD (#90)](https://github.com/ISPP-G5/NexONG_Backend/issues/90)**.
+    - Creado modelo de sugerencias.
+    - Añadido CRUD de sugerencias.
+    - Añadido CRUD de calificaciones.
+ 
+- **[Download files and fix populate (#92)](https://github.com/ISPP-G5/NexONG_Backend/issues/92)**.
+    - Ahora se pueden descargar archivos del backend.
+    - Arreglados problemas del populate.
+ 
+- **[Documents name (#99)](https://github.com/ISPP-G5/NexONG_Backend/issues/99)**.
+    - Corregidos nombres incorrectos de documentos.
+ 
+- **[Update Populate (#103)](https://github.com/ISPP-G5/NexONG_Backend/issues/103)**.
+    - Actualizado el populate.json.
+ 
+- **[PATCH missing in two API resources (#120)](https://github.com/ISPP-G5/NexONG_Backend/issues/120)**.
+    - Añadida función PATCH a las evaluaciones.
+    - Ahora la fecha de las donaciones puntuales tiene auto-add.
+ 
+- **[Update homeDocument (#123)](https://github.com/ISPP-G5/NexONG_Backend/issues/123)**.
+    - Ahora los documentos de la página de inicio tienen un atributo que indica su tipo:
+        - DOCS_INSTICIONALES.
+        - MEMORIAS_ANUALES.
+        - MEMORIAS_ECONOMICAS.
+        - BALANCE_CUENTAS.
+        - OTROS_DOCS.
+     
+- **[Model fix in some fields (#129)](https://github.com/ISPP-G5/NexONG_Backend/issues/129)**.
+    - Autorización de menores es un campo opcional ahora.
+    - Documento de identificación escaneado es un campo opcional.
+    - El documento de evaluaciones es obligatorio.
+    - El documento de la página de inicio es obligatorio.
+    - La autorización de salida del centro no es obligatoria.
+
 
 ### Frontend
 
