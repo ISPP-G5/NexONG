@@ -52,7 +52,12 @@
    <td>20/4/2024</td>
    <td>Primera versión</td>
    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-   <td></td>
+   <td>
+     <ul>
+     <li>CLAUDIA GILABERT PRIETO</li>
+     <li>PABLO PERIÁÑEZ CABRERO</li>
+     </ul>
+    </td>
   </tr>
 </table>
 
