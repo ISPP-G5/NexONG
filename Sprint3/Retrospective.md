@@ -48,7 +48,8 @@
 5. Retrospectiva 16.03
 6. Retrospectiva 23.03
 7. Retrospectiva 06.04
-8. Conclusiones
+8. Retrospectiva 18.04
+9. Conclusiones
 
 
 
@@ -110,6 +111,13 @@
    <td>Marta Inés González Diánez</td>
    <td>María Nuñez Reyes</td>
   </tr>
+  <tr>
+   <td>7.0.0</td>
+   <td>20/4/2024</td>
+   <td>Añadir Retrospectiva 18.04</td>
+   <td>Marta Inés González Diánez</td>
+   <td>María Nuñez Reyes</td>
+  </tr>
 </table>
 
 
@@ -131,41 +139,6 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 
 
 # 2. Retrospectiva 24.02
-
-**Participants:** 
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 
 ### Went Well
 
@@ -208,42 +181,6 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 
 # 3. Retrospectiva 02.03
 
-
-**Participants:**  
-
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>PEDRO LOPEZ RUZ</td>
-  </tr>
-  <tr>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-    <td>MANUEL ORTIZ BLANCO</td>
-  </tr>
-  <tr>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-  </tr>
-  <tr>
-    <td>ANONYMOUS</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 ### Went Well
 - Team adherence to protocols and good practices.  ( Juan Luis Ruano )
 - Useful feedback in task reviews.  ( Anonymous )
@@ -281,40 +218,6 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - Have informative meetings  with a pre-established order of the day  so the time is used wisely  ( Anonymous )
 
 # 4. Retrospectiva 09.03
-
-**Participants:** 
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 ### Went Well
 - Made changes that the team needed  ( Anonymous )
@@ -359,40 +262,6 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 # 5. Retrospectiva 16.03
 (A partir de esta retrospectiva se quitó el anonimato, esto se discutió y aprobó entre todos los miembros del equipo. De esta manera esperamos obtener comentarios más constructivos y evitar aquellos que sean destructivos.)
 
-**Participants:** 
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 ### Went Well
 - Better general atmosphere   ( Aurora Navas )
 - Better communication and problem solving  ( Marta González )
@@ -423,40 +292,6 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 
 # 6. Retrospectiva 23.03
 
-**Participants:** 
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 ### Went Well
 - Everything went better than lasts weeks  ( Pablo P )
 - Documentation tasks assigned since the first day of the week  ( Pedro López Ruz )
@@ -483,40 +318,7 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - Having meetings between frontend and backend before changing how everything works  ( Francisco Calderón )
 
 # 7. Retrospectiva 06.04
-
-**Participants:** 
-<table>
-  <tr>
-    <td>AURORA NAVAS JIMÉNEZ</td>
-    <td>MARÍA NÚÑEZ REYES</td>
-    <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-  </tr>
-  <tr>
-    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
-    <td>PABLO PERIÁÑEZ CABRERO</td>
-    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-    <td>PEDRO LOPEZ RUZ</td>
-    <td>IVÁN RAMÍREZ LARA</td>
-    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
-  </tr>
-  <tr>
-    <td>MANUEL ORTIZ BLANCO</td>
-    <td>SERGIO AGUAYO OROZCO</td>
-    <td>JUAN LUIS RUANO MURIEDAS</td>
-  </tr>
-  <tr>
-    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+(A partir de esta semana se añadió una columna de personas que te han ayudado, para así empezar a tener en cuenta la ayuda dada a otros compañeros en las evaluaciones)
 
 ### Went Well
 - Better issue descriptions by the team in general  ( Samuel  )
@@ -562,8 +364,49 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - Rosso  ( Anonymous )
 - Romalde  ( Anonymous, 1 Up Votes )
 
+# 8. Retrospectiva 18.04
 
-# 8. Conclusiones
+### Went Well
+- Amount of hours put in  ( Samuel  )
+- The team leader is involved and concerned about all issue  ( Manuel Barcia Jiménez )
+- Quick response for fixing errors between back and front  ( Claudia Gilabert Prieto )
+- Available people were quick to help each other  ( Aurora )
+- we managed to distribute the tasks efficiently  ( Felix )
+- deploy was fast and on time  ( Maria, 1 Up Vote  )
+
+
+### To Improve
+- Meeting deadlines (myself included)  ( Samuel  )
+- Uneven distribution of work  ( Marta González )
+- Finish tasks for the deadlines and not leaving everything for the last minute  ( Claudia Gilabert Prieto )
+- Tasks that were supposed to be finished for pilot users deploy were not done. Seemed like not everyone has the same right to have holidays.  ( Aurora )
+- everybody should put the same amount of effort  we are a team  ( Maria, 3 Up Votes  )
+
+
+### Action Items
+
+
+### I recived help from
+- AURORA NAVAS JIMÉNEZ  ( Anonymous, 4 Up Votes  )
+- MARÍA NÚÑEZ REYES  ( Anonymous, 4 Up Votes  )
+- CLAUDIA GILABERT PRIETO  ( Anonymous, 2 Up Votes  )
+- MARTA INÉS GONZÁLEZ DIÁNEZ  ( Anonymous, 2 Up Votes  )
+- FÉLIX ÁNGEL GUDIEL GÜEMES  ( Anonymous, 2 Up Votes  )
+- MIGUEL ANGEL ROMALDE DORADO  ( Anonymous )
+- FRANCISCO DE ASÍS ROSSO RAMÍREZ  ( Anonymous )
+- PABLO PERIÁÑEZ CABRERO  ( Anonymous, 3 Up Votes  )
+- FRANCISCO JAVIER CALDERÓN RODRÍGUEZ  ( Anonymous )
+- PEDRO LOPEZ RUZ  ( Anonymous )
+- IVÁN RAMÍREZ LARA  ( Anonymous, 1 Up Vote  )
+- SAMUEL LUIS RODRÍGUEZ MANESS  ( Anonymous, 2 Up Votes  )
+- MANUEL ORTIZ BLANCO  ( Anonymous, 2 Up Votes  )
+- SERGIO AGUAYO OROZCO  ( Anonymous )
+- JUAN LUIS RUANO MURIEDAS  ( Anonymous, 1 Up Vote  )
+- MANUEL FRANCISCO BARCIA JIMENEZ  ( Anonymous, 1 Up Vote  )
+
+
+
+# 9. Conclusiones
 
 Tras la primera semana, se puede ver que el ambiente del equipo es positivo, pero que todavía hay bastantes aspectos de la organización que se pueden mejorar, e incluso se aportan algunas posibles soluciones o soluciones que se han ido tomando, como el nivel de comunicación. Sin embargo, se puede ver recogido que actualmente hay una necesidad de mejorar la organización de tareas y del cumplimiento de las tareas asociadas por rol. 
 
@@ -574,3 +417,5 @@ Después de la retrospectiva de la semana pasada y habernos reunido todos para d
 Finalmente, tras la restrospectiva del 16 de marzo, se ve una mejora en el ambiente de equipo, aumentando el número de cosas que han ido bien y disminuyendo considerablemente las cosas que mejorar, las cuales son también más constructivas. Gracias a esta retrospectiva nos hemos dado cuenta de que las soluciones que estamos implementando funcionan.
 
 Siguiendo la línea de avance postivo que llevabamos las últimas semanas, la retrospectiva del día 23 de marzo vuelve a ser optimista. Sin embargo, si que se detectan algunos problemas graves que hay que solucionar, como puede ser la comunicación entre Backend y Frontend, aunque también se ofrece una clara solución, que es que los líderes de ambos equipos tengan un mayor nivel de comunicación entre ellos. Pero en esta semana lo que vemos más importante destacar es la mejora, ya no solo del ambiente, sino también de la organización de las tareas. 
+
+En la última semana del Sprint 3, ya se ve que cada vez los problemas son menos, el ambiente ha mejorado mucho, pero hay un sentimiento general de desequilibrio en cuanto a carga de trabajo, pero no se aporta ninguna idea de posibles soluciones.
