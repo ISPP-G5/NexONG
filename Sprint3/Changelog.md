@@ -240,12 +240,62 @@ No aplica.
     - Ahora la página "Registrarse" es más *responsive*.
 
 
+
 # 3. Sprint 2
 
 
 ## 3.1. Incrementos Sprint 2
 
 ### Backend
+
+- **[Admin authorisation (#73)](https://github.com/ISPP-G5/NexONG_Backend/issues/73)**.
+    - Los administradores pueden realizar POST, PUT y DELETE sobre todos los eventos.
+    - Los administradores pueden realizar POST, PUT y DELETE sobre todas las clases.
+    - Solo los usuarios autenticados pueden realizar GET de clases y eventos
+    - Los administradores pueden realizar POST de educadores y de usuarios con rol de educador.
+    - Los administradores no pueden realizar POST de alumnos o de usuarios con rol distinto a educador.
+    - Los administradores no pueden realizar POST de donaciones.
+    - Los administradores no pueden realizar POST de calificaciones de cuatrimestre.
+ 
+- **[Student and Family Authorisation (#74)](https://github.com/ISPP-G5/NexONG_Backend/issues/74)**.
+    - Las familias pueden realizar las operaciones CRUD de alumnos.
+    - Las familias pueden realizar las operaciones CRUD de evaluaciones.
+    - Las familias pueden realizar las operaciones CRUD de salidas.
+    - Las familias pueden realizar GET de calificaciones. 
+    - Las familias pueden realizar GET de clases.
+    - Las familias pueden modificar el campo de asistentes a eventos.
+    - Las familias pueden modificar el campo de asistentes a actividades.
+ 
+- **[Educator authorisation (#75)](https://github.com/ISPP-G5/NexONG_Backend/issues/75)**.
+    - Los educadores pueden realizar las operaciones CRUD de evaluaciones.
+    - Los educadores pueden realizar las operaciones CRUD de tipos de evaluación.
+    - Los educadores pueden realizar GET de asistencia a clases.
+    - Los educadores pueden realizar GET de actividades.
+    - Los educadores pueden realizar GET de alumnos.
+    - Los educadores pueden realizar GET de autorizaciones.
+    - Los educadores pueden realizar GET de evaluaciones.
+    - Los educadores pueden realizar GET de clases.
+    - Los educadores pueden realizar PUT en el campo de educadores de una actividad.
+    - Los educadores pueden realizar PUT en el campo de asistentes de una actividad.
+    - Los educadores pueden modificar solo las clases en las que son educadores.
+    - Los educadores no pueden modificar el campo de educadores de las clases.
+ 
+- **[Partner Authorisation (#76)](https://github.com/ISPP-G5/NexONG_Backend/issues/76)**.
+    - Los socios pueden realizar GET de eventos.
+    - Los socios pueden realizar GET de actividades.
+    - Los socios pueden realizar GET de reuniones.
+    - Los socios pueden realizar GET de donaciones.
+    - Los socios pueden realizar GET de donaciones puntuales.
+    - Los socios pueden realizar POST de donaciones.
+    - Los socios pueden realizar POST de donaciones puntuales.
+    - Los socios pueden realizar PUT del campo de asistentes en las reuniones.
+ 
+- **[Volunteer Authorisation (#77)](https://github.com/ISPP-G5/NexONG_Backend/issues/77)**.
+    - Los voluntarios pueden realizar las operaciones CRU de asistencia a clases.
+    - Los voluntarios pueden realizar GET de eventos.
+    - Los voluntarios pueden realizar GET de actividades.
+    - Los voluntarios pueden modificar el campo de voluntarios de eventos.
+    - Los voluntarios pueden modificar el campo de voluntarios de actividades.
 
 ### Frontend
 
@@ -254,11 +304,29 @@ No aplica.
 
 ### Backend
 
+- **[Remove the admin authentication for frontend (#69)](https://github.com/ISPP-G5/NexONG_Backend/issues/69)**.
+    - Eliminada la autenticación de administradores.
+ 
+- **[Feature/72 authentication frameworkgoogle (#104)](https://github.com/ISPP-G5/NexONG_Backend/issues/104)**.
+    - Refactorizado sistema de autenticación para que utilice Djoser.
+
 ### Frontend
 
 ## 3.3. Arreglos Sprint 2
 
 ### Backend
+
+- **[Feature/71 check all business logic (#71)](https://github.com/ISPP-G5/NexONG_Backend/issues/71)**.
+    - Los usuarios ahora deben tener un objeto asociado al rol que tienen.
+    - El *id_number* de un usuario ahora debe seguir el patrón de un DNI.
+    - El precio de ambos tipos de eventos puede ser ahora float en lugar de solo integer.
+    - Ahora al añadir un alumno a una clase se comprueba si ambos son de mañana.
+    - Añadida una comprobación para el IBAN.
+    - Añadida una comprobación para el formato del código postal.
+    - Añadida una comprobación que evita 2 actividades de la misma clase al mismo tiempo.
+    - Modificado *code* para que un alumno pueda tener familia y no centro educativo y viceversa.
+    - Ahora una autorización solo puede ser añadida a un alumno y una actividad si la actividad contiene al alumno.
+    - Añadida restricción en evaluaciones para que la clase del tipo de evaluación deba contener al alumno evaluado.
 
 ### Frontend
 
