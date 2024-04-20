@@ -49,7 +49,7 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>11/4/2024</td>
+   <td>20/4/2024</td>
    <td>Primera versión</td>
    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
    <td></td>
