@@ -533,9 +533,6 @@ No aplica.
 - **[Feature/120-Admin volunteers docs (#120)](https://github.com/ISPP-G5/NexONG_Frontend/issues/120)**.
     - Añadido botón para que un administrador pueda descargar un ZIP con todos los documentos entregados por un voluntario al rellenar su formulario.
 
-- **[Feature/161-Payment system (#161)](https://github.com/ISPP-G5/NexONG_Frontend/issues/161)**.
-    - Añadida la parte frontend para el sistema de pago implementado en backend.
-
 - **[Feature/165-Recurring donations (#165)](https://github.com/ISPP-G5/NexONG_Frontend/issues/165)**.
     - Ahora es posible registrarse como socio desde la pantalla "Registrarse"; hay que completar un segundo formulario para los datos que faltan.
     - Rediseño de la pantalla "Donaciones" para volverla *responsive* y reducir la parte de donaciones recurrentes.
