@@ -106,7 +106,7 @@ Nuestro marketing irá en paralelo en ambas redes.
 
 Nuestro principal objetivo es conseguir que otras ONGs similares contacten con nosotros y quieran hacer uso de nuestro servicio. 
 Para ello, procuraremos subir el siguiente contenido:
-- Posts con las actualizaciones de la aplicación
+- Posts con las nuevas features de la aplicación
 - Videos demo de la aplicación
 - Anuncios
 - Reviews de Manos Abiertas con Norte (Videos/Fotos con testimonios de los usuarios)
