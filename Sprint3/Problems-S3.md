@@ -1,7 +1,6 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Problemas - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
-
 ***MIEMBROS***:
 
 <table>
@@ -37,6 +36,7 @@
   </tr>
 </table>
 
+<a name="br2"></a> 
 
 ## Índice
 1. Registro de cambios
@@ -51,6 +51,7 @@
 2.0.0 | 16/3/2024 | Semana 7 | MARÍA NÚÑEZ REYES | CLAUDIA GILABERT PRIETO
 3.0.0 | 30/3/2024 | Semana 8 | PEDRO LÓPEZ RUZ | SAMUEL LUIS RODRÍGUEZ MANESS
 4.0.0 | 7/4/2024 | Semana 9 | PEDRO LÓPEZ RUZ Y SAMUEL LUIS RODRÍGUEZ MANESS | MARÍA NÚÑEZ REYES
+5.0.0 | 19/4/2024 | Semana 10 | PEDRO LÓPEZ RUZ| MARÍA NÚÑEZ REYES
 
 
 
@@ -93,6 +94,10 @@ Durante la realización de los test en el backend, varios compañeros se dieron 
 
 Haciendo enfoque en la parte del frontend, por errores similares al mencionado anteriormente algunos miembros han tenido que empezar sus tareas más tarde de lo habitual y han sido acabadas mucho más cerca de la deadline, mientras que otras no han sido terminadas.
 
+### Incumplimiento de Commitment Agreement por los usuarios pilotos de nuevo
+
+Como comentamos en anteriores apartados, el grupo de tarde y el nuestro firmamos un acuerdo por el que nos comprometiamos a ejercer de usuarios pilotos en unas fechas establecidas. El anterior acuerdo fue roto por el grupo de tarde, ya que les tomaron más tiempo ofrecernos su aplicación desplegada y cuando la recibimos era muy básica con poco que testerar. Recordando esto, nos comprometimos en el Commitment Agreement que el día lunes 15 de abril ambos grupos deberiamos de tener la aplicación desplegada, para poder testear hasta el día jueves de 18 de abril. Llegado ese lunes nuestro grupo desplegó la aplicación y avisó al grupo de tarde de que ya podían testear. Posteriormente, el grupo de tarde, demorandose un poco más, entrego un link con la supuesta aplicación desplegada y con el formulario para realizar el testeo a través de Discord, sin proporcionarnos ningun tipo de landing page.Tras esto, una compañera de nuestro grupo, encargada de comunicarse con el grupo de tarde, entró a testear la aplicación encontrando, para su sorpresa, una aplicación sin terminar en donde había errores, enlaces que no te redirigian a ningun sitio y en resumen, era prácticamente el enlace que nos habían entregado en el testeo del S2. Tras comprobar el contenido nuestra compañera se puso en contacto con uno de los miembros del otro grupo, alegando una explicación a lo que respondió textualmente que nos habían querido engañar, ya que no tenían la aplicación para nada terminada y que no iban a poder terminarla, por lo que nos dijeron que como muy pronto sería el mismo día de la entrega del S3.
+
  
 
 ## Soluciones
@@ -108,11 +113,9 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
 - Buscar una mayor alineación entre los requerimientos solicitados por las páginas y la base de datos del backend a través del diálogo entre ambos equipos.
 - Una vez se localizó el problema del merge se creo un rama Hotfix para intentar mitigar los daños causados 
 - Tras trasladar nuestro pensamiento de no cambiar el commitment agreement, los usuarios piloto del grupo de tarde aceptaron las condiciones a muy a su pesar y enviaron una versión desplegada de la apliación ese mismo día.
-
-
-
 - Tras localizar los errores se lanzó una rama hotfix que corregía dichos permisos y se lanzó una pull request para comprobar que verdaderamente se había realizado el cambio.
 - Se notificó a los miembros de frontend del arreglo y se consiguió trabajar en condiciones finalmente.
+- Una vez recibida tal respuesta del grupo de tarde, la compañera expresó su decepción, alegando que no estaba bien lo que habían hecho y que por lo tanto aunque nosotros no pudiesemos testear, ellos deberían de realizar el testeo en la fecha acordada de nuestra aplicación.
 
 ## Resultados
 
@@ -133,5 +136,7 @@ Los resultados tras la aplicación de las soluciones
 - Cuando los usuarios pilotos de nuestro grupo accedieron a la versión desplegada del grupo de tarde, rápidamente se dieron cuenta de que era una versión bastante básica sin apenas funcionalidades, por lo que no pudieron testear demasiado.
   
 - Una vez aceptada la pull request e integrada en la rama develop, el equipo frontend pudo trabajar sin ningun tipo de problema.
+
+- Finalmente, llegados el jueves 19 de abril, el grupo de tarde realizó el formulario por lo que no llegaron a incumplir totalmente el acuerdo.
 
 
