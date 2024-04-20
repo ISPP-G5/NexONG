@@ -508,18 +508,6 @@ No aplica.
 
 ### Backend
 
-- **[Export Partner / Partners data (#78)](https://github.com/ISPP-G5/NexONG_Backend/issues/78)**.
-    - Creados un CSV, un PDF y un Excel de los datos relativos a socios.
-    - Añadida opción de descargarlos individualmente o en un ZIP.
-
-- **[Export Volunteer / Volunteers data (#79)](https://github.com/ISPP-G5/NexONG_Backend/issues/79)**.
-    - Creados un CSV, un PDF y un Excel de los datos relativos a voluntarios.
-    - Añadida opción de descargarlos individualmente o en un ZIP.
-
-- **[Export Students / Student data (#80)](https://github.com/ISPP-G5/NexONG_Backend/issues/80)**.
-    - Creados un CSV, un PDF y un Excel de los datos relativos a alumnos.
-    - Añadida opción de descargarlos individualmente o en un ZIP.
-
 - **[Terms (#135)](https://github.com/ISPP-G5/NexONG_Backend/issues/135)**.
     - Añadida al modelo una tabla que registra quién ha aceptado qué versión de los términos y condiciones.
 
@@ -587,6 +575,18 @@ No aplica.
 ## 4.2. Mejoras Sprint 3
 
 ### Backend
+
+- **[Export Partner / Partners data (#78)](https://github.com/ISPP-G5/NexONG_Backend/issues/78)**.
+    - Creados un CSV, un PDF y un Excel de los datos relativos a socios.
+    - Añadida opción de descargarlos individualmente o en un ZIP.
+
+- **[Export Volunteer / Volunteers data (#79)](https://github.com/ISPP-G5/NexONG_Backend/issues/79)**.
+    - Creados un CSV, un PDF y un Excel de los datos relativos a voluntarios.
+    - Añadida opción de descargarlos individualmente o en un ZIP.
+
+- **[Export Students / Student data (#80)](https://github.com/ISPP-G5/NexONG_Backend/issues/80)**.
+    - Creados un CSV, un PDF y un Excel de los datos relativos a alumnos.
+    - Añadida opción de descargarlos individualmente o en un ZIP.
 
 - **[Feedback of pilot users (#133)](https://github.com/ISPP-G5/NexONG_Backend/issues/133)**.
 
