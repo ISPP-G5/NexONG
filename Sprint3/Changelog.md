@@ -317,6 +317,34 @@ No aplica.
 
 ### Frontend
 
+- **[Feature/7-Admin screen- volunteers and educators (#7)](https://github.com/ISPP-G5/NexONG_Frontend/issues/7)**.
+    - Los administradores pueden ver los educadores.
+    - Los administradores pueden ver los voluntarios.
+    - Los administradores pueden aceptar las solicitudes de educadores.
+    - Los administradores pueden aceptar las solicitudes de voluntarios.
+ 
+- **[Feature/8-AdminScreen Partners(#8)](https://github.com/ISPP-G5/NexONG_Frontend/issues/8)**.
+    - Los administradores pueden ver los socios.
+ 
+- **[Feature/80-Navbar:Donations (#80)](https://github.com/ISPP-G5/NexONG_Frontend/issues/80)**.
+    - Creada la pantalla de "Donaciones".
+ 
+- **[Feature/81-Navbar suggestions (#81)](https://github.com/ISPP-G5/NexONG_Frontend/issues/81)**.
+    - Creada la pantalla "Sugerencias".
+ 
+- **[Feature/85-LogIn (#85)](https://github.com/ISPP-G5/NexONG_Frontend/issues/85)**.
+    - Creada una pantalla de inicio de sesión para distintos tipos de usuario.
+ 
+- **[Feature/86-Navbar suggestions (#86)](https://github.com/ISPP-G5/NexONG_Frontend/issues/86)**.
+    - Ahora los voluntarios pueden ver y editar su perfil.
+ 
+- **[Feature/90-VolunteersAgenda (#90)](https://github.com/ISPP-G5/NexONG_Frontend/issues/90)**.
+    - Los voluntarios pueden ver la agenda de eventos.
+    - Los voluntarios pueden apuntarse a eventos desde la agenda.
+ 
+- **[Feature/91-VolunteersAttendance (#91)](https://github.com/ISPP-G5/NexONG_Frontend/issues/91)**.
+    - Los voluntarios ahora pueden ver el nombre y fecha de los eventos a los que están apuntados.
+
 
 ## 3.2. Mejoras Sprint 2
 
@@ -339,6 +367,12 @@ No aplica.
     - Actualizado el README de backend.
 
 ### Frontend
+
+- **[Fix/82-Styles (#82)](https://github.com/ISPP-G5/NexONG_Frontend/issues/82)**.
+    - Mejorados los estilos de toda la aplicación de forma más *responsive*.
+ 
+- **[Feature/83-AdminProfile-Back-End (#83)](https://github.com/ISPP-G5/NexONG_Frontend/issues/83)**.
+    - Mejorada la pantalla de perfil de administrador.
 
 ## 3.3. Arreglos Sprint 2
 
@@ -392,6 +426,16 @@ No aplica.
 
 
 ### Frontend
+
+- **[Fix/84-create-classes-events-projects (#110)](https://github.com/ISPP-G5/NexONG_Frontend/issues/110)**.
+    - Los administradores pueden ver las clases.
+    - Los administradores pueden ver los eventos en el calendario.
+    - Los administradores pueden crear clases.
+    - Los administradores pueden crear eventos.
+ 
+- **[Fix/88-Volunteers form (#88)](https://github.com/ISPP-G5/NexONG_Frontend/issues/88)**.
+    - El formulario de voluntarios ahora envía los datos al backend.
+    - Mejorado el estilo del botón del formulario de voluntarios.
 
 
 
