@@ -102,7 +102,7 @@
    <td>21/4/2024</td>
     <td>Añadir rendimiento del S3</td>
     <td>Pablo Periañez, Marta González</td>
-    <td></td>
+    <td>Aurora Navas</td>
   </tr>
 </table>
 
