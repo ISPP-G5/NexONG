@@ -48,6 +48,8 @@
    5. Responsabilidades individuales en S1
    6. Rendimiento del S2
    7. Responsabilidades individuales en S2
+   8. Rendimiento del S3
+   9. Responsabilidades individuales en S3
 
 
 ## Registro de cambios
