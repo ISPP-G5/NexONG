@@ -1,6 +1,41 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecciones Aprendidas - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
+***MIEMBROS***:
+
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 <a name="br2"></a> 
 
 ## Índice
@@ -57,7 +92,7 @@
    <td>19/4/2024</td>
    <td>Añadido lecciones aprendidas durante la semana 10 (Sprint 3)</td>
    <td>PEDRO LÓPEZ RUZ</td>
-   <td>ARTA INÉS GONZÁLEZ DIÁNEZ</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
@@ -83,8 +118,7 @@ A lo largo del desarrollo del proyecto hemos ido adquiriendo experiencia y sacan
 
 ● Llevar a cabo lo antes posible cambios que puedan tener consecuencias a largo plazo. Cambios no realizados a tiempo solo crecerán hasta volverse un mayor problema cuando sea inevitable enfrentarlo, por lo que no podemos dejar que la falta de iniciativa de un primer momento nos exponga a ese riesgo.
 
-
-● Anteponer el cliente a nuestra conveniencia. Debemos recordar en todo momento que nuestro principal objetivo es satisfacer al cliente, sus condiciones y lo que pueda serle de más utilidad, aunque pueda en ocasiones supone tedio adicional.
+● Anteponer el cliente a nuestra conveniencia. Debemos recordar en todo momento que nuestro principal objetivo es satisfacer al cliente, sus condiciones y lo que pueda serle de más utilidad, aunque en ocasiones suponga algo más tedioso de lo normal.
 
 ● Asegurarnos de conocer los procedimientos de grupo desde el primer momento. De esta forma nos ahorraremos tener que corregir retroactivamente acciones que no se correspondan con la forma de actuación general, beneﬁciando a la gestión del equipo y
 de la documentación.
@@ -95,7 +129,7 @@ de la documentación.
 
 ● Las políticas del repositorio muy estrictas pueden causar problemas de rendimiento.
 
-● Efectuar una buena política de evaluación de los miembros del equipo desde un primer momento, de está manera se logra evitar discrepancias y malos rollos entre el grupo
+● Efectuar una buena política de evaluación de los miembros del equipo desde un primer momento, de está manera se logra evitar discrepancias y malos rollos entre el grupo.
 
 ● Realizar actividades de planiﬁcación usando herramientas tipo estimación poker, de esta manera se realiza una medición del rendimiento más óptima, ayudando a realizar mejor la evaluación de los miembros del grupo.
 
