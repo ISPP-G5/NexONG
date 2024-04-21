@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uso de Inteligencias Artificiales - Sprint 3
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Documento de bugs encontrados - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
@@ -30,7 +30,7 @@
    <td>21/04/2024</td>
    <td>Primera versión</td>
    <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>PEDRO LOPEZ RUZ</td>
+   <td>MARTA INÉS</td>
   </tr>
 </table>
 
@@ -70,6 +70,29 @@ En este apartado vamos a indicar la tabla con los bugs obtenidos al hacer los te
    <td>03/04/2024</td>
    <td>El problema es que en los permisos del endpoint, no existían permisos para poder hacer post, por lo tanto no podíamos crearlos</td>
    <td>Se ha puesto permisos de post, además de los demás permisos, para solucionar el problema</td>
+  </tr>
+</table>
+
+Aquí que que tipo de pruebas hemos hecho
+
+<table>
+  <tr>
+   <td><strong>Tipo</strong>
+   </td>
+   <td><strong>Numero de tests</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Unitarios</td>
+   <td>93</td>
+  </tr>
+   <tr>
+   <td>Integración</td>
+   <td>22</td>
+  </tr>
+   <tr>
+   <td>Carga</td>
+   <td>3</td>
   </tr>
 </table>
 
