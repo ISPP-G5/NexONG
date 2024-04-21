@@ -49,7 +49,7 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>20/4/2024</td>
+   <td>21/4/2024</td>
    <td>Primera versión</td>
    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
    <td>
@@ -346,7 +346,7 @@ No aplica.
  
 - **[Feature/97-Educators component (#97)](https://github.com/ISPP-G5/NexONG_Frontend/issues/94)**.
     - Añadida barra lateral a la pantalla para educadores.
-    - Añadida cabecera a la pantalla para educadores.
+    - Añadida la cabecera a la pantalla para educadores.
  
 - **[Feature/102-Kids evaluation (#102)](https://github.com/ISPP-G5/NexONG_Frontend/issues/102)**.
     - Creadas las pantallas de evaluación diaria y anual.
@@ -365,7 +365,7 @@ No aplica.
     - Añadido un botón para descargar un PDF con la información de las donaciones registradas.
  
 - **[Feature/128-Volunteer agenda unsuscribe (#128)](https://github.com/ISPP-G5/NexONG_Frontend/issues/128)**.
-    - Ahora los voluntarios tienen opción de cancelar su sucripción a eventos.
+    - Ahora los voluntarios tienen opción de cancelar su participación en eventos.
 
 
 ## 3.2. Mejoras Sprint 2
