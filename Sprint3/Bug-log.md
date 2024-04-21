@@ -27,7 +27,7 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>21/04/2024</td>G
+   <td>21/04/2024</td>
    <td>Primera versión</td>
    <td>MIGUEL ANGEL ROMALDE DORADO</td>
    <td>PEDRO LOPEZ RUZ</td>
@@ -67,7 +67,7 @@ En este apartado vamos a indicar la tabla con los bugs obtenidos al hacer los te
   </tr>
   <tr>
    <td>No se podía crear un partner o un voluntario</td>
-   <td>03/04/2024</td>G
+   <td>03/04/2024</td>
    <td>El problema es que en los permisos del endpoint, no existían permisos para poder hacer post, por lo tanto no podíamos crearlos</td>
    <td>Se ha puesto permisos de post, además de los demás permisos, para solucionar el problema</td>
   </tr>
