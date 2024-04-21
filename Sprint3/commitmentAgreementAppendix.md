@@ -48,6 +48,8 @@
    5. Responsabilidades individuales en S1
    6. Rendimiento del S2
    7. Responsabilidades individuales en S2
+   8. Rendimiento del S3
+   9. Responsabilidades individuales en S3
 
 
 ## Registro de cambios
@@ -94,6 +96,13 @@
     <td>Cambio de los porcentajes de evaluación</td>
     <td>Pablo Periañez, Marta González</td>
     <td>Aurora Navas Jiménez</td>
+  </tr>
+  <tr>
+   <td>5.0.0</td>
+   <td>21/4/2024</td>
+    <td>Añadir rendimiento del S3</td>
+    <td>Pablo Periañez, Marta González</td>
+    <td>Aurora Navas</td>
   </tr>
 </table>
 
@@ -437,3 +446,107 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Advertisement
     * Register and login
     * Authorisation framework
+
+
+## Rendimiento del S3
+
+Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint3:
+
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/dc49f6c7-aeb2-438c-9434-fdae3f877f16)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/a48baf66-5324-470f-8fea-cef42608f3b5)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/16a854bf-f782-4114-bbec-c6e8092cf176)
+
+## Responsabilidades individuales en S3
+
+Se acuerda, mediante consenso, asignar responsabilidades individuales y compartidas a todos los miembros del equipo durante el Sprint 3. Es de suma importancia que estas tareas se completen dentro del plazo establecido, siendo acompañadas de posibles recompensas por su ejecución exitosa o, en caso de incumplimiento, de las consecuencias definidas en el Commitment Agreement. A continuación se describen las responsabilidades individuales comprometidas por cada miembro del equipo:
+
+* AURORA NAVAS JIMÉNEZ
+    * Deploy
+    * Comittement agreement with pilots users
+    * Pilots users docs
+    * Software Reviewer guidelines
+    * Pilots users feedback
+    * Google Compute engine
+* CLAUDIA GILABERT PRIETO
+    * Frontend team lead
+    * Learned lessons
+    * Token session
+    * Donations export
+    * Privacy policy
+    * La Salle Homepage
+    * Pilots users feedback
+    * Deploy*
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * TCO
+    * Deployed software review*
+    * Family authorizations
+    * Evaluation
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * Changelog
+    * Recurring donations
+    * Mission and values
+    * Association information
+    * Punctual donations
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * Family registration
+* IVÁN RAMÍREZ LARA
+    * Summer School
+    * Admin family request
+    * Payment system*
+    * Edit educator and volunteer
+* MANUEL ORTIZ BLANCO
+    * AI Report
+    * Poker planning
+    * Fix models and emails
+    * Terms and conditions
+* JUAN LUIS RUANO MURIEDAS
+    * SLA
+    * Script to deploy
+    * Educator's tests
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Customer agreement
+    * Volunteer's calendar
+    * Family's calendar
+    * Volunteer attendance
+* MARÍA NÚÑEZ REYES
+    * Comittement agreement with pilots users
+    * FC terms review
+    * Pilots users
+    * Volunteer document and formation
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Project manager leading
+    * Commitment agreement
+    * Presentation
+    * Retrospective
+    * AD
+    * Marketing plan
+    * Deploy
+* MIGUEL ANGEL ROMALDE DORADO
+    * Problems doc
+    * Tests for partner and volunteer
+    * Bug log
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * Commitment agreement
+    * Poker planing
+    * AD
+    * Performance metrics
+    * Time-effort report
+    * Deploy
+    * Load tests
+* PEDRO LOPEZ RUZ
+    * Problems doc
+    * Learned lessons
+    * Tests for admin, student & family
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Demo S3
+    * Info main page
+    * Schedule for lessons
+    * Partners membership
+    * Lesson events
+* SERGIO AGUAYO OROZCO
+    * Common DB
+    * Social login
+    * Family kids
+
+
