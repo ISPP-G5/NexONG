@@ -475,6 +475,7 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Privacy policy
     * La Salle Homepage
     * Pilots users feedback
+    * Deploy*
 * FÉLIX ÁNGEL GUDIEL GÜEMES
     * TCO
     * Deployed software review*
@@ -509,19 +510,43 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Volunteer attendance
 * MARÍA NÚÑEZ REYES
     * Comittement agreement with pilots users
-    * 
+    * FC terms review
+    * Pilots users
+    * Volunteer document and formation
 * MARTA INÉS GONZÁLEZ DIÁNEZ
-    * 
+    * Project manager leading
+    * Commitment agreement
+    * Presentation
+    * Retrospective
+    * AD
+    * Marketing plan
+    * Deploy
 * MIGUEL ANGEL ROMALDE DORADO
-    * 
+    * Problems doc
+    * Tests for partner and volunteer
+    * Bug log
 * PABLO PERIÁÑEZ CABRERO
     * Backend team lead
-    * 
+    * Commitment agreement
+    * Poker planing
+    * AD
+    * Performance metrics
+    * Time-effort report
+    * Deploy
+    * Load tests
 * PEDRO LOPEZ RUZ
-    * 
+    * Problems doc
+    * Learned lessons
+    * Tests for admin, student & family
 * SAMUEL LUIS RODRÍGUEZ MANESS
-    * 
+    * Demo S3
+    * Info main page
+    * Schedule for lessons
+    * Partners membership
+    * Lesson events
 * SERGIO AGUAYO OROZCO
-    * 
+    * Common DB
+    * Social login
+    * Family kids
 
 
