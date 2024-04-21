@@ -75,6 +75,6 @@ En este apartado vamos a indicar la tabla con los bugs obtenidos al hacer los te
 
 
 
-# 7. Conclusión. 
+# 3. Conclusión. 
 
 El buen uso de tests, nos pueden indicar diferentes sitios donde encontrar fallos o bugs en la aplicación y solucionarlos, siempre es aconsejable poder hacer varios tests para probar que todo funciona correctamente. Esto debe ser algo básico y correr los test cada vez que hayan cambios en la aplicación para asegurarse que añadiendo cosas nuevas no obstruyes la funcionalidad de ninguna de las cosas necesarias en la aplicación.
