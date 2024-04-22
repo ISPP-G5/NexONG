@@ -94,7 +94,7 @@ Version: 4.0
    </td>
    <td>10
    </td>
-   <td>
+   <td>10
    </td>
    <td>
    </td>
