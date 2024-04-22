@@ -8,7 +8,14 @@
 2.  Contribuciones del grupo 5
     1. Semana 1
     2. Semana 2
-    3. General
+    3. Semana 3
+    4. Semana 4
+    5. Semana 5
+    6. Semana 6
+    7. Semana 7
+    8. Semana 8
+    9. Semana 9
+    10. General
 3.  Acciones llevadas a cabo
 
 ## Registro de cambios
