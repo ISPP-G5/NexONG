@@ -22,7 +22,7 @@
   <tr>
    <td>1.0.0</td>
    <td>22/4/2024</td>
-   <td>Primera versión</td>
+   <td>Creación del SLA, primera versión</td>
    <td>JUAN LUIS RUANO MURIEDAS</td>
    <td>SERGIO AGUAYO OROZCO</td>
   </tr>
