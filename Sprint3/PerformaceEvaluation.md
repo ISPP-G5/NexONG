@@ -100,7 +100,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>39,2
    </td>
    <td>
    </td>
@@ -121,7 +121,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>38,4
    </td>
    <td>
    </td>
@@ -142,7 +142,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>38,0
    </td>
    <td>
    </td>
@@ -163,7 +163,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>33,3
    </td>
    <td>
    </td>
@@ -184,7 +184,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>35,1
    </td>
    <td>
    </td>
@@ -205,7 +205,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>34,3
    </td>
    <td>
    </td>
@@ -226,7 +226,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>37,3
    </td>
    <td>
    </td>
@@ -247,7 +247,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>37,3
    </td>
    <td>
    </td>
@@ -268,7 +268,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>36,3
    </td>
    <td>
    </td>
@@ -289,7 +289,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>38,7
    </td>
    <td>
    </td>
@@ -310,7 +310,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>39,7
    </td>
    <td>
    </td>
@@ -331,7 +331,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>32,6
    </td>
    <td>
    </td>
@@ -352,7 +352,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>39,2
    </td>
    <td>
    </td>
@@ -373,7 +373,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>36,6
    </td>
    <td>
    </td>
@@ -394,7 +394,7 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>37,9
    </td>
    <td>
    </td>
@@ -415,30 +415,21 @@ Version: 4.0
    </td>
    <td>
    </td>
-   <td>
+   <td>35,7
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td><strong>Total </strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td><strong>Total</strong></td>
+    <td>77,4</td>
+    <td>76,7</td>
+    <td>77,1</td>
+    <td>80,6</td>
+    <td>0</td>
+    <td>0</td>
+    <td>311,8</td>
+    <td></td>
   </tr>
 </table>
 
