@@ -150,7 +150,7 @@ Posteriormente a calcular la calificación individual, se procederá a normaliza
 
 **En el caso del Project Manager y los Team Leader, la calificación de tareas será sustituida por la puntuación que le asigne su equipo. Esto se hará mediante una pequeña encuesta donde solo participara el equipo de ese responsable.
 
-Un 60% de la nota restante se obtendrá a través de un formulario de evaluación (Ev_Forms), que realizarán todos los miembros del equipo al final del sprint, en este se evaluarán aspectos subjetivos divididos en las siguientes secciones:
+Un 70% de la nota restante se obtendrá a través de un formulario de evaluación (Ev_Forms), que realizarán todos los miembros del equipo al final del sprint, en este se evaluarán aspectos subjetivos divididos en las siguientes secciones:
 - **Contribución individual:** Aporte que cada miembro del equipo realiza al proyecto.
 - **Colaboración:** Capacidad de la persona para trabajar efectivamente con otros miembros del equipo. 
 - **Calidad del trabajo:** Nivel de contenido y precisión en las tareas realizadas.
