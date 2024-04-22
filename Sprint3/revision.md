@@ -119,7 +119,7 @@ Estos son nuestros casos de uso core:
 - **Página home:** diferentes ventanas navegables en las que la ONG puede anunciar su labor. 
 - **Operaciones no matchmaking:** 
 	- *Registro:* en nuestra aplicación te puedes registrar como voluntario, familia o socio.
-	- *Pago:* en la página de "Donaciones" cuando no se ha iniciado sesión, existen las **Donaciones puntuales**.
+	- *Pago:* en la página de "Donaciones" cuando no se ha iniciado sesión, existen las **Donaciones puntuales**. Como tarjeta de prueba puede usar 4242 4242 4242 4242 como número de tarjeta, 12/29 como fecha de caducidad y 123 como CVC.
 	- *Consumo:* iniciando sesión como cualquier tipo de usuario, se podrá consumir nuestro servicio. En la siguiente sección, se listarán todos los servicios que se pueden consumir y como hacerlo.
 
 ### 2.2 Información necesaria para la prueba
