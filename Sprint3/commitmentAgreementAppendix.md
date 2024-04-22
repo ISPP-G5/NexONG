@@ -492,7 +492,6 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
 * IVÁN RAMÍREZ LARA
     * Summer School
     * Admin family request
-    * Payment system*
     * Edit educator and volunteer
 * MANUEL ORTIZ BLANCO
     * AI Report
