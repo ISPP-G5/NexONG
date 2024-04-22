@@ -163,7 +163,7 @@ Una vez estén recolectados los datos se procesará una media aritmética sobre 
 El 10% restante de la nota se podrá consenguir mediantes bonificaciones por puntos de historia del Poker Planning o por ayuda a los compañeros. Pudiendo obtener hasta 2 puntos más si ambas fuesen perfectas. 
 Para estos apartados se normalizarán las notas tomando la máxima puntuación como referencia.
 
-$$\left(Nota_{final} = 0.6 \cdot Ev_{Forms} + 0.25 \cdot Perf_{total} + 0.1 \cdot Poker + 0.1 \cdot Ayuda \right)$$
+$$\left(Nota_{final} = 0.7 \cdot Ev_{Forms} + 0.25 \cdot Perf_{total} + 0.1 \cdot Poker + 0.1 \cdot Ayuda \right)$$
 
 
 ## Rendimiento del S1
