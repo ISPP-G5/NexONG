@@ -328,9 +328,9 @@ Cabe destacar que esto es una asignación de responsabilidades y no tiene relaci
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint2:
 
-<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image.png" alt="PM"/>
-<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image2.png" alt="TL_Back"/>
-<img src="https://raw.githubusercontent.com/ISPP-G5/NexONG/main/Sprint2/Images/image3.png" alt="TL_Front"/>
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/f9392867-dea2-486c-bf4f-9d2d4fe17521)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/ee05e44e-99a7-44a1-8ffe-3f6135b6b4ef)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/e55b5118-0875-43be-9a9b-164a5a06a04e)
 
 ## Responsabilidades individuales en S2
 
