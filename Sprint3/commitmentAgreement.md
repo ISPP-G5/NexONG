@@ -1,5 +1,67 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment Agreement - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+
+
+## Registro de cambios
+
+<table>
+  <tr>
+   <td><strong>Versión</strong>
+   </td>
+   <td><strong>Fecha</strong>
+   </td>
+   <td><strong>Descripción</strong>
+   </td>
+    </td>
+   <td><strong>Redacción</strong>
+   </td>
+    </td>
+   <td><strong>Revisión</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1.0.0</td>
+   <td>1/2/2024</td>
+   <td>Creación del commitment agreement</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+  <tr>
+   <td>2.0.0</td>
+   <td>15/2/2024</td>
+   <td>Añadidas las recompensas y los strikes</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>5/3/2024</td>
+   <td>Añadido el apéndice</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+      <tr>
+   <td>4.0.0</td>
+   <td>20/3/2024</td>
+   <td>Añadido las horas básicas de servicio</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+        <tr>
+   <td>5.0.0</td>
+   <td>18/4/2024</td>
+   <td>Fáltas de ortografía y aclaración de algunos términos</td>
+    <td>Marta Inés Gonzalez Dianez</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+</table>
+
+
+<br/>
+
+# 
+
+<br/>
 Yo, ………………………………………………………………… al incorporarme a la asignatura de  Ingeniería de Software y Práctica Profesional (ISPP) para el curso 2023-24, me comprometo a  cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo G5,  compuesto de 16 personas: 
 
 
