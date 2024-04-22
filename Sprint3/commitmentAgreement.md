@@ -21,17 +21,38 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>22/3/2024</td>
+   <td>1/2/2024</td>
    <td>Creación del commitment agreement</td>
-    <td>María Núñez Reyes y Aurora Navas Jimenez</td>
-    <td>Felix Ángel Gudiel Güemes</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
   </tr>
   <tr>
    <td>2.0.0</td>
-   <td>05/4/2024</td>
-   <td>Copia del commitment agreement para el Sprint 3</td>
-    <td>María Núñez Reyes</td>
-    <td>Felix Ángel Gudiel Güemes</td>
+   <td>15/2/2024</td>
+   <td>Añadidas las recompensas y los strikes</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+    <tr>
+   <td>3.0.0</td>
+   <td>5/3/2024</td>
+   <td>Añadido el apéndice</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+      <tr>
+   <td>4.0.0</td>
+   <td>20/3/2024</td>
+   <td>Añadido las horas básicas de servicio</td>
+    <td>Pablo Periañez Cabrero</td>
+    <td>TODO EL EQUIPO</td>
+  </tr>
+        <tr>
+   <td>5.0.0</td>
+   <td>18/4/2024</td>
+   <td>Fáltas de ortografía y aclaración de algunos términos</td>
+    <td>Marta Inés Gonzalez Dianez</td>
+    <td>TODO EL EQUIPO</td>
   </tr>
 </table>
 
