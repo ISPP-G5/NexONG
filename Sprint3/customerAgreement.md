@@ -1,5 +1,57 @@
-# Customer Agreement de NexONG
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Agreement de NexONG
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
+
+
+## Registro de cambios
+
+
+<table>
+  <tr>
+   <td><strong>Versión</strong>
+   </td>
+   <td><strong>Fecha</strong>
+   </td>
+   <td><strong>Descripción</strong>
+   </td>
+   <td><strong>Redacción</strong>
+   </td>
+   <td><strong>Revisión</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1.0.0</td>
+   <td>6/3/2024</td>
+   <td>Primera versión</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ y FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+   <td>2.0.0</td>
+   <td>6/4/2024</td>
+   <td>Eliminar posibles clausulas restrictivas con claudette</td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+   <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+   <td>3.0.0</td>
+   <td>21/4/2024</td>
+   <td>Eliminar todas las posibles clausulas restrictivas con claudette/td>
+   <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+  </tr>
+</table>
+
+
+
+<br/>
+
+# 
+
+<br/>
+
+# Customer Agreement 
+ 
 ¡Bienvenido a NexOng!
 
 Este documento es para informarle a usted de los siguientes términos y condiciones:
