@@ -1,6 +1,46 @@
 # Commitment agreement usuarios pilotos - Manos Abiertas con Norte - Sprint 3
 # NexOng - Grupo 5
 
+## Registro de cambios
+
+<table>
+  <tr>
+   <td><strong>Versión</strong>
+   </td>
+   <td><strong>Fecha</strong>
+   </td>
+   <td><strong>Descripción</strong>
+   </td>
+    </td>
+   <td><strong>Redacción</strong>
+   </td>
+    </td>
+   <td><strong>Revisión</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1.0.0</td>
+   <td>22/3/2024</td>
+   <td>Creación del commitment agreement</td>
+    <td>Aurora Navas Jimenez</td>
+    <td>Felix Ángel Gudiel Güemes</td>
+  </tr>
+  <tr>
+   <td>2.0.0</td>
+   <td>05/4/2024</td>
+   <td>Copia del commitment agreement para el Sprint 3</td>
+    <td>Aurora Navas Jimenez</td>
+    <td>Felix Ángel Gudiel Güemes</td>
+  </tr>
+</table>
+
+
+<br/>
+
+# 
+
+<br/>
+
 ## 1. Resumen ejecutivo
 La intención de este documento es tener un acuerdo de compromiso entre NexONG y Manos Abiertas con Norte respecto a las pruebas. En él, se redactan las condiciones de este acuerdo. 
 
