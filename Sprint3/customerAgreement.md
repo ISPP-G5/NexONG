@@ -36,7 +36,7 @@
   <tr>
    <td>3.0.0</td>
    <td>21/4/2024</td>
-   <td>Eliminar todas las posibles clausulas restrictivas con claudette/td>
+   <td>Eliminar todas las posibles clausulas restrictivas con claudette</td>
    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
