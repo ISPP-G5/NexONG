@@ -452,9 +452,9 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el Sprint3:
 
-![image](https://github.com/ISPP-G5/NexONG/assets/72883992/dc49f6c7-aeb2-438c-9434-fdae3f877f16)
-![image](https://github.com/ISPP-G5/NexONG/assets/72883992/a48baf66-5324-470f-8fea-cef42608f3b5)
-![image](https://github.com/ISPP-G5/NexONG/assets/72883992/16a854bf-f782-4114-bbec-c6e8092cf176)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/f9392867-dea2-486c-bf4f-9d2d4fe17521)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/ee05e44e-99a7-44a1-8ffe-3f6135b6b4ef)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/e55b5118-0875-43be-9a9b-164a5a06a04e)
 
 ## Responsabilidades individuales en S3
 
