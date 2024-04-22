@@ -88,13 +88,13 @@ Version: 4.0
    <td>
     <strong>NAVAS JIMENEZ, AURORA</strong>
    </td>
-   <td><strong>9,5 </strong>
+   <td>9,5
    </td>
-   <td><strong>9,7 </strong>
-   </td>
-   <td>10
+   <td>9,7
    </td>
    <td>10
+   </td>
+   <td>
    </td>
    <td>
    </td>
@@ -109,13 +109,13 @@ Version: 4.0
    <td>
     <strong>GILABERT PRIETO, CLAUDIA</strong>
    </td>
-   <td><strong>9,8 </strong>
+   <td>9,8
    </td>
-   <td><strong>9,0 </strong>
+   <td>9,0 
+   </td>
+   <td>9,6
    </td>
    <td>10
-   </td>
-   <td>9,2
    </td>
    <td>
    </td>
@@ -130,13 +130,13 @@ Version: 4.0
    <td>
     <strong>GUDIEL GÜEMES, FÉLIX ÁNGEL</strong>
    </td>
-   <td><strong>8,8 </strong>
+   <td>8,8 
    </td>
-   <td><strong>9,5 </strong>
+   <td>9,5 
+   </td>
+   <td>9,7
    </td>
    <td>10
-   </td>
-   <td>9,6
    </td>
    <td>
    </td>
@@ -151,13 +151,13 @@ Version: 4.0
    <td>
     <strong>ROSSO RAMÍREZ, FRANCISCO DE ASÍS</strong>
    </td>
-   <td><strong>7,0 </strong>
+   <td>7,0 
    </td>
-   <td><strong>8,1 </strong>
+   <td>8,1 
    </td>
-   <td>9,6
+   <td>9
    </td>
-   <td>7,5
+   <td>9,2
    </td>
    <td>
    </td>
@@ -172,13 +172,13 @@ Version: 4.0
    <td>
     <strong>CALDERÓN RODRÍGUEZ,  FRANCISCO JAVIER</strong>
    </td>
-   <td><strong>9,4 </strong>
+   <td>9,4
    </td>
-   <td><strong>8,0 </strong>
+   <td>>8,0 
    </td>
-   <td>9,8
+   <td>9,3
    </td>
-   <td>7,5
+   <td>8,4
    </td>
    <td>
    </td>
@@ -193,13 +193,13 @@ Version: 4.0
    <td>
     <strong>RAMÍREZ LARA, IVÁN </strong>
    </td>
-   <td><strong>8,9 </strong>
+   <td>8,9 
    </td>
-   <td><strong>7,3 </strong>
+   <td>7,3
    </td>
-   <td>9,9
+   <td>9,3
    </td>
-   <td>7,5
+   <td>8,8
    </td>
    <td>
    </td>
@@ -214,13 +214,13 @@ Version: 4.0
    <td>
     <strong>RUANO MURIEDAS, JUAN LUIS</strong>
    </td>
-   <td><strong>8,8 </strong>
+   <td>8,8
    </td>
-   <td><strong>9,3 </strong>
+   <td>9,3
    </td>
-   <td>10
+   <td>9,4
    </td>
-   <td>8,9
+   <td>9,8
    </td>
    <td>
    </td>
@@ -235,32 +235,11 @@ Version: 4.0
    <td>
     <strong>BARCIA JIMENEZ, MANUEL FRANCISCO</strong>
    </td>
-   <td><strong>9,3 </strong>
+   <td>9,3 
    </td>
-   <td><strong>9,2 </strong>
+   <td>9,2 
    </td>
-   <td>9,9
-   </td>
-   <td>8,5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>ORTIZ BLANCO, MANUEL</strong>
-   </td>
-   <td><strong>8,0 </strong>
-   </td>
-   <td><strong>8,9 </strong>
-   </td>
-   <td>10
+   <td>9,3
    </td>
    <td>9,5
    </td>
@@ -275,13 +254,34 @@ Version: 4.0
   </tr>
   <tr>
    <td>
+    <strong>ORTIZ BLANCO, MANUEL</strong>
+   </td>
+   <td>8,0 
+   </td>
+   <td>8,9
+   </td>
+   <td>9,4
+   </td>
+   <td>10
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
     <strong>NÚÑEZ REYES, MARÍA </strong>
    </td>
-   <td><strong>10 </strong>
+   <td>10
    </td>
-   <td><strong>9,3 </strong>
+   <td>9,3 
    </td>
-   <td>9,9
+   <td>9,4
    </td>
    <td>10
    </td>
@@ -298,11 +298,11 @@ Version: 4.0
    <td>
     <strong>GONZÁLEZ DIÁNEZ, MARTA INÉS</strong>
    </td>
-   <td><strong>10</strong>
-   </td>
-   <td><strong>10</strong>
+   <td>10
    </td>
    <td>10
+   </td>
+   <td>9,7
    </td>
    <td>10
    </td>
@@ -319,13 +319,13 @@ Version: 4.0
    <td>
     <strong>ROMALDE DORADO, MIGUEL ANGEL</strong>
    </td>
-   <td><strong>9,1 </strong>
+   <td>9,1
    </td>
-   <td><strong>7,9 </strong>
+   <td>7,9
    </td>
-   <td>9,4
+   <td>8,6
    </td>
-   <td>5,8
+   <td>7
    </td>
    <td>
    </td>
@@ -340,11 +340,11 @@ Version: 4.0
    <td>
     <strong>PERIÁÑEZ CABRERO, PABLO</strong>
    </td>
-   <td><strong>10 </strong>
+   <td>10 
    </td>
-   <td><strong>9,8 </strong>
+   <td>9,8 
    </td>
-   <td>10
+   <td>9,4
    </td>
    <td>10
    </td>
@@ -361,13 +361,13 @@ Version: 4.0
    <td>
     <strong>LOPEZ RUZ, PEDRO </strong>
    </td>
-   <td><strong>9,3 </strong>
+   <td>9,3
    </td>
-   <td><strong>8,9 </strong>
+   <td><8,9 
    </td>
-   <td>9,6
+   <td>9,1
    </td>
-   <td>7,5
+   <td>9,3
    </td>
    <td>
    </td>
@@ -382,13 +382,13 @@ Version: 4.0
    <td>
     <strong>RODRÍGUEZ MANESS, SAMUEL LUIS</strong>
    </td>
-   <td><strong>9,3 </strong>
+   <td>9,3 
    </td>
-   <td><strong>9,2 </strong>
+   <td>9,2 
    </td>
-   <td>10
+   <td>9,6
    </td>
-   <td>8,9
+   <td>9,9
    </td>
    <td>
    </td>
@@ -403,13 +403,13 @@ Version: 4.0
    <td>
     <strong>AGUAYO OROZCO, SERGIO</strong>
    </td>
-   <td><strong>9,7 </strong>
+   <td>9,7 
    </td>
-   <td><strong>9,5 </strong>
+   <td>9,5 
+   </td>
+   <td>7,5*
    </td>
    <td>9
-   </td>
-   <td>8,1
    </td>
    <td>
    </td>
@@ -444,6 +444,8 @@ Version: 4.0
 
 
 <br/>
+
+*Bajada de un punto de la nota por tarea no realizada (TNR) recogido en las resposabilidades individuales para ese Sprint.
 
 # Individual Contribution Summary 
 ## Devising a Project (#DP) 
