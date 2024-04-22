@@ -1,5 +1,46 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commitment Agreement - Sprint 3
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+
+
+## Registro de cambios
+
+<table>
+  <tr>
+   <td><strong>Versión</strong>
+   </td>
+   <td><strong>Fecha</strong>
+   </td>
+   <td><strong>Descripción</strong>
+   </td>
+    </td>
+   <td><strong>Redacción</strong>
+   </td>
+    </td>
+   <td><strong>Revisión</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1.0.0</td>
+   <td>22/3/2024</td>
+   <td>Creación del commitment agreement</td>
+    <td>María Núñez Reyes y Aurora Navas Jimenez</td>
+    <td>Felix Ángel Gudiel Güemes</td>
+  </tr>
+  <tr>
+   <td>2.0.0</td>
+   <td>05/4/2024</td>
+   <td>Copia del commitment agreement para el Sprint 3</td>
+    <td>María Núñez Reyes</td>
+    <td>Felix Ángel Gudiel Güemes</td>
+  </tr>
+</table>
+
+
+<br/>
+
+# 
+
+<br/>
 Yo, ………………………………………………………………… al incorporarme a la asignatura de  Ingeniería de Software y Práctica Profesional (ISPP) para el curso 2023-24, me comprometo a  cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo G5,  compuesto de 16 personas: 
 
 
