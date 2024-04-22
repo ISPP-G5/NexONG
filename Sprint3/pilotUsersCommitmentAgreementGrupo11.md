@@ -41,6 +41,7 @@
 # 
 
 <br/>
+
 ## 1. Resumen ejecutivo
 
 La intención de este documento es tener un acuerdo de compromiso entre el equipo de AparKing y el equipo de NexONG en el cuál se redactan las condiciones de este acuerdo. 
