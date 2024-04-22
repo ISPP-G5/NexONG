@@ -95,6 +95,13 @@
     <td>Pablo Periañez, Marta González</td>
     <td>Aurora Navas Jiménez</td>
   </tr>
+    <tr>
+   <td>4.1.0</td>
+   <td>06/4/2024</td>
+    <td>Cambio de los porcentajes de evaluación</td>
+    <td>Pablo Periañez</td>
+    <td>TBA</td>
+  </tr>
 </table>
 
 
