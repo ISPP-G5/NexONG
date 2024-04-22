@@ -205,7 +205,7 @@ Inicia sesión con las credenciales **info.nexong@gmail.com/m4n0s4bi3rt4sc0nn0r
 - Puedes ver los datos de contacto de los niños.
 - Puedes poner un comentario en cada evaluación, sin embargo, aún no puedes poner nota.
 - Puedes ver la asistencia de los alumnos a futuras actividades.
-- Tras probar la funcionalidad completa, _Cierre Sesión_ y avance a la siguiente sección.
+- Tras probar la funcionalidad completa, _Cierre Sesión_.
 
 #### Otras URL solicitadas
 
