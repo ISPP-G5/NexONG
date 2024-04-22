@@ -23,7 +23,7 @@
    <td>1.0.0</td>
    <td>22/3/2024</td>
    <td>Creación del commitment agreement</td>
-    <td>María Núñez Reyes y Aurora Navas Jimenez</td>
+    <td>María Núñez Reyes</td>
     <td>Felix Ángel Gudiel Güemes</td>
   </tr>
   <tr>
