@@ -325,7 +325,7 @@ Version: 4.0
    </td>
    <td>8,6
    </td>
-   <td>7
+   <td>6,9
    </td>
    <td>
    </td>
