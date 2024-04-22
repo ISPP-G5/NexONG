@@ -150,7 +150,7 @@ Posteriormente a calcular la calificación individual, se procederá a normaliza
 
 **En el caso del Project Manager y los Team Leader, la calificación de tareas será sustituida por la puntuación que le asigne su equipo. Esto se hará mediante una pequeña encuesta donde solo participara el equipo de ese responsable.
 
-Un 60% de la nota restante se obtendrá a través de un formulario de evaluación (Ev_Forms), que realizarán todos los miembros del equipo al final del sprint, en este se evaluarán aspectos subjetivos divididos en las siguientes secciones:
+Un 70% de la nota restante se obtendrá a través de un formulario de evaluación (Ev_Forms), que realizarán todos los miembros del equipo al final del sprint, en este se evaluarán aspectos subjetivos divididos en las siguientes secciones:
 - **Contribución individual:** Aporte que cada miembro del equipo realiza al proyecto.
 - **Colaboración:** Capacidad de la persona para trabajar efectivamente con otros miembros del equipo. 
 - **Calidad del trabajo:** Nivel de contenido y precisión en las tareas realizadas.
@@ -172,7 +172,7 @@ Una vez estén recolectados los datos se procesará una media aritmética sobre 
 El 10% restante de la nota se podrá consenguir mediantes bonificaciones por puntos de historia del Poker Planning o por ayuda a los compañeros. Pudiendo obtener hasta 2 puntos más si ambas fuesen perfectas. 
 Para estos apartados se normalizarán las notas tomando la máxima puntuación como referencia.
 
-$$\left(Nota_{final} = 0.6 \cdot Ev_{Forms} + 0.25 \cdot Perf_{total} + 0.1 \cdot Poker + 0.1 \cdot Ayuda \right)$$
+$$\left(Nota_{final} = 0.7 \cdot Ev_{Forms} + 0.25 \cdot Perf_{total} + 0.1 \cdot Poker + 0.1 \cdot Ayuda \right)$$
 
 
 ## Rendimiento del S1
@@ -547,5 +547,3 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
     * Common DB
     * Social login
     * Family kids
-
-
