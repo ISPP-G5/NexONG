@@ -759,3 +759,90 @@ Version: 4.0
     * Authorisation framework
  
 ## Sprint 3 (#S3)
+
+* AURORA NAVAS JIMÉNEZ
+    * Deploy
+    * Comittement agreement with pilots users
+    * Pilots users docs
+    * Software Reviewer guidelines
+    * Pilots users feedback
+    * Google Compute engine
+* CLAUDIA GILABERT PRIETO
+    * Frontend team lead
+    * Learned lessons
+    * Token session
+    * Donations export
+    * Privacy policy
+    * La Salle Homepage
+    * Pilots users feedback
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * TCO
+    * Family authorizations
+    * Evaluation
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * Changelog
+    * Recurring donations
+    * Mission and values
+    * Association information
+    * Punctual donations
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * Family registration
+* IVÁN RAMÍREZ LARA
+    * Summer School
+    * Admin family request
+    * Edit educator and volunteer
+* MANUEL ORTIZ BLANCO
+    * AI Report
+    * Poker planning
+    * Fix models and emails
+    * Terms and conditions
+* JUAN LUIS RUANO MURIEDAS
+    * SLA
+    * Script to deploy
+    * Educator's tests
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Customer agreement
+    * Volunteer's calendar
+    * Family's calendar
+    * Volunteer attendance
+* MARÍA NÚÑEZ REYES
+    * Comittement agreement with pilots users
+    * FC terms review
+    * Pilots users
+    * Volunteer document and formation
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Project manager leading
+    * Commitment agreement
+    * Presentation
+    * Retrospective
+    * AD
+    * Marketing plan
+    * Deploy
+    * Payment
+* MIGUEL ANGEL ROMALDE DORADO
+    * Problems doc
+    * Tests for partner and volunteer
+    * Bug log
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * Commitment agreement
+    * Poker planing
+    * AD
+    * Performance metrics
+    * Time-effort report
+    * Deploy
+    * Load tests
+* PEDRO LOPEZ RUZ
+    * Problems doc
+    * Learned lessons
+    * Tests for admin, student & family
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Demo S3
+    * Info main page
+    * Schedule for lessons
+    * Partners membership
+    * Lesson events
+* SERGIO AGUAYO OROZCO
+    * Common DB
+    * Social login
+    * Family kids
