@@ -257,7 +257,7 @@ Version: 4.0
    <td>
     <strong>ORTIZ BLANCO, MANUEL</strong>
    </td>
-   <td>8,0 
+   <td>8,6 
    </td>
    <td>8,9 / 8,8
    </td>
