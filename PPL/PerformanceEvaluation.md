@@ -179,7 +179,7 @@ Version: 4.0
    </td>
    <td>9,3
    </td>
-   <td>8,4
+   <td>8,5
    </td>
    <td>
    </td>
@@ -410,7 +410,7 @@ Version: 4.0
    </td>
    <td>7,5*
    </td>
-   <td>9
+   <td>9,0
    </td>
    <td>
    </td>
