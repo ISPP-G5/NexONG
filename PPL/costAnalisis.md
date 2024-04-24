@@ -1733,7 +1733,7 @@ Si tomamos un 20% más de 18 euros nos da 21,6 €/h por trabajador y 3,6€ de 
 Usando las estimaciones obtenidas en el documento "Estimación de Ingresos" podemos crear un gráfico que compara los costes que se acaban de mostrar con los posibles ingresos a recibir.
 
 
-<image src="./images/grafico-tco.png" alt="Grafico de los costes asociados">
+<image src="./images/grafico-tcoPPL.png" alt="Grafico de los costes asociados">
 
 Como se puede observar, en el caso optimista superamos los costes en menos de 2 meses, mientras que tardamos 2 meses más en compensar estas pérdidas en el caso realista. En el caso pesimista los ingresos son tan bajos que no se muestran en el grafo, pero se ha calculado que se tardarían 21 meses tras el despliegue para sobrepasar las pérdidas.
 <br/>
