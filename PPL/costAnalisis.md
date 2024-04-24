@@ -1686,7 +1686,8 @@ Desglose para los sueldos mensuales en desarollo:
 | :-----------------------------: | :------------ | :--------------: | :------------ | 
 |Project Manager| 1 | 4 | 940€ | 
 | Team Lead | 2 | 4 | 730€ | 
-| Junior Developer | 13 | 4 | 546€ | 
+| Junior Developer | 11 | 4 | 546€ | 
+| Community Manager | 2 | 4 | 546€ |
 | Total |  | 4 | 10.086€ | 
 
 Para el Opex:
