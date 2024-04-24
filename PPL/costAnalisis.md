@@ -140,7 +140,7 @@
 
 ## 1.1. Coste salarial del equipo (desarrollo)
 
-En este apartado se desglosan los costes salariales del equipo de desarrollo que contempla desde la primera semana de vida del proyecto hasta su puesta en producción, en este caso, 15 semanas. Hay que añadir que los costes de Community Manager serían computados a un trabajador externo ya que ningún miembro del equipo trabaja bien ese conjunto. Es por esto último que en la segunda tabla no se tiene en cuenta los costes salariales del Community Manager al ser un trabajador externo.
+En este apartado se desglosan los costes salariales del equipo de desarrollo que contempla desde la primera semana de vida del proyecto hasta su puesta en producción, en este caso, 15 semanas. Hay que añadir que los costes de Community Manager ya que uno de nuestros miembros va a trabajar como tal.
 
 <table>
   <tr>
@@ -222,17 +222,17 @@ En este apartado se desglosan los costes salariales del equipo de desarrollo que
   <tr>
    <td>Community Manager
    </td>
-   <td>10,26€
+   <td>10,50€
    </td>
-   <td>7,18€
+   <td>7,35€
    </td>
-   <td>102,6€
+   <td>105€
    </td>
-   <td>71,80€
+   <td>73,50€
    </td>
-   <td>410,40€
+   <td>420€
    </td>
-   <td>287,28€
+   <td>294€
    </td>
   </tr>
 </table>
@@ -315,7 +315,26 @@ En este apartado se desglosan los costes salariales del equipo de desarrollo que
   <tr>
    <td>Junior Dev
    </td>
-   <td>13
+   <td>11
+   </td>
+   <td colspan="2" >10,50€
+   </td>
+   <td colspan="2" >136,5€ 
+   </td>
+   <td colspan="2" >546€
+   </td>
+   <td colspan="2" >7,35€
+   </td>
+   <td colspan="2" >102,90€
+   </td>
+   <td colspan="2" >411,6€
+   </td>
+  </tr>
+  <tr>
+  <tr>
+   <td>Community Manager
+   </td>
+   <td>2
    </td>
    <td colspan="2" >10,50€
    </td>
