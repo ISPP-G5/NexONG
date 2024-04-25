@@ -153,11 +153,19 @@ Esta métrica se refiere a la disposición de la información. La estructura de 
 Podemos entonces afiramr que se ha tenido en cuenta los parámetros descriptores de la Arquitectura de la Información, un indicador de que el diseño de la aplicación es adecuado y correcto.
 # 2.3 Prototipos aprobados
 
+Los mocks estan aprobados tanto intraequipo como extraequipo (profesores, por ejemplo)
+
 # 2.4 Competencia
+
+Tenemos un diseño similar a blackboard, pero mejor
 
 # 2.5 Mocks centrados en eficacia
 
+Los mocks se hicieron con el cliente promedio en mente
+
 # 2.6 Sencillez del sistema
+
+Se ha antepuesto la funcionalidad a las florituras y los detalles. Para nuestro cliente promedio es bueno
 
 # 3 Conclusión
 
