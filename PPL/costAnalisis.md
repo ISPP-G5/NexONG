@@ -1187,7 +1187,7 @@ Como periodo de producción consideraremos el resto para completar el primer añ
 
 ## 2.1 Coste salarial del equipo (producción)
 
-Para calcular los costes del soporte y mantenimiento de la aplicación, se tendrá en cuenta un equipo pequeño de 5 desarrolladores junior y un senior, jornadas de 10 horas semanales.
+Para calcular los costes del soporte y mantenimiento de la aplicación, se tendrá en cuenta un equipo pequeño de 4 desarrolladores junior, un senior y un community manager con jornadas de 10 horas semanales.
 
 
 <table>
@@ -1250,7 +1250,25 @@ Para calcular los costes del soporte y mantenimiento de la aplicación, se tendr
   <tr>
    <td>Junior Dev
    </td>
-   <td>5
+   <td>4
+   </td>
+   <td colspan="2" >10,50€
+   </td>
+   <td colspan="2" >105€ 
+   </td>
+   <td colspan="2" >420€
+   </td>
+   <td colspan="2" >7,35€
+   </td>
+   <td colspan="2" >73,50€
+   </td>
+   <td colspan="2" >294€
+   </td>
+  </tr>
+  <tr>
+   <td>Community Manager
+   </td>
+   <td>1
    </td>
    <td colspan="2" >10,50€
    </td>
