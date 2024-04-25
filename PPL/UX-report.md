@@ -153,8 +153,9 @@ Esta métrica se refiere a la disposición de la información. La estructura de 
 Podemos entonces afiramr que se ha tenido en cuenta los parámetros descriptores de la Arquitectura de la Información, un indicador de que el diseño de la aplicación es adecuado y correcto.
 # 2.3 Prototipos aprobados
 
-Los mocks estan aprobados tanto intraequipo como extraequipo (profesores, por ejemplo)
+Antes de comenzar el desarrollo del proyecto se elaboraron prototipos para todas las pantallas que la aplicación debía contener. Estos prototipos fueron creados por una sección del equipo que conocía de cerca las funcionalidades a implementar y fue revisado por otra parte del equipo, las desconcocía (en su mayoría). Siguiendo este proceso, los revisores emularon a los futuros clientes, ya que no tenían conocimiento previo del sistema. Tras la revisión, el producto final de esta tarea fue un conjunto de prototipos que no sólo cumplían con los requisitos, si no que eran comprensibles para los individuos sin información de la aplicación.
 
+Contando además con el apoyo de los profesores, confirmamos que los prototipos en los que se basa la aplicación final son tanto funcionales como relevantes a la hora de generar una buena UX.
 # 2.4 Competencia
 
 Tenemos un diseño similar a blackboard, pero mejor
