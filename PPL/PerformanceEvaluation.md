@@ -278,7 +278,7 @@ Version: 4.0
    <td>
     <strong>NÚÑEZ REYES, MARÍA </strong>
    </td>
-   <td>9,9
+   <td>10
    </td>
    <td>9,3 / 9,2
    </td>
@@ -299,7 +299,7 @@ Version: 4.0
    <td>
     <strong>GONZÁLEZ DIÁNEZ, MARTA INÉS</strong>
    </td>
-   <td>9,9
+   <td>10
    </td>
    <td>10
    </td>
@@ -341,7 +341,7 @@ Version: 4.0
    <td>
     <strong>PERIÁÑEZ CABRERO, PABLO</strong>
    </td>
-   <td>9,8
+   <td>10
    </td>
    <td>9,8 / 9,7
    </td>
@@ -404,7 +404,7 @@ Version: 4.0
    <td>
     <strong>AGUAYO OROZCO, SERGIO</strong>
    </td>
-   <td>9,6
+   <td>9,7
    </td>
    <td>9,5 / 9,4
    </td>
