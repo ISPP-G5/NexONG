@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Análisis de Costes - PPL
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Informe de Experiencia de Usuario - PPL
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 
@@ -39,23 +39,15 @@
 
 ## Índice
 
-1. Costes del periodo de desarrollo
-   1. Coste salarial del equipo (desarrollo)
-   2. Coste derivados del desarrollo
-   3. Coste de licencias
-   4. Coste de material de trabajo
-   5. Costes de marketing durante el periodo de desarrollo
-   6. Reservas de contingencia
-   7. Desglose total de los costes de desarrollo
-2. Costes del periodo de producción
-   1. Coste salarial del equipo (producción)
-   2. Costes derivados de producción
-   3. Costes de licencias en producción
-   4. Coste de marketing en producción
-   5. Amortización en producción
-   6. Desglose total de los costes de producción
-3. TCO
-4. ROI
+1. Introduccion
+2. Métricas <br>
+   2.1. Retroalimentación de usuarios piloto<br>
+   2.2. Arquitectura de la información (IA)<br>
+   2.3. Prototipos aprobados<br>
+   2.4. Competencia<br>
+   2.5. Mocks centrados en eficacia<br>
+   2.6. Sencillez del sistema<br>
+3. Conclusión
 
 ## Registro de cambios
 <table>
@@ -73,59 +65,10 @@
   </tr>
   <tr>
    <td>1.0.0</td>
-   <td>1/2/2024</td>
-   <td>Completado la primera versión del análisis del coste preliminar del proyecto.</td>
-   <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>CLAUDIA GILABERT PRIETO</td>
-  </tr>
-  <tr>
-   <td>1.0.1</td>
-   <td>02/02/24</td>
-   <td>Añadido desglose por semana a los costes derivados del desarrollo, nuevas licencias y presupuesto de contingencia.</td>
-   <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>MANUEL ORTIZ BLANCO</td>
-  </tr>
-  <tr>
-   <td>1.0.2</td>
-   <td>04/02/24</td>
-   <td>Se han desglosado los costes en función de las distintas fases del desarrollo del proyecto. Se ha calculado la amortización de los equipos informáticos. Se ha realizado el análisis de los TCO.</td>
-   <td>MANUEL ORTIZ BLANCO</td>
-   <td>PEDRO LOPEZ RUZ</td>
-  </tr>
-  <tr>
-   <td>1.0.3</td>
-   <td>13/02/24</td>
-   <td>Añadidos costes de márketing.</td>
-   <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-  </tr>
-  <tr>
-   <td>1.0.4</td>
-   <td>14/02/24</td>
-   <td>Añadida más información al documento y el ROI</td>
-   <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-  </tr>
-  <tr>
-   <td>1.0.5</td>
-   <td>1/04/24</td>
-   <td>Añadida más información respecto al TCO</td>
-   <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
-   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
-  </tr>
-  <tr>
-   <td>1.0.6</td>
-   <td>1/04/24</td>
-   <td>Añadida más información respecto a la variación del TCO</td>
-   <td>FÉLIX ÁNGEL GUDIEL GÜEMES, MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
-  </tr>
-  <tr>
-   <td>1.0.7</td>
-   <td>24/04/24</td>
-   <td>Añadida más información respecto a la variación del TCO</td>
-   <td>MIGUEL ANGEL ROMALDE DORADO</td>
-   <td>FÉLIX ÁNGEL GUDIEL GÜEMES, FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+   <td>26/042/2024</td>
+   <td>Completado la primera versión del documento.</td>
+   <td>FÉLIX ÁNGEL GUDIEL GÜEMES y PEDRO LOPEZ RUZ</td>
+   <td></td>
   </tr>
 </table>
 
