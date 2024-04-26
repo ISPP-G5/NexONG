@@ -100,16 +100,18 @@ Antes de comenzar el desarrollo del proyecto se elaboraron prototipos para todas
 
 Contando además con el apoyo de los profesores, confirmamos que los prototipos en los que se basa la aplicación final son tanto funcionales como relevantes a la hora de generar una buena UX.
 # 2.4 Competencia
-
-Tenemos un diseño similar a blackboard, pero mejor
+Al comenzar el desarrollo de la aplicación realizamos un estudio de mercado para observa en que posición se encontraba nuestra aplicación y que podíamos mejorar. 
+Nos dimos cuenta que para alcanzar dicho objetivo, debíamos de generar una interfaz que siguiese el estandar de la competencia, debido a que si ofreciamos una aplicación que siguiese ese estandar de diseño y además adaptavamos nuevos elementos compatibles, podíamos conseguir el impacto que estábamos buscando.
+Por ello, actualmente y con el diseño ya desarrollado podemos confirmar que hemos alcanzado nuestro objetivo principal de manterner el estandar pero además, generando nuevas funcionalidades compatibles, útiles tanto para nuestro cliente a día de hoy como en un futuro.
 
 # 2.5 Mocks centrados en eficacia
 
-Los mocks se hicieron con el cliente promedio en mente
+A la hora de realizar los mocks de nuestra aplicación pensamos en un diseño, que premiase la eficiencia y la eficacia a la hora de realizar cualquier actividad en la aplicación. Debido a la finalidad de la misma que no es otra que la gestión educativa, no podríamos permitirnos realizar interfaces cuya carga de trabajo sea lenta y tediosa, ya que un gran afluente de usuarios en estas condiciones puede provocar el desuso de la misma. Por ello confirmamos que los diseños aplicados cumplen con la eficacia buscada, siguiendo con un estilo sencillo pero a la vez efectivo, en donde las categorias principales se encuentra a la vista de manera intuitiva, y siempre con información para ayudar a comprender el funcionamiento de la misma.
 
 # 2.6 Sencillez del sistema
 
-Se ha antepuesto la funcionalidad a las florituras y los detalles. Para nuestro cliente promedio es bueno
+Teniendo en cuenta el usuario promedio de nuestra aplicación, que no es más que personas adultas cuyo uso de la tecnología no es tan avanzado o es algo básico, no era recomendable contruir el sistema con elementos recargados, que en un principio pueden parecer llamativos, pero hay que recordar que no son nuestros ojos la mejor vara de medir. Como hemos comentado en el punto anterior hemos buscado un diseño eficaz, lo cual en un principio no debería de ser un impedimento a la hora de diseñar una interfaz más elaborada, pero como volvemos a recalcar, para el público destinado a usar la aplicación puede suponer un punto de inflección, debido a que un diseño más recardado hace que no sea tan intuitivo y por ende su eficacia disminuya.
+Contando con los opiniones de los usuarios piloto, confirmamos que el diseño realizado cumple con un sensillez óptima visualmente y funcionalmente capaz. 
 
 # 3 Conclusión
 
