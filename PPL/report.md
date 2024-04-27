@@ -1,4 +1,4 @@
-# Informe de contribuciones a la base de datos común - Sprint 3
+# Informe de contribuciones a la base de datos común - PPL
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
@@ -15,7 +15,8 @@
     7. Semana 7
     8. Semana 8
     9. Semana 9
-    10. General
+    10. Semana 10
+    11. General
 3.  Acciones llevadas a cabo
 
 ## Registro de cambios
