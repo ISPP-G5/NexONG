@@ -1,4 +1,4 @@
-# Plan de Negocios - Sprint 3
+# Plan de Negocios - PPL
 # NexOng - Grupo 5
 
 
@@ -80,11 +80,32 @@
 <br/>
 
 
-# 1. Idea de Negocio
+# 1. Idea Básica de Negocio
 
 En _NexONG_ queremos proporcionar un método de gestión de recursos materiales y humanos para ONGs orientadas a distintas formas de enseñanza. De este modo, desarrollaremos una aplicación web centrada en el control de los profesores y monitores, las aulas y cursos, los beneficiarios y los voluntarios inscritos.
 
+
+# Requisitos del Cliente
+
+El cliente quiere tener una aplicación web que permita la gestión de los eventos que llevan a cabo. En primer lugar ellos tienen el objetivo de tener una aplicación que tenga una interfaz  amigable con el usuario, esto permitirá que los socios que quieran donar dinero mediante cuotas mensuales o puntuales lo puedan hacer de una forma sencilla a través de un formulario web. 
+
+Por otro lado, la aplicación debe de ser escalable ya que muchas personas pueden realizar consultas simultáneas sobre ella. En un principio se pretende que pueda tener 100 personas de forma simultánea, pudiendo expandirse a 250 en un futuro.
+
+A parte del rol de socio, la aplicación contará con otros tres roles, estos son:
+- **Administrador**: Es el encargado de llevar a cabo la gestión de la aplicación, este se encarga de crear y  borrar grupos/eventos, asignación de profesores y alumnos a los diferentes grupos y de garantizar la integridad de la información que se muestra en tiempo real.
+- **Educador/Profesor:** Encargados de evaluar al alumno de forma diaria, crear boletines de evaluación y controlar su asistencia.
+- **Familiares:** Pueden dar de alta a un alumno mediante un formulario online, una vez dado de alta, estos pueden ver todos los eventos que hay disponibles, la evaluación del alumno y noticias relevantes.
+
+
+# Idea Refinada de Negocio
+
+En vista  a los requisitos anteriormente mencionados, hemos concluido que el servicio proporcionado constará de una aplicación web que cumpla con las funciones requeridas, organizando a los usuarios en función de sus permisos y funciones a prestar o aprovechar.
+
+Este proyecto permitirá a los usuarios acceder a los cursos, ya sea como educador para evaluar a sus alumnos o familiar para consultar el expediente del joven alumno e información sobre las clases como funcionalidades centrales, contando con una interfaz amigable e intuitiva. Además hará posible el acceso a todos los usuarios necesarios siempre y cuando el servidor físico en el que se aloje lo permita, es decir, será extremadamente escalable.
+
 La aplicación facilitará también el contacto con el personal de la organización y buscará proteger la privacidad de sus usuarios, en la medida de lo posible, y siempre siguiendo la legislación vigente.
+
+Por último, destacar que será posible darse de alta como voluntario para apoyar la docencia de los educadores, o también aportar una cuota mensual o hacer una abono puntual como donación a la causa.
 
 
 # 2. Personal
@@ -130,13 +151,22 @@ El equipo del proyecto está compuesto por las personas mencionadas en la tabla 
    </td>
   </tr>
   <tr>
-   <td>Community Manager</td>
-   <td>Encargado de actualizar las redes sociales del proyecto, así como realizar subidas de contenido regulares, investigar el mercado y buscar formas de promocionarnos.</td>
+   <td>Communication Manager</td>
+   <td>Se encarga de las comunicaciones exteriores del equipo de proyecto, en este caso con la ONG y con los usuarios piloto.</td>
    <td>
     <ul>
      <li>MARÍA NÚÑEZ REYES</li>
      <li>AURORA NAVAS JIMÉNEZ</li>
     </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Community Manager</td>
+   <td>Encargado de actualizar las redes sociales del proyecto, así como realizar subidas de contenido regulares, investigar el mercado y buscar formas de promocionarnos.</td>
+   <td>
+     <ul>
+       <li>MARTA INÉS GONZÁLEZ DIÁNEZ</li>
+     </ul>
    </td>
   </tr>
 </table>
@@ -163,6 +193,11 @@ Para evaluar la rentabilidad del proyecto, se tendrán en cuenta principalmente 
 # 6. Análisis de Riesgos
 
 Para la evaluación del plan de negocios, es importante tener en cuenta los riesgos del proyecto. Estos se encuentran documentados en nuestro [Análisis de Riesgos](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Risk-analysis.md).
+
+
+# Análisis de la Competencia
+
+Se puede ver un análisis detallado de nuestros competidores en nuestro documento de [Análisis de la Competencia](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Competitor-analysis.md).
 
 # 7. Cronograma
 
