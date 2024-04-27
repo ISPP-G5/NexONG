@@ -23,29 +23,29 @@
    <td>1.0.0</td>
    <td>1/2/2024</td>
    <td>Primera Versión de la Introducción y la Campaña de Lanzamiento a corto plazo</td>
-    <td>Manuel Barcia Jiménez</td>
-    <td>TODO EL EQUIPO</td>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td> MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
   <tr>
    <td>1.0.1</td>
    <td>15/2/2024</td>
    <td>Añadiendo contenido a Modelo de Segmentación de Mercado y Palabras Clave y Optimización de Navegadores</td>
-    <td>Ivan Ramírez Lara</td>
-    <td>TODO EL EQUIPO</td>
+    <td>IVÁN RAMÍREZ LARA	</td>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
     <tr>
    <td>1.0.2</td>
    <td>5/3/2024</td>
    <td>Terminados los puntos Modelo de Segmentación de Mercado y Palabras Clave y Optimización de Navegadores</td>
-    <td>Ivan Ramírez Lara</td>
-    <td>TODO EL EQUIPO</td>
+    <td>IVÁN RAMÍREZ LARA	</td>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
       <tr>
    <td>1.0.3</td>
    <td>20/3/2024</td>
    <td>Desarrollo de Resultados Esperados en Redes Sociales y la Conclusión</td>
-    <td>Francisco Javier Calderón Rodríguez</td>
-    <td>TODO EL EQUIPO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
@@ -188,7 +188,7 @@ Para realizar un análisis de palabras clave vamos a usar la herramienta [es.sem
 
 1. **Palabras Clave:** 
 
-   Para la búsqueda de palabras clave, hemos sel 
+   Para la búsqueda de palabras clave, hemos seleccionado los siguientes términos vinculados a nuestro tema:
 
 - Educación social 
 - ONG
@@ -258,7 +258,7 @@ Para implementar la adaptación debemos de analizar en profundidad los datos de 
 
 
 
-`5.3 Palabras clave
+5.3 Palabras clave
 
 La herramienta Google Ads, se podrá utilizarla para buscar nuevas palabras clave a las que dirigir las campañas publicitarias, además también nos servirá como herramienta de investigación inicial para el SEO.
 
