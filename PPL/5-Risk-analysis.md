@@ -78,7 +78,12 @@
    <td>2.0.1</td>
    <td>13/02/2024</td>
    <td>Actualizado después del feedback de la semana 3. Aclaración en la reserva de contingencias y en la descripción de los riesgos.</td>
-   <td>AURORA NAVAS JIMÉNEZ</td>
+   <td>
+     <ul>
+       <li>AURORA NAVAS JIMÉNEZ</li>
+       <li>PABLO PERIÁÑEZ CABRERO</li>
+     </ul>
+    </td>
    <td>CLAUDIA GILABERT PRIETO</td>
   </tr>
   <tr>
