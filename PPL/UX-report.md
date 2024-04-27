@@ -68,7 +68,7 @@
    <td>26/042/2024</td>
    <td>Completado la primera versión del documento.</td>
    <td>FÉLIX ÁNGEL GUDIEL GÜEMES y PEDRO LOPEZ RUZ</td>
-   <td></td>
+   <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
 </table>
 
@@ -93,7 +93,7 @@ Aun así, recibir feedback positivo de nuestros usuarios piloto respecto al dise
 
 Esta métrica se refiere a la disposición de la información. La estructura de la información que se muestra en pantalla debería tener forma clara, equilibrada, funcional y escalable. Para poder evaluar esta métrica, nos fijaremos en los desplegables de la página principal y en la barra lateral en los perfiles de usuario. La iconografía en ellas es mínima, por lo que podemos afirmar que la información que se ofrece es clara. Ambas siguen una estructura predeterminada y cautelosamente creada para toda la aplicación, asegurando que está equilibrada y escalable. Además, hemos evitado florituras y cada elemento de estos menús está etiquetado con la sección a la que corresponde, confirmando su funcionalidad.
 
-Podemos entonces afiramar que se ha tenido en cuenta los parámetros descriptores de la Arquitectura de la Información, un indicador de que el diseño de la aplicación es adecuado y correcto.
+Podemos entonces afirmar que se ha tenido en cuenta los parámetros descriptores de la Arquitectura de la Información, un indicador de que el diseño de la aplicación es adecuado y correcto.
 # 2.3 Prototipos aprobados
 
 Antes de comenzar el desarrollo del proyecto se elaboraron prototipos para todas las pantallas que la aplicación debía contener. Estos prototipos fueron creados por una sección del equipo que conocía de cerca las funcionalidades a implementar y fue revisado por otra parte del equipo, las desconcocía (en su mayoría). Siguiendo este proceso, los revisores emularon a los futuros clientes, ya que no tenían conocimiento previo del sistema. Tras la revisión, el producto final de esta tarea fue un conjunto de prototipos que no sólo cumplían con los requisitos, si no que eran comprensibles para los individuos sin información de la aplicación.
