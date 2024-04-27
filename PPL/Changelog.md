@@ -65,6 +65,14 @@
     4.2. Mejoras Sprint 3
 
     4.3. Arreglos Sprint 3
+
+5. PPL
+
+    5.1. Incrementos PPL
+   
+    5.2. Mejoras PPL
+
+    5.3. Arreglos PPL
    
 
 ## Registro de cambios
@@ -123,7 +131,7 @@
 #  1. Introducción
 
 En este documento se recogen los avances realizados en el proyecto durante el desarrollo del proyecto
-en cada Sprint, divididos en: incrementos o *features* (nuevas características del proyecto), mejoras o *improvements* (continuación del desarrollo de partes de código ya hechas anteriormente para actualizarlas o proporcionarles una mejor utilidad) y arreglos o *fixes* (reparación de partes del código que nofuncionaban correctamente o se han quedado obsoletas). Cada apartado se desglosa en las partes
+en cada Sprint y durante el PPL, divididos en: incrementos o *features* (nuevas características del proyecto), mejoras o *improvements* (continuación del desarrollo de partes de código ya hechas anteriormente para actualizarlas o proporcionarles una mejor utilidad) y arreglos o *fixes* (reparación de partes del código que nofuncionaban correctamente o se han quedado obsoletas). Cada apartado se desglosa en las partes
 *backend* y *frontend*.
 
 
@@ -807,3 +815,87 @@ No aplica.
  
 - **[Fix/225-Partner Export (#225)](https://github.com/ISPP-G5/NexONG_Frontend/issues/225)**.
     - Ahora se envía un token para poder descargar documentos desde el frontend.
+
+
+
+# 5. PPL
+
+
+## 2.1. Incrementos PPL
+
+### Backend
+
+No procede.
+
+### Frontend
+
+- **[Feat/191-Partners membership (#191)](https://github.com/ISPP-G5/NexONG_Frontend/issues/191)**.
+    - Ahora los socios pueden modificar su donación.
+ 
+- **[Feat/235-Organization (#235)](https://github.com/ISPP-G5/NexONG_Frontend/issues/235)**.
+    - Añadida la pantalla "Organización" a la página de inicio.
+    - Añadida "Organización" a la barra de la cabecera de la página de inicio.
+
+
+## 2.2. Mejoras PPL
+
+### Backend
+
+- **[HTML Correct/Error Payment (#189)](https://github.com/ISPP-G5/NexONG_Backend/issues/189)**.
+    - Añadida una pantalla HTML tras un pago completado o erróneo que redirige al frontend.
+ 
+- **[Student Acceptance (#193)](https://github.com/ISPP-G5/NexONG_Backend/issues/193)**.
+    - Ahora la solicitud de un alumno se caduca tras un año sin ser aceptada.
+
+### Frontend
+
+- **[Fix/233-Evaluation Educator (#233)](https://github.com/ISPP-G5/NexONG_Frontend/issues/233)**.
+    - Ahora los educadores ven a los niños separados por clases.
+ 
+- **[Fix/236-Family (#236)](https://github.com/ISPP-G5/NexONG_Frontend/issues/236)**.
+    - Se ha mejorado el estilo para móviles.
+
+
+## 2.3. Arreglos PPL
+
+### Backend
+
+- **[Fix Volunteer model (#187)](https://github.com/ISPP-G5/NexONG_Backend/issues/187)**.
+    - Ahora se envía un token para poder descargar documentos desde el frontend.
+ 
+- **[Fix PUT and PATCH donation (#188)](https://github.com/ISPP-G5/NexONG_Backend/issues/188)**.
+    - Ahora se puede modificar una donación sin cambiar el IBAN.
+ 
+- **[Fix Accents/Acutes (#192)](https://github.com/ISPP-G5/NexONG_Backend/issues/192)**.
+    - Ahora se puede registrar un nombre con tildes.
+ 
+- **[Fix/238-Delete confirmation message (#234)](https://github.com/ISPP-G5/NexONG_Frontend/issues/238)**.
+    - Ahora aparece un mensaje de confirmación al eliminar una solicitud.
+    - Ahora aparece un mensaje de confirmación al rechazar un alumno.
+    - Ahora aparece un mensaje de confirmación al rechazar un voluntario.
+
+### Frontend
+ 
+- **[Fix/232-Meetings (#232)](https://github.com/ISPP-G5/NexONG_Frontend/issues/232)**.
+    - Ahora un administrador puede editar reuniones.
+ 
+- **[Fix/234-Family (#234)](https://github.com/ISPP-G5/NexONG_Frontend/issues/234)**.
+    - Ahora las familias ven en los calendarios los eventos, clases y actividades por separado.
+    - Ahora una actividad, evento o clase que suceda varios días de forma recurrente se ve por separado.
+ 
+- **[Fix/237-Volunteer Calendar (#237)](https://github.com/ISPP-G5/NexONG_Frontend/issues/237)**.
+    - Ahora los voluntarios pueden ver las clases en el calendario.
+    - Ahora los voluntarios pueden apuntarse a clases.
+ 
+- **[Fix/241-Admin-lesson (#241)](https://github.com/ISPP-G5/NexONG_Frontend/issues/237)**.
+    - Ahora las clases se actualizan con PATCH en lugar de PUT.
+ 
+- **[Fix/242-Volunteer formation (#242)](https://github.com/ISPP-G5/NexONG_Frontend/issues/242)**.
+    - Ahora los voluntarios solo tienen que ver los vídeos de formación una vez.
+ 
+- **[Fix/243-Students time out (#243)](https://github.com/ISPP-G5/NexONG_Frontend/issues/243)**.
+    - Se ha adaptado el frontend al nuevo campo backend que hace que una solicitud de alumno se descarte tras un año sin ser aceptada.
+ 
+- **[Fix/250-Toast error suggestions (#250)](https://github.com/ISPP-G5/NexONG_Frontend/issues/250)**.
+    - Arreglado un error que impedía realizar una sugerencia sin introducir un email a pesar de ser un campo opcional.
+    - Arreglada una errata en mensajes Toast que decían "Persona aceptado".
