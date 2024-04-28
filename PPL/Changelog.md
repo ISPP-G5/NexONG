@@ -866,9 +866,6 @@ No procede.
 - **[Fix PUT and PATCH donation (#188)](https://github.com/ISPP-G5/NexONG_Backend/issues/188)**.
     - Ahora se puede modificar una donación sin cambiar el IBAN.
  
-- **[Fix Accents/Acutes (#192)](https://github.com/ISPP-G5/NexONG_Backend/issues/192)**.
-    - Ahora se puede registrar un nombre con tildes.
- 
 - **[Fix/238-Delete confirmation message (#234)](https://github.com/ISPP-G5/NexONG_Frontend/issues/238)**.
     - Ahora aparece un mensaje de confirmación al eliminar una solicitud.
     - Ahora aparece un mensaje de confirmación al rechazar un alumno.
