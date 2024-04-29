@@ -158,7 +158,7 @@ Se hace una breve descripción de la organización así como mostrar diferentes 
 - Actividades: breve resumen de las actividades proporcionadas por la ONG
 - Aula abierta: una de las actividades que se ofrece que consiste en apoyo educativo. Aquí se explica de que trata esta.
 - Aula de convivencia: proporciona ayuda educativa a menores con conducta disruptivas. Se explica que es lo que se realiza con este programa. 
-- Talleres familiares: la asociación quiere mostrar y dar apoyo a las familias y para ello crearon esta activdad.Se muestra explicado que es lo que se realiza 
+- Talleres familiares: la asociación quiere mostrar y dar apoyo a las familias y para ello crearon esta actividades .Se muestra explicado que es lo que se realiza 
 - Club de verano: actividad que se realiza en verano donde se realizan talleres, excursiones,...
 - Campamento de verano: cada año realiazión esta actividad con la Asociación Rutas Sevilla.
 
@@ -196,6 +196,43 @@ Se ha creado una cabecera con el logo de la ONG que si se presiona te redirige a
 En el pie se ha indicado el correo electrónico de la asociación, los teléfonos, el número del Fax y el CIF.Además de la direción de ellos así como sus redes sociales.
 
 También hemos implementado mensjaes de confimración antes de acciones de borrar para comprobar que el usuario es consciente de la acción que va a realizar y las consecuencias que eso lleva. 
+
+## Trabajo pendiente por realizar
+Este apartado es necesario ya que debido a los limites de tiempo y que Manos abiertas en cada reunión iba añadiendo más requisitos y funcionalidades que se podrían incluir. Teniendo todo este en cuenta, se decidió reducir el alcance haciendo imposible la implementación de todo pero no queremos que se quede en el olvidó y por ese mismo motivo queremos incuirlo en este documento: 
+
+- La ONG solicito que a la hora que un voluntario se registre, se considere introducir un nuevo campo al formulario: descripción dónde introduzcan información sobre ellos. Este campo luego podrá ser editado en el caso de que su solicitud sea aprobada.
+
+- En el mismo ángulo, los educadores deberían también tener un campo de descripción para proporcionar información sobre ellos. Esto se podría añadir como un nuevo campo que aparezca en el perfil. Además, debería ser editable.
+
+- Actualmente, solo se ha incluido un desplegable para exportar datos en la parte de socios. Por parte del backend se han creado funciones para exportar la información de cada uno de los roles pero desde el frontend no se ha podido realizar ya que no era una funcionalidad principal.
+
+- Tuvimos que cancelar la parte de proyectos. Este apartado se decidió alcanzar debido a una gran cantidad de dudas de como sería más útil hacia la asociación ya que ni ellos lo tienen muy grande. La idea es que los proyectos puedan ser creados por los administradores. Además, los educadores tendrían la posibilidad de evaluar estos proyectos de manera diaria y anual.
+- Otro de los aspesctos que no se realizó es la parte de los centros educativos. Es cierto que una funcionalidad bastante interesante y útil ya que facilitaría el contacto entre colegios y asociación para aquellos alumnos que por conducata disruptiva han sido expulsados de sus colegios y van a la organización para tener apoyo educativo. La razón principal para no realizarlo fue que estamos muy limitados por el tiempo y no se estaba cien por cien seguro de si sería usado por lo centros educativos y por ello se dejo en un segundo plano.
+
+- Actualmente, existe un log in social que funciona tanto por parte del backend así como el frontend pero no se muestra en la aplicación porque faltaba por crear los cuestionarios correspondiente de registro para un usaurio que utilize este método de incio de sesión. Al enterarnos de que la funcionalidad probablemente no fuera muy utilizada por los futuros clientes, no se le dió prioridad y nos centramos en otras partes que se consideraban de mayor importancia.
+
+- Para el futuro, nos encantaría poder automatizar los métodos de contactos. Por ejemplo educadores pueden actualmente ver la información ed la familia del estudiante, lo ideal es que el educador pudiera usar directamente la platarforma para esa comunicación.  Al igual nos gustaría incluir esta opción desde la perspectiva de la familia si se quiere poner en contacto con el educador de su hijo.
+
+- Añadir un dialogo con la información del educador de su hijo (igual que esta hecho en educadores que ve las familias pero a la inversa, las familias ven los datos de los educadores)
+
+- En las pantallas relacionadas con la pantalla principal, las actividades de su página web actual incluye más opciones. En un futuro estaría bien volver a preguntar a la ONG sobre ello por si se quisiera incluir.
+
+
+## Cosas para mejorar
+Somos autocríticos de nuestro propio trabajo sabiendo y siendo conscientes de que siempre habrá cosas que se pueda mejorar para hacer las más accesibles. No solo se tiene esta autoevaluación en cuenta para el apartado en el cual estamos si no también el feedback recogido sobre las pruebas de los usuarios pilotos. En general, la mayoría de ellos se tuvieron en cuenta y se corrigieron de manera inmediata ya que era errores considerables como no mostrar mensajes de error. Aunque cabe destacar que no todos se consideraron debido al tiempo y se decidió trabajar sobre aquellos más relevantes. A continuación se va a mostrar aspesctos abiertos a mejoras del software que actualmente tenemos desarrollado.
+
+- En el primer feedback recibido, se proporciono la sugerencia de que en las pantalla (iniciando sesión como administrador) de socios y educadores la creación de asambleas y el añadir educadores de manera respectiva podrían cambiarse a un botón en vez de tener que cambiar de pestaña. Este feedback se ha tenido en cuenta y por eso se indica en este apartado de mejoras.
+- Por otro lado nos gustría comprobar que la interfaz que ha sido creada es las más adecuada para nuestro usuarios potenciales comprobando que nuestra user experience es satisfactoria o no.
+
+- Estando en la pantallas correspondientes al rol de administrador se querría añadir mayor información sobre la pestaña del rol que se esta visualizando. Ahora mismo incluye los datos básicos como pueden ser nombre y apellido. 
+El administrador debería de poder acceder a otros datos como la documentación de los voluntarios registrados, acceder a los documentos de las familias, y la tarjeta sanitaria.
+También podría quere acceder a los socios y poder ver de manera clara la cantidad que dona y cada cuanto tiempo.En la información de educadores no estaría que se mostrará el correo elctrónico si el administrador quisiera contactar con el.
+
+- El tema de las evaluaciones podría ser mejorada de manera considerada en el futuro. Desde el backend existe la opción de crear tipos de evaluaciones, cosa que actualmente no se considera desde el frontend. Además, se podría lograr ver evaluaciones pasadas por parte del educador si quisiera. Además, de añadir evaluaciones trimestrales que no esta actualmente contempladas desde el frontend.
+
+## Conclusión
+Se ha desarrollado una pequeña guía con la información correspondiente a que se ha realizado durante el proyecto, que se puede mejorar de ellos y que a quedado por implementar. Aunque parezcan muchas cosas dejadas en el tintero ya sea por mejoras o para el futuro, estamos todo el grupo, especialmente el equipo del frontend del trabajo logrado y conseguido durante la etapa de desarrollo. Para muchos, el uso de React ha sido algo nuevo o si no lo ha sido que han tenido que recordar como funcionaba.
+
 
 
 
