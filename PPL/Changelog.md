@@ -852,6 +852,7 @@ No aplica.
  
 - **[Fix/236-Styles responsive for phones (#236)](https://github.com/ISPP-G5/NexONG_Frontend/issues/236)**.
     - Se ha mejorado el estilo para móviles.
+    - Arreglada una errata en mensajes Toast que decían "Persona aceptado".
 
 
 ## 2.3. Arreglos PPL
@@ -888,9 +889,16 @@ No aplica.
 - **[Fix/242-Volunteer formation (#242)](https://github.com/ISPP-G5/NexONG_Frontend/issues/242)**.
     - Ahora los voluntarios solo tienen que ver los vídeos de formación una vez.
  
-- **[Fix/243-Students time out (#243)](https://github.com/ISPP-G5/NexONG_Frontend/issues/243)**.
+- **[Fix/243-Students-time-out (#243)](https://github.com/ISPP-G5/NexONG_Frontend/issues/243)**.
     - Se ha adaptado el frontend al nuevo campo backend que hace que una solicitud de alumno se descarte tras un año sin ser aceptada.
  
-- **[Fix/250-Toast error suggestions (#250)](https://github.com/ISPP-G5/NexONG_Frontend/issues/250)**.
+- **[Fix/251-Update-profile-partners (#251)](https://github.com/ISPP-G5/NexONG_Frontend/issues/251)**.
+    - Arreglado un error que aparecía al intentar actualizar el perfil como socio.
+ 
+- **[Fix/252-Family-evaluation (#252)](https://github.com/ISPP-G5/NexONG_Frontend/issues/252)**.
+    - Corregido el mensaje incorrecto que aparecía en la pantalla de "Evaluación anual".
+ 
+- **[Fix/253-Suggestions-email (#253)](https://github.com/ISPP-G5/NexONG_Frontend/issues/253)**.
     - Arreglado un error que impedía realizar una sugerencia sin introducir un email a pesar de ser un campo opcional.
-    - Arreglada una errata en mensajes Toast que decían "Persona aceptado".
+
+    
