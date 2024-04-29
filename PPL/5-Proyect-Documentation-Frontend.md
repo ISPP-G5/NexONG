@@ -1,0 +1,222 @@
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Documentación del proyecto Frontend
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
+
+***MIEMBROS***:
+
+<table>
+  <tr>
+    <td>AURORA NAVAS JIMÉNEZ</td>
+    <td>MARÍA NÚÑEZ REYES</td>
+    <td>CLAUDIA GILABERT PRIETO</td>
+  </tr>
+  <tr>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+    <td>FÉLIX ÁNGEL GUDIEL GÜEMES</td>
+    <td>MIGUEL ANGEL ROMALDE DORADO</td>
+  </tr>
+  <tr>
+    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
+    <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
+  </tr>
+  <tr>
+    <td>PEDRO LOPEZ RUZ</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td>SAMUEL LUIS RODRÍGUEZ MANESS</td>
+  </tr>
+  <tr>
+    <td>MANUEL ORTIZ BLANCO</td>
+    <td>SERGIO AGUAYO OROZCO</td>
+    <td>JUAN LUIS RUANO MURIEDAS</td>
+  </tr>
+  <tr>
+    <td>MANUEL FRANCISCO BARCIA JIMENEZ</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<a name="br2"></a> 
+
+## Índice
+1. Registro de cambios
+2. Introducción
+3. Trabajo realizado
+4. Trabajo futuro
+5. Trabajo por mejorar
+
+## Registro de cambios
+**Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
+--- | --- | --- | --- | --- 
+1.0.0 | 29/4/2024 | Semana 12 |CLAUDIA GILABERT PRIETO| 
+
+
+## Introducción
+El objetivo principal de este documento es la creación de una guía que contenga información sobre las tareas que se ha realizado durante el desarrollo del proyectos, que tareas han quedado pendiente y que se podrían implementar en el futuro así como que partes de ya implementadas podrían ser mejoradas para así hacerlas más eficientes y ajustarnos a los requisitos dados por la ONG Manos Abiertas con Norte, nuestro actual cliente.
+
+Importante mantener en mente que en este documento solo se esta teniendo en cuenta la parte correspondiente al Frontend. Se ha decidido hacer en dos documentos separados para facilitar la lectura y entendimiento por parte del lector.
+
+
+
+## Trabajo realizado
+Una vez recopilados los requisitos de parte de nuestro cliente, se analizaron y estudiaron para poder así entender de manera mas profunda que es lo que necesitaban y esperaban del software que se iba a desarrollar. 
+
+Una vez con toda esa información en mente, se crearon los mock-ups de la aplicación. Se pensó en todo momento tener una interfaz sencilla para facilitar a futuros usarios la utilización de nuestro software. 
+
+Con toda la información precedente de los requisitos así como el diseño de la aplicación, se realizó una primera planificación de las tareas a realizar que por cuestiones del tiempo disponible así como organización del equipo se vió la necesidad de reducir el alcance y de realizar una re-planificación.
+
+A continuación se explicará de manera más detallada que se ha ido realizando y para ello se va a dividir en 5 secciones, una por rol (administrador,socio,educador,voluntario y familias ) y dentro de cada uno de estas divisiones se proporcionará información de lo que cada rol puede realizar.
+
+El acceso a la información procedente del Backend por parte del Frontend se realizó mediante consultas a la API Rest desarrollada desde el Backend usando Django Rest. Para poder hacer estas solicitudes se ha utilizado la librería axios.
+Se ha utilizado para la calidad del código Codacy y evitar sobre todo duplicaciones de código para forzar el hecho de trabajar en componentes y sacarle el máximo partido a React.
+
+#### Rol de administrador
+El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera autómatica. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabra de la coordinadora de la ONG.
+Todo lo que viene a continuación es desde la perspectiva de un usuario que ha inciado sesión como administrador.
+##### Voluntarios
+Las tareas realizadas en este apartado estan relacionadas con el proceso de gestión de voluntarios:
+
+- Listado de voluntarios: el usuario que acceda con el rol de administrador va a poder visualizar los voluntarios registrados en la ONG.
+
+- Proceso de aceptación de un voluntario: una vez que los voluntarios han realizado todos los papeles necesarios para presentar su solicitud, deben esperar a que la ONG los acepte o los rechaze. El administrador tiene accesso a la información del voluntario que ha realizado la solicitud: puede descargarse en formarto ZIP todos los archivos correspondiente a esa solicitud, así como poder aceptar o rechazar.
+
+- Editar/Borrar voluntario: además de esas dos acciones anteriores, se añadió por solicitud de la ONG la opción de que el administrador pueda editar los datos del voluntario así como darlo de baja si se deseara.
+  
+
+##### Familias
+Las pantallas correspondiente a familias desde la perspectiva de administrador tiene una estructura muy similar a la de voluntarios ya que al igual que en la parte explicada con anteriorida se puede visualizar un listado de las familias registradas en la plataforma con la información correspondiente de sus hijos. Además, presentan también un sitema de gestión de solicitudes pero en este caso las solicitudes que son revisadas son las correspondiente a los niños de las familias ya que ellos son los que hacen uso de los servicios proporcionados por la ONG.
+
+##### Educadores
+El trabajo realizado en educadores se basa en dos principales partes:
+
+- Listado de educadores: se va a poder visualizar un listado de los educadores registrados con la ONG. Además, el administrador va a poder editar sus datos así como borrar su perfil si se deseará.
+- Registro de nuevos educadores: mediante las reuniones con la ONG, descrubimos que el rol de educador es el único que no se registra el mismo en la ONG, todos ese papeleo es llevado a cabo por la ONG. Por ellos en la pestaña de educadores aperece una sección para poder proceder con este paso.Los educadores son informados por parte de la ONG de los datos de su cuenta para poder así iniciar sesión a las pantallas correspondiente de ese rol espcifíco.
+
+##### Socios
+Al igual que en todos los roles anteriores, aparece el listado de socios así como la posibilidad de editar y borrar la cuenta del socio, si el administrador deseará. Aparte de esta funcionalidad, aquí se pueden encontrar dos no vistas de manera anteriror:
+
+- Creación de reuniones: una de las acciones que una persona que sea socia de la organización puede hacer, es ir a las reuniones que se van a realizar. Por ello el administrador va a poder crear estas reuniones que una vez que se hayan creados,el socio podrá ver cuando tienen lugar desde su perfil.
+- Exportación de donaciones: los adminsitradores pueden exportar un documento en formato Excel,PDF o CSV con la siguiente información sobre las doncaciones realizdas por los socios:cantidad, frecuencia, titular y fecha.
+
+##### Clases
+En esta sección podemos encontrar varias funciones diversas:
+- Listado de clases: si existen clases, aparecerá un listado con información de las diferentes clases que existen. 
+- Creación de clases: los adminsitradores son los responsable de la creación de las clases y por tanto deben de poder crearlas.
+- Crear Horario: cada clase creada tiene un horario especifico, en la opción de crear horario lo que se permite es que con una clase creada se pueda crear el horaro de las diferentes clases.
+- Ver horarios: nos permite visualiar lo que se ha creado anteriormente.
+##### Eventos
+En la sección eventos se muestra un calendario en el cual se va a mostrar:
+- Creación de eventos: se van a poder crear dos tipos. Actividades que corresponden a una clase especifica (se podría también llamar excusriones) y eventos accesibles para todos los que pertenecen a la ONG.
+- Visualización calendario: en el calendario se van a poder observar los eventos, las actividades, las reuniones.
+- Sugerencias: los usuarios pueden realizar sugerencias a la ONG y esta las puede leer y una vez leídas borrarlas.
+- Documentos: en la parte de la pantalla principal accesible a todo el mundo (no hace falta tener una cuenta), encontramos el apartado de transparencia (se explicará en breves de manera más profundidad) que cada año debe ser actuaizado con nuevos documentos y para facilitar esto y que se puede hacer de manera automática se ha creado un formulario con este objetivo. El formulario consiste de los siguiente campos (son los que se necesitan de cada documento): título, tipo de documento en un desplegable, adjuntar documento y le fecha.
+
+Por último, el administrador puede actualizar los datos de su perfil si lo deseará. Esta acción es posible en cada uno de los roles por tanto no se va a volver a indicar para que el documento no sea repetitivo.
+
+#### Rol de Educador 
+Este rol puede realizar las siguientes acciones:
+##### Evaluación Diaria 
+La organización nos transmitió que una de las partes mas importantes para ellos era lo relazionado con la evaluación y que presentan diferentes tipos de evaluaciones entre ellas la diaria. Un educador va a poder filtrar por sus clases y solo los alumnos de ellos van a aparecer y poder ser evaluados indicando una puntuación (que depende del tipo de evaluación creado), un comentario y la fecha. Además, si desean ponerse en contacto con la familia tienen acceso a esa información. 
+##### Evaluación Anual
+La evaluación anual es igual que la anterior pero se relaiza de año en año.
+Ambos tipos de evaluaciones pueden ser mejorados en el futuro y se proporcionará más información.
+##### Actividades
+En esta apartado se muestran las actividades creadas por el administrador que pertenzca al educador y sus alumnos, mostrando información si tienen la autorización por parte de sus padres o tutores legales a participar en ella o no. 
+#### Rol de Socio
+El socio va a tener un calendario donde se va a mostrar las futuras reuniones a las que puede ir si lo desea. Además, el perfil del socio es algo diferente ya que presenta un apartado de renovar o cambiar cuota de la donación. Esto se realiza mediante un formulario en cual hay que indicar el titular de la cuenta bancaria, el IBAN, cantida a donar y frecuencia mediante el uso de checkbox. 
+
+Si el socio deseará cancelar su subcripción como socio, con pulsar el botón borrar cuenta sería suficiente. 
+#### Rol de Familia
+El rol de Familia es otro de los más importantes a destacar, ya que las familias son los principales en hacer uso de los servicio que la ONG ofrece. 
+
+- Niños: en esta pestaña van a poder visualizar los datos de su hijo así como registrar nuevos hijos si lo desean. Una vez realizada la solicitud este deberá ser aceptada por el administrador.
+- Evaluación diaria: las evaluaciones dadas por los educadores, van a ser visualizadas por la familia indicando en grande la puntuación,el nombre de la evaluación, el nombre del alumno, la clase y la fecha.
+- Evaluación anual: es igual que el caso previo pero en este caso se visualizarían las evaluaciones de año en año.
+
+-Autorizaciones:se diferencian dos diferentes apartados. Autorizaciones hechas que muestran la información relacionada con una actividad en la que ya se ha completado y en enventos disponible muestran eventos que van a llevarse a cabo y necesitan que se complete todavía la autorización.
+-Calendario: en el calendario se va a mostras las clases de los hijos de la familia, las excursiones y los eventos. Cada uno con un color diferentes para hacer lo más visual y claro. Si se presiona sobre uno de ellos más información se muestra
+
+#### Pantalla principal 
+La pantalla principal hace referencia a toda aquella parte de la aplicación a la que se puede acceder sin tener una cuenta. Se podría pensar que no es tan importante ya que no se realiza ninguna funcionalidad de gestión en el tema de la ONG pero es igual de importante o incluso más ya que muchos de los apartados introducidos son necesarios para que la organización reciba subvenciones.
+La información incluida ha sido proporcionada por la propia organización u obtenida de su página web actual.
+
+Otra información importante, es que se ha seguido la misma estrctura en todas las diferentes pestañas dentro de lo posible para mantener una interfaz limpia.
+###### Pantalla Home
+Se hace una breve descripción de la organización así como mostrar diferentes apartados a los que pueden ser redirigidos si se quisiera mayor información.
+
+
+###### Asociación
+- Nosotros: breve presentación de Manos Abiertas con Norte, indicando donde se centra su trabajo así como que trabajo llevan acabo. Además de un vídeo que realizaron en el año 2020/2021 preguntando a alumnos sobre que es para ellos Manos Abiertas.
+- Historia: se habale sobre cuando se creó y como comenzó la aventura de esta organización y como ha ido creciendo con el paso del tiempo.
+- Misión, visión y valores:como se puede deducir por el titulo otorga información sobre esos tres pilares esenciales para cualquier organización sin ánimo de lucro.
+- La Salle: al partener a la red de colegios La Salle, era un requisito esencial de Manos Abiertas, incluir información sobre que es lo que realiza La Salle en el área de colabroación con asociaciones.
+- Organización: explica como se dividen y quién ocupa cada puesto. Este es un punto de mejora para el futuro.
+- Transparencia: anterirormente en la parte de administrador se comentó sobre un apartado de documentos. Los documentos que se introduzcan aparecerán en la tabla de esta pestaña.
+- Entidades Colaboradoras: esencial también indicar que tienen asociado que dan ayuda y subvenciones. Se muestran con una imágen así como un enlace hacia su página web.
+
+###### Actividades
+- Actividades: breve resumen de las actividades proporcionadas por la ONG
+- Aula abierta: una de las actividades que se ofrece que consiste en apoyo educativo. Aquí se explica de que trata esta.
+- Aula de convivencia: proporciona ayuda educativa a menores con conducta disruptivas. Se explica que es lo que se realiza con este programa. 
+- Talleres familiares: la asociación quiere mostrar y dar apoyo a las familias y para ello crearon esta activdad.Se muestra explicado que es lo que se realiza 
+- Club de verano: actividad que se realiza en verano donde se realizan talleres, excursiones,...
+- Campamento de verano: cada año realiazión esta actividad con la Asociación Rutas Sevilla.
+
+En el aprtado de actividades se proporciona información sobre que servicios ofrecen y que es lo que se hace para atraer a personas que puedan necesitar de estos servicios
+
+##### Agenda 2030
+Toda organización que incluya en su página web información relacionad con la Agenda de sostenibilidad de 2030 reciben más subvenciones. Por ellos la necesidad de incluirla.Además, indicando como intenta aplicar sus puntos a través de la organización.
+
+###### Donaciones
+Si esta interesado en realizar una donación a la ONG, es posible. Si quiere solo hacer esa acción una vez, haz una donación putnual en la que debe indicar su nombre, apellidos, correo elctrónico y el métod de pago: tarjeta de credito o Tranferencia y Bizum.
+Si esta interesado en donar de manera recurrente podra pulsar en el botón de registrase y ser redirigido a esa pestaña.
+
+###### Voluntarios
+¿Qué es una organización sin ánimo de lucro sin la ayuda de voluntarios?. Los voluntarios son una parte esencial de cualquier asociación y en esta apartado se quería proporcionar inforamción sobre ello así como el botón para ser redirigido hacia registrase como voluntario.
+
+###### Sugerencias
+Actualmente, Manos Abiertas acepta sugerencias de manera presencial en un buzón que tienen pero estaban interesado en automatizarlo. Para ello se ha creado la pantalla sugerencias donde cualquier persona puede dejar un comentario si lo desea.
+
+##### Registro 
+Como indicado de manera anterior existen 5 roles. De esos 5 solo puedes registrarte en tres: socios,voluntarios y familias ya que los educadores son registrados por el administrador y no se debe dar una opción de registrarse como adminsitrador a cualquiera ya que contiene mayor poder de realizar acciones.
+
+En este apartado completas tus datos correspondientes, aceptas la política de privaciad y seleccionas el rol en el que estas interesado. 
+
+Una vez completado esto y dependiendo del rol eres redirigido a un segundo formulario para intorducir los datos necesarios y espcíficos de cada uno de esos roles. 
+
+El usuario que se registre, para poder usar su cuenta para iniciar sesión debe verificar su correo electrónico. 
+
+###### Inicio de sesión
+Una vez verificado el correo y completados los formularios serás redirigido a la pantalla correspondiente a tu rol. 
+
+Además de todo lo explicado anteirormente de tareas realizadas, se han añadido mensajes de error y éxito en cada consulta para transmitir al usuario si la acción que realiza es correcta o no. Para estos mensaje hemos usado la lbrería Toastify disponible para React.
+###### Cabecera y Pie
+Se ha creado una cabecera con el logo de la ONG que si se presiona te redirige a la página principal y se han añaido los diferentes enlaces de todas las páginas explicadas anteriormente.
+
+En el pie se ha indicado el correo electrónico de la asociación, los teléfonos, el número del Fax y el CIF.Además de la direción de ellos así como sus redes sociales.
+
+También hemos implementado mensjaes de confimración antes de acciones de borrar para comprobar que el usuario es consciente de la acción que va a realizar y las consecuencias que eso lleva. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
