@@ -850,7 +850,7 @@ No aplica.
 - **[Fix/233-Evaluation Educator (#233)](https://github.com/ISPP-G5/NexONG_Frontend/issues/233)**.
     - Ahora los educadores ven a los niños separados por clases.
  
-- **[Fix/236-Family (#236)](https://github.com/ISPP-G5/NexONG_Frontend/issues/236)**.
+- **[Fix/236-Styles responsive for phones (#236)](https://github.com/ISPP-G5/NexONG_Frontend/issues/236)**.
     - Se ha mejorado el estilo para móviles.
 
 
