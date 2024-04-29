@@ -825,7 +825,8 @@ No aplica.
 
 ### Backend
 
-No procede.
+- **[Student Acceptance (#193)](https://github.com/ISPP-G5/NexONG_Backend/issues/193)**.
+    - Ahora la solicitud de un alumno se caduca tras un año sin ser aceptada.
 
 ### Frontend
 
@@ -843,9 +844,6 @@ No procede.
 
 - **[HTML Correct/Error Payment (#189)](https://github.com/ISPP-G5/NexONG_Backend/issues/189)**.
     - Añadida una pantalla HTML tras un pago completado o erróneo que redirige al frontend.
- 
-- **[Student Acceptance (#193)](https://github.com/ISPP-G5/NexONG_Backend/issues/193)**.
-    - Ahora la solicitud de un alumno se caduca tras un año sin ser aceptada.
 
 ### Frontend
 
