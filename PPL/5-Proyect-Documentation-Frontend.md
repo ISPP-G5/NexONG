@@ -56,6 +56,22 @@ El objetivo principal de este documento es la creación de una guía que conteng
 
 Importante mantener en mente que en este documento solo se esta teniendo en cuenta la parte correspondiente al Frontend. Se ha decidido hacer en dos documentos separados para facilitar la lectura y entendimiento por parte del lector.
 
+## Organización del repositorio
+En el caso de nuestro grupo nexONG se acordó la creación de una organización en la que se crearían diferentes repositorios: uno para la documentación, otro para la landing page, otro para el Backend y uno para el Frontend.
+
+Al tener diferentes repositorios de trabajo, a nosotros personalmente no facilitó ya que nos permite localizar la información que queremos de manera rápida, en cambio si todo estuviera en un mismo repositorio sería mas complicado. 
+
+En el repositorio del Frontend se ha seguido el flujo de trabajo de GitFlow dónde la rama Develop es en la que se ha ido desarrollando, se ha creado una rama Release para el despliegue que sigiendo la estructura de GitFlow es la rama de publicación. Además, el contenido de Develop se pasa a Main para realizar un release con su correspondiente etiqueta.
+
+A la hora del desarrollo se utilizó el apartado de issues para describir que tareas hay que realizar si son features o fixes (estas son las dos principales que hemos tenido) así como los issues relacionados con el release y despliegue. Se han utilizado plantillas para los issues para facilitar que todos tengan la misma estructura, aunque si hiciera falta se puede publicar sin usar las plantillas.
+
+Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy para asegurar que se cumple la calidad del código. Cada pul request es revisada por tres personas, siendo siempre una de ellas la Team Leader del Frontend para garantizar que el trabajo realizado cumple con lo esperado. 
+
+La Team Leader, era también la que creaba y asiganaba los issues a cada persona de su grupo. Esta orgnaziación, creación y asignación de tareas era consultada entre PM y el team leader del Back para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Frontend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
+
+Como se ha indicado se han utilizado los proyectos de GitHub ya que permite facilitar la organización de los repositorios y sus tareas gracias al tablero Kanban que ofrece que permite visualizar la tarea, el/la asignadao/a, el deadline y los revisores. Los revisores también eran establecidos por los Teams Leader en su correspondiente repositorio para así garantizar que todos los miembros revisarán código de sus compañeros.
+
+
 
 
 ## Trabajo realizado
