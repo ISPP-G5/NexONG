@@ -349,11 +349,7 @@ Al programar nuestras publicaciones en función de estos datos, esperamos aprove
 
 2. **Plan B:**
 
-  Debido a la demora en la respuesta de Manos Abiertas con Norte, hemos decidido implementar un plan de contingencia para asegurar la efectividad de nuestra estrategia de marketing. 
-  
-  En este enfoque alternativo, hemos ajustado los contenidos de las diferentes semanas que originalmente involucraban a Manos Abiertas con Norte, sustituyéndolos por temas más generales y adaptables. 
-  
-  Esta medida nos permite garantizar la continuidad de nuestras acciones promocionales y minimizar cualquier contratiempo imprevisto.
+  Debido a la demora en la respuesta de Manos Abiertas con Norte, hemos decidido implementar un plan de contingencia para asegurar la efectividad de nuestra estrategia de marketing. En este enfoque alternativo, hemos ajustado los contenidos de las diferentes semanas que originalmente involucraban a Manos Abiertas con Norte, sustituyéndolos por temas más generales y adaptables. Esta medida nos permite garantizar la continuidad de nuestras acciones promocionales y minimizar cualquier contratiempo imprevisto.
 
 
 <table><tr><th rowspan="7" valign="top"><p>Semana 1: 29 de Abril a 5 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 11 a. m. ✔</th></tr>
