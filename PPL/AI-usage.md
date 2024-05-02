@@ -139,6 +139,13 @@
    <td>MANUEL ORTIZ BLANCO</td>
    <td>JUAN LUIS RUANO MURIEDAS</td>
   </tr>
+  <tr>
+   <td>10.0.0</td>
+   <td>04/05/2024</td>
+   <td>Añadidas nuevas consultas para la semana 2 de PPL</td>
+   <td>MANUEL ORTIZ BLANCO</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+  </tr>
 </table>
 
 
@@ -420,7 +427,22 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 
-# 6. Estadísticas. 
+<br>
+
+- **Consultas desde 30/04 a 04/05**
+
+
+
+| Tipo de consulta | Enlace    | Num consultas       | Tiempo ahorrado estimado       |Nivel satisfación (0-5)      | Tipo de tarea       |
+|------------------|--------------|--------------|--------------|--------------|--------------|
+| Video para un post de las redes sociales  | [https://share.vidnoz.com/aishare-Kl4rTEsRV2yzKyfhbdVKkgd617144304253886706](https://share.vidnoz.com/aishare-Kl4rTEsRV2yzKyfhbdVKkgd617144304253886706) | 1 |40 minutos|5|Documentación |
+
+
+
+
+<br/>
+
+# 6. Estadísticas 
 
 
 Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligencias artificiales por semanas y en total. 
@@ -437,11 +459,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>Claudette</td>
    <td>VocalRemover</td>
    <td>Veed</td>
+   <td>VidnozAI</td>
    <td>Total</td>
   </tr>
   <tr>
    <td>11/2/2024</td>
    <td>5</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -461,11 +485,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>4</td>
   </tr>
   <tr>
    <td>25/2/2024</td>
    <td>2</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -485,11 +511,13 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>3</td>
   </tr>
   <tr>
    <td>10/3/2024</td>
    <td>5</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>0</td>
@@ -509,6 +537,7 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>5</td>
   </tr>
   <tr>
@@ -519,6 +548,7 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>0</td>
    <td>1</td>
+   <td>0</td>
    <td>0</td>
    <td>0</td>
    <td>7</td>
@@ -533,6 +563,7 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>1</td>
    <td>1</td>
+   <td>0</td>
    <td>6</td>
   </tr>
   <tr>
@@ -545,10 +576,24 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>0</td>
    <td>0</td>
    <td>0</td>
+   <td>0</td>
    <td>2</td>
   </tr>
   <tr>
-   <td></td>
+   <td>30/4/2024</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Total</td>
    <td>31</td>
    <td>1</td>
    <td>1</td>
@@ -557,7 +602,8 @@ Esta es una tabla que contiene todas las estadísticas sobre el uso de inteligen
    <td>1</td>
    <td>1</td>
    <td>1</td>
-   <td>39</td>
+   <td>1</td>
+   <td>40</td>
   </tr>
 </table>
 
@@ -590,6 +636,8 @@ La semana 1 del PPL, 23/04/2024 a 28/04/2024 se han realizado 2 consultas, ambas
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado- W12-PPL.png">
 </p>
+
+La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva ia que no teniamos registrada, esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
 
 # 7. Conclusión. 
 
