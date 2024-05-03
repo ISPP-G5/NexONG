@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Documentación del proyecto Frontend
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp5-Project-Documentation-Frontend
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 ***MIEMBROS***:
@@ -65,7 +65,7 @@ En el repositorio del Frontend se ha seguido el flujo de trabajo de GitFlow dón
 
 A la hora del desarrollo se utilizó el apartado de issues para describir que tareas hay que realizar si son features o fixes (estas son las dos principales que hemos tenido) así como los issues relacionados con el release y despliegue. Se han utilizado plantillas para los issues para facilitar que todos tengan la misma estructura, aunque si hiciera falta se puede publicar sin usar las plantillas.
 
-Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy para asegurar que se cumple la calidad del código. Cada pul request es revisada por tres personas, siendo siempre una de ellas la Team Leader del Frontend para garantizar que el trabajo realizado cumple con lo esperado. 
+Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy para asegurar que se cumple la calidad del código. Cada pull request es revisada por tres personas, siendo siempre una de ellas la Team Leader del Frontend para garantizar que el trabajo realizado cumple con lo esperado. 
 
 La Team Leader, era también la que creaba y asignaba los issues a cada persona de su grupo. Esta orgnaziación, creación y asignación de tareas era consultada entre PM y el team leader del Back para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Frontend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
 
@@ -81,7 +81,7 @@ Una vez con toda esa información en mente, se crearon los mock-ups de la aplica
 
 Con toda la información precedente de los requisitos así como el diseño de la aplicación, se realizó una primera planificación de las tareas a realizar que por cuestiones del tiempo disponible así como organización del equipo se vió la necesidad de reducir el alcance y de realizar una re-planificación.
 
-A continuación se explicará de manera más detallada que se ha ido realizando y para ello se va a dividir en 5 secciones, una por rol (administrador,socio,educador,voluntario y familias ) y dentro de cada uno de estas divisiones se proporcionará información de lo que cada rol puede realizar.
+A continuación se explicará de manera más detallada que se ha ido realizando y para ello se va a dividir en 5 secciones, una por rol (administrador, socio, educador, voluntario y familias ) y dentro de cada uno de estas divisiones se proporcionará información de lo que cada rol puede realizar.
 
 El acceso a la información procedente del Backend por parte del Frontend se realizó mediante consultas a la API Rest desarrollada desde el Backend usando Django Rest. Para poder hacer estas solicitudes se ha utilizado la librería axios.
 Se ha utilizado para la calidad del código Codacy y evitar sobre todo duplicaciones de código para forzar el hecho de trabajar en componentes y sacarle el máximo partido a React.
@@ -143,7 +143,7 @@ En este apartado se muestran las actividades creadas por el administrador que pe
 #### Rol de Socio
 El socio va a tener un calendario donde se va a mostrar las futuras reuniones a las que puede ir si lo desea. Además, el perfil del socio es algo diferente ya que presenta un apartado de renovar o cambiar cuota de la donación. Esto se realiza mediante un formulario en cual hay que indicar el titular de la cuenta bancaria, el IBAN, cantida a donar y frecuencia mediante el uso de checkbox. 
 
-Si el socio deseará cancelar su subcripción como socio, con pulsar el botón borrar cuenta sería suficiente. 
+Si el socio deseara cancelar su subcripción como socio, con pulsar el botón borrar cuenta sería suficiente. 
 #### Rol de Familia
 El rol de Familia es otro de los más importantes a destacar, ya que las familias son los principales en hacer uso de los servicio que la ONG ofrece. 
 
@@ -211,7 +211,7 @@ Además de todo lo explicado anteriormente de tareas realizadas, se han añadido
 ###### Cabecera y Pie
 Se ha creado una cabecera con el logo de la ONG que si se presiona te redirige a la página principal y se han añaido los diferentes enlaces de todas las páginas explicadas anteriormente.
 
-En el pie se ha indicado el correo electrónico de la asociación, los teléfonos, el número del Fax y el CIF.Además de la direción de ellos así como sus redes sociales.
+En el pie se ha indicado el correo electrónico de la asociación, los teléfonos, el número del Fax y el CIF. Además de la direción de ellos así como sus redes sociales.
 
 También hemos implementado mensajes de confirmación antes de acciones de borrar para comprobar que el usuario es consciente de la acción que va a realizar y las consecuencias que eso lleva. 
 
@@ -237,7 +237,7 @@ Este apartado es necesario ya que debido a los limites de tiempo y que Manos abi
 
 
 ## Cosas para mejorar
-Somos autocríticos de nuestro propio trabajo sabiendo y siendo conscientes de que siempre habrá cosas que se pueda mejorar para hacer las más accesibles. No solo se tiene esta autoevaluación en cuenta para el apartado en el cual estamos si no también el feedback recogido sobre las pruebas de los usuarios pilotos. En general, la mayoría de ellos se tuvieron en cuenta y se corrigieron de manera inmediata ya que era errores considerables como no mostrar mensajes de error. Aunque cabe destacar que el feedback dado como sugerencia no se consideró  debido al tiempo y se decidió trabajar sobre aquello más relevantes y que no funciaba como se esperaba. A continuación se va a mostrar aspesctos abiertos a mejoras del software que actualmente tenemos desarrollado.
+Somos autocríticos de nuestro propio trabajo sabiendo y siendo conscientes de que siempre habrá cosas que se pueda mejorar para hacer las más accesibles. No solo se tiene esta autoevaluación en cuenta para el apartado en el cual estamos si no también el feedback recogido sobre las pruebas de los usuarios pilotos. En general, la mayoría de ellos se tuvieron en cuenta y se corrigieron de manera inmediata ya que era errores considerables como no mostrar mensajes de error. Aunque cabe destacar que el feedback dado como sugerencia no se consideró  debido al tiempo y se decidió trabajar sobre aquello más relevantes y que no funcionaba como se esperaba. A continuación se va a mostrar aspesctos abiertos a mejoras del software que actualmente tenemos desarrollado.
 
 - En el primer feedback recibido, se proporciono la sugerencia de que en las pantalla (iniciando sesión como administrador) de socios y educadores la creación de asambleas y el añadir educadores de manera respectiva podrían cambiarse a un botón en vez de tener que cambiar de pestaña. Este feedback se ha tenido en cuenta y por eso se indica en este apartado de mejoras.
 - Por otro lado nos gustría comprobar que la interfaz que ha sido creada es las más adecuada para nuestro usuarios potenciales comprobando que nuestra user experience es satisfactoria o no.
