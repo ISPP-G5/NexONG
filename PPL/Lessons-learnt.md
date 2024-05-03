@@ -156,6 +156,12 @@ de la documentación.
 
 ● La solución de problemas entre integrantes se ha mejorado dado que el método actual consiste en resolver los problemas de forma privada con los líderes del grupo y/o project manager y un intermediario lo que facilita la comprensión entre partes y mejora el ambiente en las reuniones y en los canales de trabajo.
 
+● Poner una fecha máxima para la realización de las tareas, ya que, si no se pone esta fecha se pueden dar casos en los que no haya tiempo para revisar las tareas y pueden salir con algun fallo.
+
+● Plantear un solo canal de comunicación para que no haya perdidas innecesarias de información, ya que esta, puede estar desperdigada en ambos canales.
+
+● Se debe evitar en la medida de lo posible una política de castigo, es mejor tomar una política de recompensas para ayudar a los que se esfuerzan y hacen un buen trabajo.
+
 # 3.Feedback de los usuarios pilotos
 
 Una vez realizado el primer pilotaje de la aplicación con los usuarios pilotos tanto del grupo de tarde como con nuestro cliente Manos Abiertas y el Feedback obtenido nos ha ayudado a comprender:
