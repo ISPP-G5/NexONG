@@ -40,12 +40,13 @@
 
 ## Índice
 
-1. Idea de Negocio
-2. Personal
-3. Plan de Marketing
-4. Inversores
-5. Riesgos
-6. Cronograma
+1. Idea de negocio
+2. Cliente objetivo
+3. Solución
+4. Competencia y ventajas de nuestra empresa
+5. Personal
+6. Fuente de ingresos y métricas
+7. Inversores y planificación
 
 
 ## Registro de cambios
@@ -70,6 +71,18 @@
    <td>FRANCISCO DE ASÍS ROSSO RAMÍREZ</td>
    <td>MARÍA NÚÑEZ REYES</td>
   </tr>
+  <tr>
+    <td>2.0.0</td>
+    <td>03/05/2024</td>
+    <td>Replanteamiento del documento</td>
+    <td>
+      <ul>
+        <li>JUAN LUIS RUANO MURIEDAS</li>
+        <li>FRANCISCO DE ASÍS ROSSO RAMÍREZ</li>
+      </ul>
+    </td>
+    <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+  </tr>
 </table>
 
 
@@ -80,35 +93,26 @@
 <br/>
 
 
-# 1. Idea Básica de Negocio
 
-En _NexONG_ queremos proporcionar un método de gestión de recursos materiales y humanos para ONGs orientadas a distintas formas de enseñanza. De este modo, desarrollaremos una aplicación web centrada en el control de los profesores y monitores, las aulas y cursos, los beneficiarios y los voluntarios inscritos.
+# 1. Idea de negocio
 
-
-# Requisitos del Cliente
-
-El cliente quiere tener una aplicación web que permita la gestión de los eventos que llevan a cabo. En primer lugar ellos tienen el objetivo de tener una aplicación que tenga una interfaz  amigable con el usuario, esto permitirá que los socios que quieran donar dinero mediante cuotas mensuales o puntuales lo puedan hacer de una forma sencilla a través de un formulario web. 
-
-Por otro lado, la aplicación debe de ser escalable ya que muchas personas pueden realizar consultas simultáneas sobre ella. En un principio se pretende que pueda tener 100 personas de forma simultánea, pudiendo expandirse a 250 en un futuro.
-
-A parte del rol de socio, la aplicación contará con otros tres roles, estos son:
-- **Administrador**: Es el encargado de llevar a cabo la gestión de la aplicación, este se encarga de crear y  borrar grupos/eventos, asignación de profesores y alumnos a los diferentes grupos y de garantizar la integridad de la información que se muestra en tiempo real.
-- **Educador/Profesor:** Encargados de evaluar al alumno de forma diaria, crear boletines de evaluación y controlar su asistencia.
-- **Familiares:** Pueden dar de alta a un alumno mediante un formulario online, una vez dado de alta, estos pueden ver todos los eventos que hay disponibles, la evaluación del alumno y noticias relevantes.
+Nuestra empresa busca proveer a ONG educativas de una plataforma de gestión interna de la organización de recursos materiales y humanos.
+Buscamos un enfoque flexible ya que somos conscientes de que, como organizaciones fuertemente dependientes de subvenciones, donaciones y voluntariado, la capacidad adquisitiva de las ONG puede ser muy variada y tender a cantidades más bajas.
+Por tanto, nuestra propuesta consiste en un software de uso libre, sobre el que ofrecemos nuestros servicios de soporte premium de pago en ámbitos de desarrollo, mantenimiento y consultoría para organizaciones que puedan permitirse adaptarlo a su modelo.
 
 
-# Idea Refinada de Negocio
+# 2. Cliente objetivo
 
-En vista  a los requisitos anteriormente mencionados, hemos concluido que el servicio proporcionado constará de una aplicación web que cumpla con las funciones requeridas, organizando a los usuarios en función de sus permisos y funciones a prestar o aprovechar.
-
-Este proyecto permitirá a los usuarios acceder a los cursos, ya sea como educador para evaluar a sus alumnos o familiar para consultar el expediente del joven alumno e información sobre las clases como funcionalidades centrales, contando con una interfaz amigable e intuitiva. Además hará posible el acceso a todos los usuarios necesarios siempre y cuando el servidor físico en el que se aloje lo permita, es decir, será extremadamente escalable.
-
-La aplicación facilitará también el contacto con el personal de la organización y buscará proteger la privacidad de sus usuarios, en la medida de lo posible, y siempre siguiendo la legislación vigente.
-
-Por último, destacar que será posible darse de alta como voluntario para apoyar la docencia de los educadores, o también aportar una cuota mensual o hacer una abono puntual como donación a la causa.
+Nuestro negocio se enfoca en ONG dedicadas a la educación que carezcan de una página o sistema de gestión propio o deseen mejorar el que tienen.
 
 
-# 2. Personal
+# 4. Competencia y ventajas de nuestra empresa
+
+Dada la ausencia de otros sistemas de software de gestión de recursos orientados a ONG educativas, nuestra principal competencia reside en la posibilidad de que una organización contrate sus propios desarrolladores para modificar nuestro código en lugar de contactar con nosotros. Es ahí donde también se encuentra nuestra ventaja, dado que al ser los propietarios, nuestros desarrolladores tienen más experiencia con el código a modificar, pudiendo de esta forma prescindir de la curva de aprendizaje y entregar resultados satisfactorios de forma más eficiente.
+Otro posible competidor pueden ser sistemas software de gestión de empresas más generales, caso en el que nuestra ventaja reside en una fuerte especialización a un ámbito educativo, que hace innecesario a las organizaciones adaptarse al uso de la aplicación, pudiendo en su lugar solicitar adaptar la aplicación al uso que necesiten darle.
+
+
+# 5. Personal
 
 El equipo del proyecto está compuesto por las personas mencionadas en la tabla de miembros. De estos, cabe destacar:
 
@@ -172,40 +176,13 @@ El equipo del proyecto está compuesto por las personas mencionadas en la tabla 
 </table>
 
 
-# 3. Plan de Marketing
+# 6. Fuente de ingresos y métricas
 
-Describe la estrategia para la introducción e integración de NexOng al mercado. Para una descripción detallada, véase nuestro documento [Marketing Plan](https://github.com/ISPP-G5/NexONG/blob/main/PPL/Marketing%20Plan.md).
-
-
-# 4. Inversores
-
-Dado nuestro enfoque en el sector de las ONG, es probable que los inversores interesados sean filántropos u organizaciones comprometidas con la ayuda social. Destacaremos nuestra propuesta de valor única y nuestro impacto social para atraer este tipo de inversores.
+Nuestro modelo de negocio, al basarse en las horas de servicio de soporte a ONGs, el tiempo de producción de nuestros trabajadores es lo que produce beneficio a la empresa y por tanto nuestras métricas se basan en la relación de horas de nuestros trabajadores y el número de ONG con las que se esté trabajando. Si por ejemplo nuestros 16 trabajadores diesen soporte a ONG a tiempo completo durante un mes ganaremos aproximadamente 9.216€, habiendo ya contado con salarios de los mismos. En el documento [Estimación de ingresos](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Income-estimate.md) viene desglosado las métricas y los ingresos más a fondo. 
+También contamos con la ventaja de que nuestro servicio se basa en consultoría y desarrollo de la solución y no será necesario contar con gastos de mantenimiento de servidores a diario, solo los que están en desarrollo y testing.
 
 
-# 5. Evaluación de Rentabilidad
+# 7. Inversores y planificación
 
-Para evaluar la rentabilidad del proyecto, se tendrán en cuenta principalmente dos factores:
-
-- **Costes**. Pueden verse detalladamente en nuestro documento de [Análisis de Costes](https://github.com/ISPP-G5/NexONG/blob/main/PPL/costAnalisis.md).
-- **Ingresos**. Pueden verse la estimación detallada en nuestro documento de [Estimación de ingresos](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Income-estimate.md).
-
-
-# 6. Análisis de Riesgos
-
-Para la evaluación del plan de negocios, es importante tener en cuenta los riesgos del proyecto. Estos se encuentran documentados en nuestro [Análisis de Riesgos](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Risk-analysis.md).
-
-
-# Análisis de la Competencia
-
-Se puede ver un análisis detallado de nuestros competidores en nuestro documento de [Análisis de la Competencia](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Competitor-analysis.md).
-
-# 7. Cronograma
-
-Fechas importantes del proyecto:
-
-- **Entrega DP**: 20/02/2024
-- **Entrega S1**: 05/03/2024
-- **Entrega S2**: 02/04/2024
-- **Entrega S3**: 23/04/2024
-- **Entrega PPL**: 07/05/2024
-- **Entrega WPL**: 21/02/2024
+En cuanto a los ingresos de NexONG, estos estarán dirigidos a expandir la capacidad de desarrollo de la organización para poder dar servicio a mayor cantidad de ONG al mes a base de contratar más empleados e instruirlos en el uso de nuestra aplicación y servicios de tal manera que podamos cubrir adecuadamente las peticiones de servicio que recibamos. Entre otras posibles inversiones está el mantenimiento de la página web de la empresa, oportunidades de marketing o necesidades tecnológicas para los trabajadores como son las terminales o contratar servidores para testing. 
+Y como planificación a largo plazo está la opción de extender nuestra idea de negocio a otros ámbitos de trabajo de otras ONGs como son las de recogida de alimentos, las de cuidado de ancianos o culturales. De esta forma, desarrollamos una solución particular dirigidas a los diferentes aspectos de las otras organizaciones de tal manera que podamos cubrir otras necesidades a más ONGs en España.
