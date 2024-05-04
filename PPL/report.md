@@ -239,7 +239,7 @@ Las siguientes contribuciones son las específicas al grupo 5:
 ## Semana 11
 
 -   Poner las tomas falsas al final de la presentación.
--   La dema debe ser más corta y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
+-   La demo debe ser más corta y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
 -   Poner en contexto sobre Manos Abiertas con Norte antes de poner la demo.
 -   Explicar de donde vienen las graficas del plan de marketing.
 -   Meter costes de marketing en la segunda presentación.
@@ -336,6 +336,8 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 -   Hemos creado development agreement.
 -   Hemos hablado del feedback recibido por los usuarios piloto.
 -   Hemos hablado de los test hechos y que vamos a hacer.
--   Hemos creado un nuevo anuncio a partir de otro rol.
--   Hemos probado la aplicación del grupo 11 (en el PPL)
--   Nos hemos hecho fotos más formales
+-   Se ha tomado en cuenta el feedback sobre el anuncio y la demo.
+-   Hemos probado la aplicación del grupo 11 (en el PPL).
+-   Nos hemos hecho fotos más formales.
+-   Mostramos el progreso individual con un mapa de calor.
+-   Hemos creado métricas para los riesgos y se tienen en cuenta plazos en los problemas.
