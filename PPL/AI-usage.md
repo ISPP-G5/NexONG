@@ -639,6 +639,10 @@ La semana 1 del PPL, 23/04/2024 a 28/04/2024 se han realizado 2 consultas, ambas
 
 La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva ia que no teniamos registrada, esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
 
+<p align="center">
+<img src="images/Satisfacion_S12.png">
+</p>
+
 # 7. Conclusión. 
 
 El empleo de inteligencias artificiales ha facilitado y mejorado la redacción de todos los documentos generados en las primeras semanas del proyecto y ha proporcionado una base estable para el proyecto. Esto puede haber sido mediante optimización de creación de documentos o ayudas más esporádicas y pequeñas en aspectos de contenido y ortografía, en el primer caso, o aportando esqueletos de sistemas o generando versiones preliminares de código a implementar, en el segundo. Esto ha sido, obviamente, usando los sistemas como complementos que nunca deben sustituir el juicio humano. Toda la información obtenida de los modelos ha sido contrastada y validada antes de su uso. La inteligencia artificial puede ser una herramienta muy útil en varios ámbitos, no sólo en la redacción de documentos oficiales, pero como toda herramienta, debe saberse cómo usarla adecuadamente y no abusar de ella.
