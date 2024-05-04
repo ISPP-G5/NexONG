@@ -320,10 +320,10 @@ Al programar nuestras publicaciones en función de estos datos, esperamos aprove
 <table><tr><th rowspan="7" valign="top"><p>Semana 1: 29 de Abril a 5 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 11 a. m.✔</th></tr>
 <tr><td valign="top">(Martes): Descanso, no publicar.</td></tr>
 <tr><td valign="top">(Miércoles): Publicación sobre la disponibilidad del servicio a las 10 a. m.✔</td></tr>
-<tr><td valign="top">(Jueves): Caso de éxito de Manos Abiertas con Norte a las 9:30 a. m.✔</td></tr>
+<tr><td valign="top">(Jueves): Caso de éxito de Manos Abiertas con Norte a las 9:30 a. m.</td></tr>
 <tr><td valign="top">(Viernes): Demostración de características clave del servicio a las 11 a. m.✔</td></tr>
 <tr><td valign="top">(Sábado): Testimonio de cliente satisfecho(Foto de reunión con ellos y posible recomendación de parte de estos) a las 10 a. m.</td></tr>
-<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.</td></tr>
+<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.✔</td></tr>
 </table>
 
 <table><tr><th rowspan="7" valign="top"><p>Semana 2: 6-12 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 10:30 a. m.</th></tr>
@@ -357,8 +357,8 @@ Al programar nuestras publicaciones en función de estos datos, esperamos aprove
 <tr><td valign="top">(Miércoles): Publicación sobre la disponibilidad del servicio a las 10 a. m. ✔</td></tr>
 <tr><td valign="top">(Jueves): Video ventajas en internet 9:30 a. m.✔</td></tr>
 <tr><td valign="top">(Viernes): Demostración de características clave del servicio de un determinado rol a las 11 a. m.✔</td></tr>
-<tr><td valign="top">(Sábado):  Riesgos de exclusión social a las 10 a. m.</td></tr>
-<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.</td></tr>
+<tr><td valign="top">(Sábado):  Riesgos de exclusión social a las 10 a. m.✔</td></tr>
+<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.✔</td></tr>
 </table>
 
 <table><tr><th rowspan="7" valign="top"><p>Semana 2: 6-12 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 10:30 a. m.</th></tr>
