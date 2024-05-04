@@ -47,6 +47,7 @@
 5. Personal
 6. Fuente de ingresos y métricas
 7. Inversores y planificación
+8. Socios y retorno de inversión
 
 
 ## Registro de cambios
@@ -97,7 +98,9 @@
 # 1. Idea de negocio
 
 Nuestra empresa busca proveer a ONG educativas de una plataforma de gestión interna de la organización de recursos materiales y humanos.
+
 Buscamos un enfoque flexible ya que somos conscientes de que, como organizaciones fuertemente dependientes de subvenciones, donaciones y voluntariado, la capacidad adquisitiva de las ONG puede ser muy variada y tender a cantidades más bajas.
+
 Por tanto, nuestra propuesta consiste en un software de uso libre, sobre el que ofrecemos nuestros servicios de soporte premium de pago en ámbitos de desarrollo, mantenimiento y consultoría para organizaciones que puedan permitirse adaptarlo a su modelo.
 
 
@@ -109,6 +112,7 @@ Nuestro negocio se enfoca en ONG dedicadas a la educación que carezcan de una p
 # 4. Competencia y ventajas de nuestra empresa
 
 Dada la ausencia de otros sistemas de software de gestión de recursos orientados a ONG educativas, nuestra principal competencia reside en la posibilidad de que una organización contrate sus propios desarrolladores para modificar nuestro código en lugar de contactar con nosotros. Es ahí donde también se encuentra nuestra ventaja, dado que al ser los propietarios, nuestros desarrolladores tienen más experiencia con el código a modificar, pudiendo de esta forma prescindir de la curva de aprendizaje y entregar resultados satisfactorios de forma más eficiente.
+
 Otro posible competidor pueden ser sistemas software de gestión de empresas más generales, caso en el que nuestra ventaja reside en una fuerte especialización a un ámbito educativo, que hace innecesario a las organizaciones adaptarse al uso de la aplicación, pudiendo en su lugar solicitar adaptar la aplicación al uso que necesiten darle.
 
 
@@ -181,10 +185,19 @@ El equipo del proyecto está compuesto por las personas mencionadas en la tabla 
 # 6. Fuente de ingresos y métricas
 
 Nuestro modelo de negocio, al basarse en las horas de servicio de soporte a ONGs, el tiempo de producción de nuestros trabajadores es lo que produce beneficio a la empresa y por tanto nuestras métricas se basan en la relación de horas de nuestros trabajadores y el número de ONG con las que se esté trabajando. Si por ejemplo nuestros 16 trabajadores diesen soporte a ONG a tiempo completo durante un mes ganaremos aproximadamente 9.216€, habiendo ya contado con salarios de los mismos. En el documento [Estimación de ingresos](https://github.com/ISPP-G5/NexONG/blob/main/PPL/5-Income-estimate.md) viene desglosado las métricas y los ingresos más a fondo. 
+
 También contamos con la ventaja de que nuestro servicio se basa en consultoría y desarrollo de la solución y no será necesario contar con gastos de mantenimiento de servidores a diario, solo los que están en desarrollo y testing.
 
 
 # 7. Inversores y planificación
 
 En cuanto a los ingresos de NexONG, estos estarán dirigidos a expandir la capacidad de desarrollo de la organización para poder dar servicio a mayor cantidad de ONG al mes a base de contratar más empleados e instruirlos en el uso de nuestra aplicación y servicios de tal manera que podamos cubrir adecuadamente las peticiones de servicio que recibamos. Entre otras posibles inversiones está el mantenimiento de la página web de la empresa, oportunidades de marketing o necesidades tecnológicas para los trabajadores como son las terminales o contratar servidores para testing. 
+
 Y como planificación a largo plazo está la opción de extender nuestra idea de negocio a otros ámbitos de trabajo de otras ONGs como son las de recogida de alimentos, las de cuidado de ancianos o culturales. De esta forma, desarrollamos una solución particular dirigidas a los diferentes aspectos de las otras organizaciones de tal manera que podamos cubrir otras necesidades a más ONGs en España.
+
+
+# 8. Socios y retorno de inversión
+
+Los socios que inviertan en NexONG tendrán una participación en las ganancias de la empresa en relación a la cantidad invertida a razón de un 15% de la inversión realizada al mes durante un año.
+
+Adicionalmente, todos nuestros socios recibirán 16 horas de soporte, mantenimiento o consultoría gratuitas al mes en caso de que quieran utilizar nuestros servicios.
