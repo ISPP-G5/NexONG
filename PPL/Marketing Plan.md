@@ -47,6 +47,13 @@
     <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
     <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
+  <tr>
+   <td>1.0.4</td>
+   <td>1/2/2024</td>
+   <td>Mejora del documento y realización de tareas del plan, plan B</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td> MARÍA NÚÑEZ REYES</td>
+  </tr>
 </table>
 
 
