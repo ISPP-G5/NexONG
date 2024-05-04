@@ -169,7 +169,9 @@ El equipo del proyecto está compuesto por las personas mencionadas en la tabla 
    <td>Encargado de actualizar las redes sociales del proyecto, así como realizar subidas de contenido regulares, investigar el mercado y buscar formas de promocionarnos.</td>
    <td>
      <ul>
-       <li>MARTA INÉS GONZÁLEZ DIÁNEZ</li>
+       <li>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</li>
+       <li>IVÁN RAMÍREZ LARA</li>
+       <li>MANUEL FRANCISCO BARCIA JIMENEZ</li>
      </ul>
    </td>
   </tr>
