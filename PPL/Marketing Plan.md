@@ -47,6 +47,13 @@
     <td>FRANCISCO JAVIER CALDERÓN RODRÍGUEZ</td>
     <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
   </tr>
+  <tr>
+   <td>1.0.4</td>
+   <td>1/2/2024</td>
+   <td>Mejora del documento y realización de tareas del plan, plan B</td>
+    <td>IVÁN RAMÍREZ LARA</td>
+    <td> MARÍA NÚÑEZ REYES</td>
+  </tr>
 </table>
 
 
@@ -317,13 +324,13 @@ Al programar nuestras publicaciones en función de estos datos, esperamos aprove
 
    Se realizará una programación de las publicaciones por semana en <https://business.facebook.com/?locale=es_ES> a partir de lo siguiente, el horario y los días de actividad se han diseñado a partir de los puntos anteriores y la mezcla de Facebook e Instagram para sincronizarlas:
 
-<table><tr><th rowspan="7" valign="top"><p>Semana 1: 29 de Abril a 5 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 11 a. m.</th></tr>
+<table><tr><th rowspan="7" valign="top"><p>Semana 1: 29 de Abril a 5 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 11 a. m.✔</th></tr>
 <tr><td valign="top">(Martes): Descanso, no publicar.</td></tr>
-<tr><td valign="top">(Miércoles): Publicación sobre la disponibilidad del servicio a las 10 a. m.</td></tr>
+<tr><td valign="top">(Miércoles): Publicación sobre la disponibilidad del servicio a las 10 a. m.✔</td></tr>
 <tr><td valign="top">(Jueves): Caso de éxito de Manos Abiertas con Norte a las 9:30 a. m.</td></tr>
-<tr><td valign="top">(Viernes): Demostración de características clave del servicio a las 11 a. m.</td></tr>
+<tr><td valign="top">(Viernes): Demostración de características clave del servicio a las 11 a. m.✔</td></tr>
 <tr><td valign="top">(Sábado): Testimonio de cliente satisfecho(Foto de reunión con ellos y posible recomendación de parte de estos) a las 10 a. m.</td></tr>
-<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.</td></tr>
+<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.✔</td></tr>
 </table>
 
 <table><tr><th rowspan="7" valign="top"><p>Semana 2: 6-12 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 10:30 a. m.</th></tr>
@@ -338,6 +345,41 @@ Al programar nuestras publicaciones en función de estos datos, esperamos aprove
 <table><tr><th rowspan="7" valign="top"><p>Semana 3: 13-19 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes):Nuevo video sobre NexOng realizado por IA a las 10:30 a. m.</th></tr>
 <tr><td valign="top">(Martes): Publicación sobre la disponibilidad del servicio a las 9 a. m.</td></tr>
 <tr><td valign="top">(Miércoles): Repaso de nuestros contactos y trato con Manos Abiertas con Norte a las 10 a. m.</td></tr>
+<tr><td valign="top">(Jueves): Recordar la importancia de los sitios webs de ONGs sobre la seguridad de los datos a las 11 a. m.</td></tr>
+<tr><td valign="top">(Viernes): Descanso, no publicar.</td></tr>
+<tr><td valign="top">(Sábado): Contenido educativo sobre la importancia de la presencia en línea a las 10:30 a. m.</td></tr>
+<tr><td valign="top">(Domingo): Publicación sobre la disponibilidad del servicio a las 9:30 a. m.</td></tr>
+</table>
+
+|Semana 4: 20-21 de Mayo:|Facebook e Instagram:|(Lunes): Recordatorio sobre la disponibilidad del servicio a las 11 a. m.|
+| - | - | - |
+
+2. **Plan B:**
+
+  Debido a la demora en la respuesta de Manos Abiertas con Norte, hemos decidido implementar un plan de contingencia para asegurar la efectividad de nuestra estrategia de marketing. En este enfoque alternativo, hemos ajustado los contenidos de las diferentes semanas que originalmente involucraban a Manos Abiertas con Norte, sustituyéndolos por temas más generales y adaptables. Esta medida nos permite garantizar la continuidad de nuestras acciones promocionales y minimizar cualquier contratiempo imprevisto.
+
+
+<table><tr><th rowspan="7" valign="top"><p>Semana 1: 29 de Abril a 5 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 11 a. m. ✔</th></tr>
+<tr><td valign="top">(Martes): Descanso, no publicar.</td></tr>
+<tr><td valign="top">(Miércoles): Publicación sobre la disponibilidad del servicio a las 10 a. m. ✔</td></tr>
+<tr><td valign="top">(Jueves): Video ventajas en internet 9:30 a. m.✔</td></tr>
+<tr><td valign="top">(Viernes): Demostración de características clave del servicio de un determinado rol a las 11 a. m.✔</td></tr>
+<tr><td valign="top">(Sábado):  Riesgos de exclusión social a las 10 a. m.✔</td></tr>
+<tr><td valign="top">(Domingo): Contenido educativo sobre la importancia de la presencia en línea a las 11:30 a. m.✔</td></tr>
+</table>
+
+<table><tr><th rowspan="7" valign="top"><p>Semana 2: 6-12 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes): Anuncio de la semana a las 10:30 a. m.</th></tr>
+<tr><td valign="top">(Martes): Descanso, no publicar.</td></tr>
+<tr><td valign="top">(Miércoles): Reel con varias imágenes explicando quienes somos, que nos ha llevado a hacer este software y la labor social que hacemos.</td></tr>
+<tr><td valign="top">(Jueves): Recordatorio sobre la disponibilidad del servicio a las 10 a. m.</td></tr>
+<tr><td valign="top">(Viernes): Demostración de características clave del servicio a las 9:30 a. m.</td></tr>
+<tr><td valign="top">(Sábado): Recomendar las posibles ayudas de google y de algunas APIs a ONGs a las 11 a. m.</td></tr>
+<tr><td valign="top">(Domingo): Descanso, no publicar.</td></tr>
+</table>
+
+<table><tr><th rowspan="7" valign="top"><p>Semana 3: 13-19 de Mayo:</p><p></p></th><th rowspan="7" valign="top"><p>Facebook e Instagram:</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></th><th valign="top">(Lunes):Nuevo video sobre NexOng realizado por IA a las 10:30 a. m.</th></tr>
+<tr><td valign="top">(Martes): Publicación sobre la disponibilidad del servicio a las 9 a. m.</td></tr>
+<tr><td valign="top">(Miércoles): Como adquirir nuestro producto y trato personalizado que ofrecemos a cada ONG  10 a. m.</td></tr>
 <tr><td valign="top">(Jueves): Recordar la importancia de los sitios webs de ONGs sobre la seguridad de los datos a las 11 a. m.</td></tr>
 <tr><td valign="top">(Viernes): Descanso, no publicar.</td></tr>
 <tr><td valign="top">(Sábado): Contenido educativo sobre la importancia de la presencia en línea a las 10:30 a. m.</td></tr>
