@@ -89,6 +89,13 @@
    <td>SERGIO AGUAYO OROZCO</td>
    <td>MANUEL ORTIZ BLANCO</td>
   </tr>
+  </tr>
+   <td>1.8.0</td>
+   <td>01/05/2024</td>
+   <td>Actualización del documento</td>
+   <td>SERGIO AGUAYO OROZCO</td>
+   <td>MANUEL ORTIZ BLANCO</td>
+  </tr>
 </table>
 
 <br/>
@@ -229,6 +236,17 @@ Las siguientes contribuciones son las específicas al grupo 5:
 -   Explicar con mayor transparencia la función usada para las notas individuales.
 -   Sobre los riesgos: crear métricas, umbrales y plazos sobre las acciones a tomar en respuesta a problemas o mejoras a hacer. Es decir, formalizar las acciones concretas a tomar (escribir correo, hablar con alguien), crear una medida que permita observar si funciona y un umbral objectivo que represente cuándo pretendemos tener soluciones.
 
+## Semana 11
+
+-   Poner las tomas falsas al final de la presentación.
+-   La demo debe ser más corta y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
+-   Poner en contexto sobre Manos Abiertas con Norte antes de poner la demo.
+-   Explicar de donde vienen las graficas del plan de marketing.
+-   Meter costes de marketing en la segunda presentación.
+-   Business Plan: ¿Como voy a ganar dinero?
+-   La tabla del TCO desentona. Al hablar de miles/millones, poner K/M.
+-   El anuncio parece que es para donantes, no para inversores.
+
 ## General
 
 Las contribuciones generales de la semana 2 las entregó nuestro grupo.
@@ -272,10 +290,27 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 1. La forma de comunicar la presentación debe tener un ritmo agradable. Hay que evitar hablar muy rápido o muy lento.
 2. Evitar hablar en voz baja o usar alguna herramienta para hacerte oír.
 
+### Usuarios piloto
+
+1. Poner el feedback recibido de los usuarios piloto. Hablar de qué se va a abordar y qué no.
+
+### Publicidad
+
+1. En caso de estar haciendo trabajo para ONGs, hacer que la ONGs promocionen vuestra página en sus redes.
+
+### Demo
+
+1. La dema no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
+
+### Rendimiento individual
+
+1. Crear mapa de calor en el rendimiento individual para ver el progreso durante los sprints.
+
 ### Proyecto en general
 
 1. Evitar usar la palabra castigo, cambiarla por otras palabras como penalizar.
 2. Es mejor recompensar en lugar de castigar en el agreement.
+3. Hacer fotos más formales (Usar misma camiseta y pose y no tener fondo o tener fondo muy simple).
 
 # 3. Acciones llevadas a cabo
 
@@ -299,3 +334,10 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 -   Sustituimos lessons por lectures.
 -   Hemos mejorado cómo mostramos las horas del clockify.
 -   Hemos creado development agreement.
+-   Hemos hablado del feedback recibido por los usuarios piloto.
+-   Hemos hablado de los test hechos y que vamos a hacer.
+-   Se ha tomado en cuenta el feedback sobre el anuncio y la demo.
+-   Hemos probado la aplicación del grupo 11 (en el PPL).
+-   Nos hemos hecho fotos más formales.
+-   Mostramos el progreso individual con un mapa de calor.
+-   Hemos creado métricas para los riesgos y se tienen en cuenta plazos en los problemas.
