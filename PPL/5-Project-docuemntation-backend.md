@@ -39,11 +39,10 @@
 <a name="br2"></a> 
 
 ## Índice
-1. Registro de cambios
-2. Introducción
-3. Trabajo realizado
-4. Trabajo futuro
-5. Trabajo por mejorar
+1. Introducción
+2. Trabajo realizado
+3. Trabajo futuro
+4. Trabajo por mejorar
 
 ## Registro de cambios
 **Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
@@ -64,23 +63,21 @@ En el repositorio del Backend se ha seguido el flujo de trabajo de GitFlow dónd
 
 A la hora del desarrollo se utilizó el apartado de issues para describir que tareas hay que realizar si son features o fixes (estas son las dos principales que hemos tenido) así como los issues relacionados con el release y despliegue.
 
-Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Back_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por dos personas, siendo siempre una de ellas la Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
+Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Back_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por dos personas, siendo siempre uno de ellos el Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
 
-El Team Leader, era también el que creaba y asignaba los issues a cada persona de su grupo. Esta organización, creación y asignación de tareas era consultada entre PM y la team leader del frontend para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Frontend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
+El Team Leader, era también el que creaba y asignaba los issues a cada persona de su grupo. Esta organización, creación y asignación de tareas era consultada entre PM y el team leader del backend para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Backend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
 
 Como se ha indicado se han utilizado los proyectos de GitHub ya que facilita la organización de los repositorios y sus tareas gracias al tablero Kanban que ofrece que permite visualizar la tarea,  el/la asignado/a, el deadline y los revisores. Los revisores también eran establecidos por los Teams Leader en su correspondiente repositorio para así garantizar que todos los miembros revisaran código de sus compañeros.
 
 ## Trabajo realizado
 Una vez recopilados los requisitos de parte de nuestro cliente, se analizaron y estudiaron para poder así entender de manera más profunda que es lo que necesitaban y esperaban del software que se iba a desarrollar. 
 
-Una vez con toda esa información en mente, se crearon los mock-ups de la aplicación. Se pensó en todo momento tener una interfaz sencilla para facilitar a futuros usuarios el uso de nuestro software. 
+Una vez con toda esa información en mente, se crearon los diagramas conceptuales de la base de datos, una vez que se decidio el uso de PostgreSQL y Django.
 
-Con toda la información precedente de los requisitos así como el diseño de la aplicación, se realizó una primera planificación de las tareas a realizar que por cuestiones del tiempo disponible así como organización del equipo se vió la necesidad de reducir el alcance y de realizar una re-planificación.
+Con toda la información precedente de los requisitos así como el diagrama, se realizó una primera planificación de las tareas a realizar que por cuestiones del tiempo disponible así como organización del equipo se vió la necesidad de reducir el alcance y de realizar una re-planificación.
 
 A continuación se explicará de manera más detallada que se ha ido realizando y para ello se va a dividir en 5 secciones, una por rol (administrador, socio, educador, voluntario y familias ) y dentro de cada uno de estas divisiones se proporcionará información de lo que cada rol puede realizar.
 
-El acceso a la información procedente del backend por parte del Frontend se realizó mediante consultas a la API Rest desarrollada desde el Backend usando Django Rest. Para poder hacer estas solicitudes se ha utilizado la librería axios.
-Se ha utilizado para la calidad del código Codacy y evitar sobre todo duplicaciones de código para forzar el hecho de trabajar en componentes y sacarle el máximo partido a React.
 
 #### Rol de administrador
 El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera digitalizada. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabras de la coordinadora de la ONG.
