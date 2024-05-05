@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp5-Project-Documentation-Frontend
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 5-Project-Documentation-Frontend
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
 ***MIEMBROS***:
@@ -52,12 +52,11 @@
 
 
 ## Introducción
-El objetivo principal de este documento es la creación de una guía que contenga información sobre las tareas que se ha realizado durante el desarrollo del proyectos, que tareas han quedado pendiente y que se podrían implementar en el futuro así como que partes de las ya implementadas podrían ser mejoradas para así hacerlas más eficientes y ajustarnos a los requisitos dados por la ONG Manos Abiertas con Norte, nuestro actual cliente.
+El objetivo principal de este documento es la creación de una guía que contenga información sobre las tareas que se han realizado durante el desarrollo del proyecto, que tareas han quedado pendiente y que se podrían implementar en el futuro así como que partes de las ya implementadas podrían ser mejoradas para así hacerlas más eficientes y ajustarnos de mejor manera a los requisitos dados por la ONG Manos Abiertas con Norte, nuestro actual cliente.
 
-Importante mantener en mente que en este documento solo se esta teniendo en cuenta la parte correspondiente al Frontend. Se ha decidido hacer en dos documentos separados para facilitar la lectura y entendimiento por parte del lector.
-
+Importante mantener en mente que en este documento solo se esta teniendo en cuenta la parte correspondiente al Frontend. Se ha decidido hacer en dos documentos separados para facilitar la lectura y entendimiento.
 ## Organización del repositorio
-En el caso de nuestro grupo nexONG se acordó la creación de una organización en la que se crearían diferentes repositorios: uno para la documentación, otro para la landing page, otro para el Backend y uno para el Frontend.
+En el caso de nuestro grupo nexONG se acordó la creación de una organización en la que se crearían diferentes repositorios: uno para la documentación, otro para la landing page, otro para el Backend y finalmente uno para el Frontend.
 
 Al tener diferentes repositorios de trabajo, a nosotros personalmente nos facilitó el trabajo ya que nos permite localizar la información que queremos de manera rápida, en cambio si todo estuviera en un mismo repositorio sería mas complicado. 
 
@@ -67,27 +66,24 @@ A la hora del desarrollo se utilizó el apartado de issues para describir que ta
 
 Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy para asegurar que se cumple la calidad del código. Cada pull request es revisada por tres personas, siendo siempre una de ellas la Team Leader del Frontend para garantizar que el trabajo realizado cumple con lo esperado. 
 
-La Team Leader, era también la que creaba y asignaba los issues a cada persona de su grupo. Esta orgnaziación, creación y asignación de tareas era consultada entre PM y el team leader del Back para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Frontend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
+La Team Leader, era también la que creaba y asignaba los issues a cada persona de su grupo. Esta organización, creación y asignación de tareas era consultada entre PM y el team leader del backend para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Frontend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
 
-Como se ha indicado se han utilizado los proyectos de GitHub ya que permite facilitar la organización de los repositorios y sus tareas gracias al tablero Kanban que ofrece que permite visualizar la tarea,  el/la asignado/a, el deadline y los revisores. Los revisores también eran establecidos por los Teams Leader en su correspondiente repositorio para así garantizar que todos los miembros revisaran código de sus compañeros.
-
-
-
+Como se ha indicado se han utilizado los proyectos de GitHub ya que facilita la organización de los repositorios y sus tareas gracias al tablero Kanban que ofrece que permite visualizar la tarea,  el/la asignado/a, el deadline y los revisores. Los revisores también eran establecidos por los Teams Leader en su correspondiente repositorio para así garantizar que todos los miembros revisaran código de sus compañeros.
 
 ## Trabajo realizado
 Una vez recopilados los requisitos de parte de nuestro cliente, se analizaron y estudiaron para poder así entender de manera más profunda que es lo que necesitaban y esperaban del software que se iba a desarrollar. 
 
-Una vez con toda esa información en mente, se crearon los mock-ups de la aplicación. Se pensó en todo momento tener una interfaz sencilla para facilitar a futuros usuarios la utilización de nuestro software. 
+Una vez con toda esa información en mente, se crearon los mock-ups de la aplicación. Se pensó en todo momento tener una interfaz sencilla para facilitar a futuros usuarios el uso de nuestro software. 
 
 Con toda la información precedente de los requisitos así como el diseño de la aplicación, se realizó una primera planificación de las tareas a realizar que por cuestiones del tiempo disponible así como organización del equipo se vió la necesidad de reducir el alcance y de realizar una re-planificación.
 
 A continuación se explicará de manera más detallada que se ha ido realizando y para ello se va a dividir en 5 secciones, una por rol (administrador, socio, educador, voluntario y familias ) y dentro de cada uno de estas divisiones se proporcionará información de lo que cada rol puede realizar.
 
-El acceso a la información procedente del Backend por parte del Frontend se realizó mediante consultas a la API Rest desarrollada desde el Backend usando Django Rest. Para poder hacer estas solicitudes se ha utilizado la librería axios.
+El acceso a la información procedente del backend por parte del Frontend se realizó mediante consultas a la API Rest desarrollada desde el Backend usando Django Rest. Para poder hacer estas solicitudes se ha utilizado la librería axios.
 Se ha utilizado para la calidad del código Codacy y evitar sobre todo duplicaciones de código para forzar el hecho de trabajar en componentes y sacarle el máximo partido a React.
 
 #### Rol de administrador
-El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera automática. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabra de la coordinadora de la ONG.
+El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera digitalizada. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabras de la coordinadora de la ONG.
 Todo lo que viene a continuación es desde la perspectiva de un usuario que ha inciado sesión como administrador.
 ##### Voluntarios
 Las tareas realizadas en este apartado estan relacionadas con el proceso de gestión de voluntarios:
@@ -112,12 +108,12 @@ El trabajo realizado en educadores se basa en dos principales partes:
 Al igual que en todos los roles anteriores, aparece el listado de socios así como la posibilidad de editar y borrar la cuenta del socio, si el administrador deseará. Aparte de esta funcionalidad, aquí se pueden encontrar dos no vistas de manera anterior:
 
 - Creación de reuniones: una de las acciones que una persona que sea socia de la organización puede hacer, es ir a las reuniones que se van a realizar. Por ello el administrador va a poder crear estas reuniones que una vez que se hayan creados, el socio podrá ver cuando tienen lugar desde su perfil.
-- Exportación de donaciones: los adminsitradores pueden exportar un documento en formato Excel,PDF o CSV con la siguiente información sobre las doncaciones realizdas por los socios:cantidad, frecuencia, titular y fecha.
+- Exportación de donaciones: los administradores pueden exportar un documento en formato Excel,PDF o CSV con la siguiente información sobre las doncaciones realizdas por los socios:cantidad, frecuencia, titular y fecha.
 
 ##### Clases
 En esta sección podemos encontrar varias funciones diversas:
 - Listado de clases: si existen clases, aparecerá un listado con información de las diferentes clases que existen. 
-- Creación de clases: los adminsitradores son los responsable de la creación de las clases y por tanto deben de poder crearlas.
+- Creación de clases: los administradores son los responsable de la creación de las clases y por tanto deben de poder crearlas.
 - Crear Horario: cada clase creada tiene un horario especifico, en la opción de crear horario lo que se permite es que con una clase creada se pueda crear el horaro de las diferentes clases.
 - Ver horarios: nos permite visualizar lo que se ha creado anteriormente.
 ##### Eventos
@@ -141,9 +137,9 @@ Ambos tipos de evaluaciones pueden ser mejorados en el futuro y se proporcionar�
 ##### Actividades
 En este apartado se muestran las actividades creadas por el administrador que pertenezca al educador y sus alumnos, mostrando información si tienen la autorización por parte de sus padres o tutores legales a participar en ella o no. 
 #### Rol de Socio
-El socio va a tener un calendario donde se va a mostrar las futuras reuniones a las que puede ir si lo desea. Además, el perfil del socio es algo diferente ya que presenta un apartado de renovar o cambiar cuota de la donación. Esto se realiza mediante un formulario en cual hay que indicar el titular de la cuenta bancaria, el IBAN, cantida a donar y frecuencia mediante el uso de checkbox. 
+El socio va a tener un calendario donde se va a mostrar las futuras reuniones a las que puede ir si lo desea. Además, el perfil del socio es algo diferente ya que presenta un apartado de renovar o cambiar cuota de la donación. Esto se realiza mediante un formulario en cual hay que indicar el titular de la cuenta bancaria, el IBAN, cantidad a donar y frecuencia mediante el uso de checkbox. 
 
-Si el socio deseara cancelar su subcripción como socio, con pulsar el botón borrar cuenta sería suficiente. 
+Si el socio deseara cancelar su suscripción como socio, con pulsar el botón borrar cuenta sería suficiente. 
 #### Rol de Familia
 El rol de Familia es otro de los más importantes a destacar, ya que las familias son los principales en hacer uso de los servicio que la ONG ofrece. 
 
