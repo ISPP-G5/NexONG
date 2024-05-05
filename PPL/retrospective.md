@@ -50,7 +50,8 @@
 7. Retrospectiva 06.04
 8. Retrospectiva 18.04
 9. Restrospectiva 24.04
-10. Conclusiones
+10. Retrospectiva 04.05
+11. Conclusiones
 
 
 
@@ -125,6 +126,13 @@
    <td>Añadir Retrospectiva 27.04</td>
    <td>Marta Inés González Diánez</td>
    <td>Iván Ramirez Lara</td>
+  </tr>
+   <tr>
+   <td>9.0.0</td>
+   <td>04/5/2024</td>
+   <td>Añadir Retrospectiva 27.04</td>
+   <td>Marta Inés González Diánez</td>
+   <td>Francisco Rosso de Asís</td>
   </tr>
 </table>
 
@@ -451,9 +459,45 @@ Tras hacer una retrospectiva volcaremos los resultados que nos proporciona la ap
 - MANUEL FRANCISCO BARCIA JIMENEZ  ( Marta González, 5 Up Votes  )
 
 
+# 10. Retrospective 04.05
+
+### Went Well
+- Team has better knowledge of the Project overall  ( Samuel , 3 Up Votes  )
+- With more interactions  the work is smoother  ( Miguel Angel )
+- the group has improved in our interactions with each other  ( Manuel Barcia Jiménez, 1 Up Vote  )
+- Great job this week  issues closed before friday in front  ( Maria, 1 Up Vote  )
+- Communication has improved  ( Claudia Gilabert Prieto, 2 Up Votes  )
 
 
-# 10. Conclusiones
+### To Improve
+- Read all the tasks not only yours to know better what is going on  ( Claudia Gilabert Prieto )
+
+
+### Action Items
+
+
+### I received help from
+- AURORA NAVAS JIMÉNEZ  ( Marta González, 4 Up Votes  )
+- MARÍA NÚÑEZ REYES  ( Marta González, 2 Up Votes  )
+- CLAUDIA GILABERT PRIETO  ( Marta González, 2 Up Votes  )
+- MARTA INÉS GONZÁLEZ DIÁNEZ  ( Marta González, 3 Up Votes  )
+- FÉLIX ÁNGEL GUDIEL GÜEMES  ( Marta González )
+- MIGUEL ANGEL ROMALDE DORADO  ( Marta González, 2 Up Votes  )
+- FRANCISCO DE ASÍS ROSSO RAMÍREZ  ( Marta González, 2 Up Votes  )
+- PABLO PERIÁÑEZ CABRERO  ( Marta González, 2 Up Votes  )
+- FRANCISCO JAVIER CALDERÓN RODRÍGUEZ  ( Marta González, 2 Up Votes  )
+- PEDRO LOPEZ RUZ  ( Marta González, 2 Up Votes  )
+- IVÁN RAMÍREZ LARA  ( Marta González, 2 Up Votes  )
+- SAMUEL LUIS RODRÍGUEZ MANESS  ( Marta González )
+- MANUEL ORTIZ BLANCO  ( Marta González, 4 Up Votes  )
+- SERGIO AGUAYO OROZCO  ( Marta González )
+- JUAN LUIS RUANO MURIEDAS  ( Marta González, 2 Up Votes  )
+- MANUEL FRANCISCO BARCIA JIMENEZ  ( Marta González, 4 Up Votes  )
+
+
+
+
+# 11. Conclusiones
 
 Tras la primera semana, se puede ver que el ambiente del equipo es positivo, pero que todavía hay bastantes aspectos de la organización que se pueden mejorar, e incluso se aportan algunas posibles soluciones o soluciones que se han ido tomando, como el nivel de comunicación. Sin embargo, se puede ver recogido que actualmente hay una necesidad de mejorar la organización de tareas y del cumplimiento de las tareas asociadas por rol. 
 
@@ -466,3 +510,5 @@ Finalmente, tras la restrospectiva del 16 de marzo, se ve una mejora en el ambie
 Siguiendo la línea de avance postivo que llevabamos las últimas semanas, la retrospectiva del día 23 de marzo vuelve a ser optimista. Sin embargo, si que se detectan algunos problemas graves que hay que solucionar, como puede ser la comunicación entre Backend y Frontend, aunque también se ofrece una clara solución, que es que los líderes de ambos equipos tengan un mayor nivel de comunicación entre ellos. Pero en esta semana lo que vemos más importante destacar es la mejora, ya no solo del ambiente, sino también de la organización de las tareas. 
 
 En la última semana del Sprint 3, ya se ve que cada vez los problemas son menos, el ambiente ha mejorado mucho, pero hay un sentimiento general de desequilibrio en cuanto a carga de trabajo, pero no se aporta ninguna idea de posibles soluciones.
+
+Durante el PPL, se puede apreciar como ha ido mejorando el ambiente, y como ha aumentado la implicación de los miembros del grupo. 
