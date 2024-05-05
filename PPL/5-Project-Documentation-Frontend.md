@@ -87,7 +87,7 @@ El acceso a la información procedente del Backend por parte del Frontend se rea
 Se ha utilizado para la calidad del código Codacy y evitar sobre todo duplicaciones de código para forzar el hecho de trabajar en componentes y sacarle el máximo partido a React.
 
 #### Rol de administrador
-El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera autómatica. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabra de la coordinadora de la ONG.
+El rol de administrador es uno de los más importantes para la ONG, ya que le permitiría realizar diferentes acciones como la gestión de voluntarios de manera automática. Actualmente, toda gestión realizada por la ONG se basa en creación de Excels lo que hace todo un poco complicado, en palabra de la coordinadora de la ONG.
 Todo lo que viene a continuación es desde la perspectiva de un usuario que ha inciado sesión como administrador.
 ##### Voluntarios
 Las tareas realizadas en este apartado estan relacionadas con el proceso de gestión de voluntarios:
@@ -237,14 +237,14 @@ Este apartado es necesario ya que debido a los limites de tiempo y que Manos abi
 
 
 ## Cosas para mejorar
-Somos autocríticos de nuestro propio trabajo sabiendo y siendo conscientes de que siempre habrá cosas que se pueda mejorar para hacer las más accesibles. No solo se tiene esta autoevaluación en cuenta para el apartado en el cual estamos si no también el feedback recogido sobre las pruebas de los usuarios pilotos. En general, la mayoría de ellos se tuvieron en cuenta y se corrigieron de manera inmediata ya que era errores considerables como no mostrar mensajes de error. Aunque cabe destacar que el feedback dado como sugerencia no se consideró  debido al tiempo y se decidió trabajar sobre aquello más relevantes y que no funcionaba como se esperaba. A continuación se va a mostrar aspesctos abiertos a mejoras del software que actualmente tenemos desarrollado.
+Somos autocríticos de nuestro propio trabajo sabiendo y siendo conscientes de que siempre habrá cosas que se pueda mejorar para hacer las más accesibles. No solo se tiene esta autoevaluación en cuenta para el apartado en el cual estamos si no también el feedback recogido sobre las pruebas de los usuarios piloto. En general, la mayoría de ellos se tuvieron en cuenta y se corrigieron de manera inmediata ya que era errores considerables como no mostrar mensajes de error. Aunque cabe destacar que el feedback dado como sugerencia no se consideró  debido al tiempo y se decidió trabajar sobre aquello más relevantes y que no funcionaba como se esperaba. A continuación se va a mostrar aspesctos abiertos a mejoras del software que actualmente tenemos desarrollado.
 
 - En el primer feedback recibido, se proporciono la sugerencia de que en las pantalla (iniciando sesión como administrador) de socios y educadores la creación de asambleas y el añadir educadores de manera respectiva podrían cambiarse a un botón en vez de tener que cambiar de pestaña. Este feedback se ha tenido en cuenta y por eso se indica en este apartado de mejoras.
-- Por otro lado nos gustría comprobar que la interfaz que ha sido creada es las más adecuada para nuestro usuarios potenciales comprobando que nuestra user experience es satisfactoria o no.
+- Por otro lado nos gustaría comprobar que la interfaz que ha sido creada es las más adecuada para nuestro usuarios potenciales comprobando que nuestra user experience es satisfactoria o no.
 
 - Estando en la pantallas correspondientes al rol de administrador se querría añadir mayor información sobre la pestaña del rol que se esta visualizando. Ahora mismo incluye los datos básicos como pueden ser nombre y apellido. 
 El administrador debería de poder acceder a otros datos como la documentación de los voluntarios registrados, acceder a los documentos de las familias, y la tarjeta sanitaria.
-También podría quere acceder a los socios y poder ver de manera clara la cantidad que dona y cada cuanto tiempo.En la información de educadores no estaría que se mostrará el correo elctrónico si el administrador quisiera contactar con el.
+También podría quere acceder a los socios y poder ver de manera clara la cantidad que dona y cada cuanto tiempo.En la información de educadores no estaría que se mostrará el correo electrónico si el administrador quisiera contactar con el.
 
 - El tema de las evaluaciones podría ser mejorada de manera considerada en el futuro. Desde el backend existe la opción de crear tipos de evaluaciones, cosa que actualmente no se considera desde el frontend. Además, se podría lograr ver evaluaciones pasadas por parte del educador si quisiera. Además, de añadir evaluaciones trimestrales que no esta actualmente contempladas desde el frontend.
 
