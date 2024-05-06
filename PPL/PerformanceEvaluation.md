@@ -839,3 +839,87 @@ Version: 4.0
     * Common DB
     * Social login
     * Family kids
+
+## PPL
+
+* AURORA NAVAS JIMÉNEZ
+    * Final Deploy
+    * Fix model
+    * Fix HTML payment
+    * Deployed software review
+* CLAUDIA GILABERT PRIETO
+    * Frontend team lead
+    * Fix evaluation educator
+    * Final release
+    * Project summary docuementation
+    * WPL Promotion
+* FÉLIX ÁNGEL GUDIEL GÜEMES
+    * Pilot user
+    * UX Report
+    * Fix family evaluation
+* FRANCISCO DE ASÍS ROSSO RAMÍREZ
+    * Organisation feature
+    * Sugestion emails
+    * Changelog
+    * Pilot user
+    * Business plan
+* FRANCISCO JAVIER CALDERÓN RODRÍGUEZ
+    * Confirmation message
+    * Partner profile
+    * Marketing plan
+    * Social media posts
+* IVÁN RAMÍREZ LARA
+    * Fix meetings
+    * Pilot user
+    * Marketing plan
+    * Social media posts
+* MANUEL ORTIZ BLANCO
+    * Fix activation page
+    * AI Usage
+    * Poker planing
+* JUAN LUIS RUANO MURIEDAS
+    * Fix donation
+    * Learned lessons
+    * Business plan
+* MANUEL FRANCISCO BARCIA JIMENEZ
+    * Volunteer attendance
+    * Volunteer's calendar
+    * Marketing plan
+    * Social media posts
+* MARÍA NÚÑEZ REYES
+    * Pilots user
+    * Volunteer formation
+    * Style and toast
+* MARTA INÉS GONZÁLEZ DIÁNEZ
+    * Project manager leading
+    * Investors ad
+    * Presentations
+    * Retrospective
+    * Improve ad v2
+    * Improve investors ad
+* MIGUEL ANGEL ROMALDE DORADO
+    * TCO
+    * Learned lessons
+    * FC terms review
+* PABLO PERIÁÑEZ CABRERO
+    * Backend team lead
+    * Commitment agreement apendix
+    * Performance evaluations
+    * Group evaluations
+    * Poker planning
+    * Project summary docuementation
+    * Time effort report
+    * Fix volunteer model
+* PEDRO LOPEZ RUZ
+    * Pilot user
+    * Problems document
+* SAMUEL LUIS RODRÍGUEZ MANESS
+    * Demo PPL
+    * Partner membership
+    * Fix admin lesson
+* SERGIO AGUAYO OROZCO
+    * Fix family
+    * Fix students time out
+    * Landing page
+    * Common database
+    * FC terms review
