@@ -48,7 +48,7 @@
 ## Registro de cambios
 **Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
 --- | --- | --- | --- | --- 
-1.0.0 | 29/4/2024 | Semana 12 |CLAUDIA GILABERT PRIETO| 
+1.0.0 | 29/4/2024 | Semana 12 |CLAUDIA GILABERT PRIETO| AURORA NAVAS JIMÉNEZ
 
 
 ## Introducción
