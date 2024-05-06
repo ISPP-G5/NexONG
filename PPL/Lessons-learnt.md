@@ -101,6 +101,13 @@
    <td>JUAN LUIS RUANO MURIEDAS</td>
    <td>PEDRO LÓPEZ RUZ</td>
   </tr>
+  <tr>
+   <td>7.0.0</td>
+   <td>27/4/2024</td>
+   <td>Añadido lecciones aprendidas durante la semana 12 (PPL)</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>FRANCISCO CALDERON</td>
+  </tr>
 </table>
 
 
@@ -155,6 +162,12 @@ de la documentación.
 ● Tras superar las horas planeadas para el proyecto, la organización del tiempo se ha vuelto el centro de atención y se está aprendiendo hacer las tareas más eficiente dado que al trabajar para una ONG, quitar alcance al proyecto afectaría demasiado a la solución final.
 
 ● La solución de problemas entre integrantes se ha mejorado dado que el método actual consiste en resolver los problemas de forma privada con los líderes del grupo y/o project manager y un intermediario lo que facilita la comprensión entre partes y mejora el ambiente en las reuniones y en los canales de trabajo.
+
+● Poner una fecha máxima para la realización de las tareas, ya que, si no se pone esta fecha se pueden dar casos en los que no haya tiempo para revisar las tareas y pueden salir con algun fallo.
+
+● Plantear un solo canal de comunicación para que no haya perdidas innecesarias de información, ya que esta, puede estar desperdigada en ambos canales.
+
+● Se debe evitar en la medida de lo posible una política de castigo, es mejor tomar una política de recompensas para ayudar a los que se esfuerzan y hacen un buen trabajo.
 
 # 3.Feedback de los usuarios pilotos
 
