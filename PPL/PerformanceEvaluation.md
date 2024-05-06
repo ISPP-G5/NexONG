@@ -119,7 +119,7 @@ Version: 4.0
    </td>
    <td>10
    </td>
-   <td>
+   <td>10
    </td>
    <td>
    </td>
@@ -140,7 +140,7 @@ Version: 4.0
    </td>
    <td>10
    </td>
-   <td>
+   <td>9,3
    </td>
    <td>
    </td>
@@ -161,7 +161,7 @@ Version: 4.0
    </td>
    <td>9,2
    </td>
-   <td>
+   <td>9,7
    </td>
    <td>
    </td>
@@ -182,7 +182,7 @@ Version: 4.0
    </td>
    <td>8,5
    </td>
-   <td>
+   <td>9,9
    </td>
    <td>
    </td>
@@ -203,7 +203,7 @@ Version: 4.0
    </td>
    <td>8,8
    </td>
-   <td>
+   <td>10
    </td>
    <td>
    </td>
@@ -245,7 +245,7 @@ Version: 4.0
    </td>
    <td>9,5
    </td>
-   <td>
+   <td>9,7
    </td>
    <td>
    </td>
@@ -287,7 +287,7 @@ Version: 4.0
    </td>
    <td>10
    </td>
-   <td>
+   <td>10
    </td>
    <td>
    </td>
@@ -308,7 +308,7 @@ Version: 4.0
    </td>
    <td>10
    </td>
-   <td>
+   <td>10
    </td>
    <td>
    </td>
@@ -329,7 +329,7 @@ Version: 4.0
    </td>
    <td>6,9
    </td>
-   <td>9,8
+   <td>9,7
    </td>
    <td>
    </td>
@@ -392,7 +392,7 @@ Version: 4.0
    </td>
    <td>9,9
    </td>
-   <td>
+   <td>9,8
    </td>
    <td>
    </td>
@@ -413,7 +413,7 @@ Version: 4.0
    </td>
    <td>9,0
    </td>
-   <td>
+   <td>9,8
    </td>
    <td>
    </td>
