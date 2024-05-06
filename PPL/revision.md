@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Reviewer Guideline - Sprint 3
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Reviewer Guideline - PPL
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NexOng - Grupo 5
 
 ***MIEMBROS***:
@@ -43,6 +43,7 @@
 2. Sprint 3
 	1. Mapeo de los usos core
 	2. Información necesaria para la prueba
+3. PPL
 
 ## Registro de cambios
 | Versión | Fecha | Descripción | Redacción | Revisión |
@@ -50,6 +51,7 @@
 |1.0.0|30/03/2024|Sprint 2 guidelines|AURORA NAVAS JIMÉNEZ|PABLO PERIÁÑEZ CABRERO|
 |2.0.0|19/04/2024|Sprint 3 guidelines|AURORA NAVAS JIMÉNEZ|FÉLIX ÁNGEL GUDIEL GÜEMES|
 |2.0.1|22/04/2024|Adición de información tras revisión del revisor|AURORA NAVAS JIMÉNEZ|FÉLIX ÁNGEL GUDIEL GÜEMES|
+|2.0.2|06/05/2024|Información del PPL|AURORA NAVAS JIMÉNEZ|PABLO PERIÁÑEZ CABRERO|
 
 ## 1. Sprint 2
 ### 1.1 Mapeo de los usos core
@@ -218,3 +220,6 @@ Inicia sesión con las credenciales **info.nexong@gmail.com/m4n0s4bi3rt4sc0nn0r
 | Clockify         |[https://app.clockify.me/shared/66085b400f0fa031f07dd478](https://app.clockify.me/shared/660996276cf4e742fab78a5b)|              |
 | Video demo       | |La demo está en la última release del repositorio de documentación|
 | Plataforma de despliegue       | | Carlos Müller ha sido añadido a través del correo proporcionado en el anterior Sprint |
+
+## 3. PPL
+Durante el PPL, no se ha vuelto a desplegar nuestra aplicación. Se redesplegará en el WPL.
