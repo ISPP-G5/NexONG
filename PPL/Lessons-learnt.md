@@ -101,6 +101,13 @@
    <td>JUAN LUIS RUANO MURIEDAS</td>
    <td>PEDRO LÓPEZ RUZ</td>
   </tr>
+  <tr>
+   <td>7.0.0</td>
+   <td>27/4/2024</td>
+   <td>Añadido lecciones aprendidas durante la semana 12 (PPL)</td>
+   <td>MIGUEL ANGEL ROMALDE DORADO</td>
+   <td>FRANCISCO CALDERON</td>
+  </tr>
 </table>
 
 
