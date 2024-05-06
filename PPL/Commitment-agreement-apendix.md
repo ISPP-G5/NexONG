@@ -559,6 +559,10 @@ Se acuerda, mediante consenso, asignar responsabilidades individuales y comparti
 
 Según las medidas explicadas anteriormente, los miembros del equipo han obtenido la siguiente evaluación según el rendimiento durante el PPL:
 
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/472b10df-06d9-4000-8d2d-e8a0706df188)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/3d5ef121-3600-4303-a03a-501b6524144f)
+![image](https://github.com/ISPP-G5/NexONG/assets/72883992/955027bf-6dcc-421b-99a3-dd2b86d53b74)
+
 
 ## Responsabilidades individuales en PPL
 
