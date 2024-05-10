@@ -205,7 +205,7 @@ Es por eso que el uso de estas tecnologías debe hacerse cautelosamente, no dand
 
 Hoy en día hay un gran repertorio de modelos de aprendizaje de lenguaje, todos con sus ventajas e inconvenientes. En este proyecto, se ha usado Chat GPT 3.5 mayormente, ya que múltiples miembros del equipo han tenido experiencias positivas con este sistema. Las interacciones que ha tenido el grupo con la inteligencia artificial han sido grabadas en la sección 5. 
 
-Otras IAs que se han usado son Builder.io y Anima, plugins de Figma que permiten traducir los “mock-ups” que se crearon para esbozar la vista de front-end a código usable en React y CSS, la base elegida para el apartado visual de la aplicación. Estos plugins no requieren prompts, si no un archivo de Figma.
+Otras IA que se han usado son Builder.io y Anima, plugins de Figma que permiten traducir los “mock-ups” que se crearon para esbozar la vista de front-end a código usable en React y CSS, la base elegida para el apartado visual de la aplicación. Estos plugins no requieren prompts, si no un archivo de Figma.
 
 
 # 5. Gestión de Prompts
@@ -368,7 +368,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 <br/>
 <br>
-<h4>Tras el feedback recibido el dia 19/03, vimos que era una buena idea el cambiar el proceso de como mostrar nuestros prompts, por ello hemos decidido aportar las urls de las consultas:</h4>
+<h4>Tras el feedback recibido el día 19/03, vimos que era una buena idea el cambiar el proceso de cómo mostrar nuestros prompts, por ello hemos decidido aportar las urls de las consultas:</h4>
 
 
 - **Consultas desde 19/03 a 28/03**
@@ -377,7 +377,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 | Tipo de consulta | Enlace    | Análisis       |
 |------------------|--------------|--------------|
-| Consulta sobre como realizar volunteer-form           | [https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e](https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e) |Respuesta conseguida en la primera consulta |
+| Consulta sobre cómo realizar volunteer-form           | [https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e](https://chat.openai.com/share/e921108d-6990-4f07-a02b-fa873eb6078e) |Respuesta conseguida en la primera consulta |
 | Cómo devolver un string en lugar del valor del email si es nulo           | [https://sl.bing.net/g3AwAIT9r4e](https://sl.bing.net/g3AwAIT9r4e) |Respuesta conseguida en la primera consulta|
 | Claves para un acuerdo colaborativo de usuarios pilotos          | [https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4](https://chat.openai.com/share/b6ba2db1-8fdb-4b54-beb0-af1a9fd971f4) | Respuesta conseguida en la primera consulta|
 | Apartado seguridad de datos en el proyecto impacto legal          | [https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738](https://chat.openai.com/share/072234a9-2a42-4fae-ab2d-1b13d1840738) |Consulta realizada para entender qué necesitaba rellenar en el documento|
@@ -392,13 +392,13 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 | Tipo de consulta | Enlace    | Num consultas       | Tiempo ahorrado estimado       |Nivel satisfación (0-5)      | Tipo de tarea       |
 |------------------|--------------|--------------|--------------|--------------|--------------|
-| Consulta sobre como pasar datos como parámetro al styles.css           | [https://chat.openai.com/share/bdacd4d3-d66e-47c4-80bf-446dfe5e2b46](https://chat.openai.com/share/bdacd4d3-d66e-47c4-80bf-446dfe5e2b46) | 2 |1 hora|5|Código |
+| Consulta sobre cómo pasar datos como parámetro al styles.css           | [https://chat.openai.com/share/bdacd4d3-d66e-47c4-80bf-446dfe5e2b46](https://chat.openai.com/share/bdacd4d3-d66e-47c4-80bf-446dfe5e2b46) | 2 |1 hora|5|Código |
 | Cómo comprobar con Claudette si existen clausulas abusivas           | [http://claudette.eui.eu/demo/answers/TMyf5Fm3dl.html](http://claudette.eui.eu/demo/answers/TMyf5Fm3dl.html) | 1 |40 minutos|5|Documentación |
 | Cómo descargar varios archivos de forma simultanea          | [https://chat.openai.com/share/eb9f2c6a-3f9d-4010-a31d-4190b2bba201](https://chat.openai.com/share/eb9f2c6a-3f9d-4010-a31d-4190b2bba201) | No se ha obtenido respuesta válida |-75 minutos|0|Código |
 | Cómo descargar varios archivos de forma simultanea 2          | [https://chat.openai.com/share/985cabc5-08d9-4ccc-9a92-8c3ce3a5cfe7](https://chat.openai.com/share/985cabc5-08d9-4ccc-9a92-8c3ce3a5cfe7) | No se ha obtenido respuesta válida |-20 minutos|0|Código |
-| Como cambiar la posición de un botón en un contenedor          | [https://sl.bing.net/dhG0XsoN3VA](https://sl.bing.net/dhG0XsoN3VA) | 1 |0 minutos|2|Código |
-| Como cambiar la posición de un botón en un contenedor          | [https://chat.openai.com/share/0f26d254-78ca-44db-8d84-8f713f25c8f1](https://chat.openai.com/share/0f26d254-78ca-44db-8d84-8f713f25c8f1) | 4 |1 hora|5|Código |
-| Como actualizar los estilos de una sección sin estilos          | [https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee](https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee) | 14 |4 horas|5|Código |
+| Cómo cambiar la posición de un botón en un contenedor          | [https://sl.bing.net/dhG0XsoN3VA](https://sl.bing.net/dhG0XsoN3VA) | 1 |0 minutos|2|Código |
+| Cómo cambiar la posición de un botón en un contenedor          | [https://chat.openai.com/share/0f26d254-78ca-44db-8d84-8f713f25c8f1](https://chat.openai.com/share/0f26d254-78ca-44db-8d84-8f713f25c8f1) | 4 |1 hora|5|Código |
+| Cómo actualizar los estilos de una sección sin estilos          | [https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee](https://chat.openai.com/share/f494dac5-2fe1-4aec-9c99-a7db138293ee) | 14 |4 horas|5|Código |
 
 <br/>
 <br>
@@ -414,7 +414,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 | Cómo quitar la letra de la canción para el anuncio          | [https://vocalremover.org/](https://vocalremover.org/) | 1 |0 minutos|5|Documentación |
 | Cómo crear voz con un texto          | [https://www.veed.io/](https://www.veed.io/) | 11 |30 minutos|4|Documentación |
 | Ayuda para anuncio          | [https://chat.openai.com/share/4d98f26e-4591-4694-91c6-191648fcca36](https://chat.openai.com/share/4d98f26e-4591-4694-91c6-191648fcca36) | 8 |45 minutos|4|Documentación |
-| Como arreglar un botón          | [https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf](https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf) | 2 |30 minutos|4|Código |
+| Cómo arreglar un botón          | [https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf](https://chat.openai.com/share/5a05cf88-65e9-49e0-9af5-97f6dcfed6bf) | 2 |30 minutos|4|Código |
 
 
 <br/>
@@ -427,7 +427,7 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 | Tipo de consulta | Enlace    | Num consultas       | Tiempo ahorrado estimado       |Nivel satisfación (0-5)      | Tipo de tarea       |
 |------------------|--------------|--------------|--------------|--------------|--------------|
-| Consulta sobre como conseguir el esqueleto para el documento de Marketing Plan           | [https://chat.openai.com/share/c43b3bc0-deb8-480e-8aea-f264cefc32e7](https://chat.openai.com/share/c43b3bc0-deb8-480e-8aea-f264cefc32e7) | 1 |5 minutos|4|Documentación |
+| Consulta sobre cómo conseguir el esqueleto para el documento de Marketing Plan           | [https://chat.openai.com/share/c43b3bc0-deb8-480e-8aea-f264cefc32e7](https://chat.openai.com/share/c43b3bc0-deb8-480e-8aea-f264cefc32e7) | 1 |5 minutos|4|Documentación |
 | Esqueleto para el plan de negocios para revisarlo           | [https://chat.openai.com/share/e0fa63c7-6be4-4882-8fcd-4628103c8327](https://chat.openai.com/share/e0fa63c7-6be4-4882-8fcd-4628103c8327) | 1 |2 minutos|5|Documentación |
 
 
@@ -457,9 +457,9 @@ A continuación se adjunta los prompts obtenidos junto a la respuesta de la IA:
 
 | Tipo de consulta | Enlace    | Num consultas       | Tiempo ahorrado estimado       |Nivel satisfación (0-5)      | Tipo de tarea       |
 |------------------|--------------|--------------|--------------|--------------|--------------|
-| Crear video para el post para dar a  conocer nuestro servicio  | [https://share.vidnoz.com/aishare-JWbZpml7cEFrrsEnmIIr8sIv17151637853886706](https://share.vidnoz.com/aishare-JWbZpml7cEFrrsEnmIIr8sIv17151637853886706) | 1 |40 minutos|5|Documentación |
+| Crear vídeo para el post para dar a  conocer nuestro servicio  | [https://share.vidnoz.com/aishare-JWbZpml7cEFrrsEnmIIr8sIv17151637853886706](https://share.vidnoz.com/aishare-JWbZpml7cEFrrsEnmIIr8sIv17151637853886706) | 1 |40 minutos|5|Documentación |
 | Información que transmitir en el post de dar a conocer nuestro servicio  | [https://chat.openai.com/share/6e032dec-a8e0-4db9-9696-da318eab780d](https://chat.openai.com/share/6e032dec-a8e0-4db9-9696-da318eab780d) | 1 |10 minutos|5|Documentación |
-| Crear video sobre ayudas que pueden recibir las ONGs  | [https://share.vidnoz.com/aishare-XD23mQwTqySSEGfrCxOlsIPJ17153316263931265](https://share.vidnoz.com/aishare-XD23mQwTqySSEGfrCxOlsIPJ17153316263931265) | 1 |1 hora|5|Documentación |
+| Crear vídeo sobre ayudas que pueden recibir las ONG  | [https://share.vidnoz.com/aishare-XD23mQwTqySSEGfrCxOlsIPJ17153316263931265](https://share.vidnoz.com/aishare-XD23mQwTqySSEGfrCxOlsIPJ17153316263931265) | 1 |1 hora|5|Documentación |
 
 
 
@@ -651,37 +651,37 @@ La primera semana que se empezó a registrar los usos de las inteligencias artif
 
 La siguiente semana comenzó el desarrollo, por lo que las consultas son de mayor relación a la programación. De los 4 usos que se le han dado a las inteligencias artificiales, un 75% han sido respecto a comienzo de sistemas informáticos. 
 
-La semana del 25/2/2024 se hacen dos consultas a Chat GPT. También apuntamos que 5 miembros usan _Github Copilot_, que no requiere prompts, si no ofrece posible código a escribir en función del contenido actual del fichero.
+La semana del 25/2/2024 se hacen dos consultas a Chat GPT. También apuntamos que 5 miembros usan _Github Copilot_, que no requiere prompts, sino ofrecer posible código a escribir en función del contenido actual del fichero.
 
 La semana del 3/3/2024 se hacen 3 consultas a Chat Gpt, 2 de ellas respecto a programación y otra para definir el nuevo método de evaluación individual.
 
 La semana del 10/3/2024 se hacen 5 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal, que es un tema muy delicado y es pertinente preguntar a inteligencias artificiales para tener una dirección general. Cabe recalcar una petición sobre errores en JSON, que es un problema que ha tenido que afrontar el frontend debido a la complejidad de mandar documentos mediante JSON.
 
-La semana del 26/3/2024 se hacen 3 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal y sobre el commitment agreement de los usuarios pilotos. La tercera fue respecto a como realizar un formulario para una peticion con unos determinados atributos y 1 uso de Copilot. Además, el anuncio se ha realizado con la ayuda de SunoAI.
+La semana del 26/3/2024 se hacen 3 consultas a Chat Gpt. 2 de ellas son respecto al documento del impacto legal y sobre el commitment agreement de los usuarios pilotos. La tercera fue respecto a como realizar un formulario para una petición con unos determinados atributos y 1 uso de Copilot. Además, el anuncio se ha realizado con la ayuda de SunoAI.
 
-La semana 1 del Sprint 3, es decir la semana de 03/04/2024 se hacen 5 consultas a Chat Gpt. De ellas, 2 no se lograron resolver haciendo uso de la ia, lo que provocó que se perdiera en total 1:35 horas. Por otro lado, el resto de consultas provocarón un ahorro de horas significativo, con un total de 6:40 horas. De las consultas, 1/7 fueron realizadas para tareas de documentación. En la siguiente gráfica se muestra el nivel de satisfación frente al ahorro del tiempo estimado:
+La semana 1 del Sprint 3, es decir la semana de 03/04/2024 se hacen 5 consultas a Chat Gpt. De ellas, 2 no se lograron resolver haciendo uso de la IA, lo que provocó que se perdiera en total 1:35 horas. Por otro lado, el resto de consultas provocarón un ahorro de horas significativo, con un total de 6:40 horas. De las consultas, 1/7 fueron realizadas para tareas de documentación. En la siguiente gráfica se muestra el nivel de satisfación frente al ahorro del tiempo estimado:
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado.png">
 </p>
 
-La semana 2 del Sprint 3, incluida la semana de 15/04/2024(Feria de Sevilla) se han realizado en total 6 consultas a IAs. 4 de ellas fueron realizadas a Chat Gpt, ahorrando en total unas 6 horas estimadas, donde 3/4 fueron consultas dedicadas a tareas de programación. Además, en esta semana se han realizado 2 consultas a dos nuevas IAs: VocalRemover y Veed, centradas para la realización del anuncio. A continuación, se muestra la gráfica del nivel de satisfación frente al ahorro de tiempo estimado:
+La semana 2 del Sprint 3, incluida la semana de 15/04/2024(Feria de Sevilla) se han realizado en total 6 consultas a IA. 4 de ellas fueron realizadas a Chat Gpt, ahorrando en total unas 6 horas estimadas, donde 3/4 fueron consultas dedicadas a tareas de programación. Además, en esta semana se han realizado 2 consultas a dos nuevas IA: VocalRemover y Veed, centradas para la realización del anuncio. A continuación, se muestra la gráfica del nivel de satisfación frente al ahorro de tiempo estimado:
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado S10.png">
 </p>
 
-La semana 1 del PPL, 23/04/2024 a 28/04/2024 se han realizado 2 consultas, ambas a Chat Gpt con el fin de como estructurar los documentos de Marketing Plan y el plan de negocio, este ultimo para realizar cambios en el mismo. Esta es la gráfica resultante de estas consultas:
+La semana 1 del PPL, 23/04/2024 a 28/04/2024 se han realizado 2 consultas, ambas a Chat Gpt con el fin de cómo estructurar los documentos de Marketing Plan y el plan de negocio, este ultimo para realizar cambios en el mismo. Esta es la gráfica resultante de estas consultas:
 
 <p align="center">
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado- W12-PPL.png">
 </p>
 
-La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva ia que no teniamos registrada, esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
+La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva ia que no teníamos registrada. Esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
 
 <p align="center">
 <img src="images/Satisfacion_S12.png">
 </p>
 
-En la primera semana del WPL, las consultas se han centrado en como enfocar los post de las redes sociales. Estas consultas se han realizado a Chat Gpt y VidnozAI. Esta ultima como en la semana anterior, se le ha pedido que realice videos para los posts. A continuación, la gráfica de satisfación frente al tiempo estimado ahorrado:
+En la primera semana del WPL, las consultas se han centrado en como enfocar los post de las redes sociales. Estas consultas se han realizado a Chat Gpt y VidnozAI. Esta última como en la semana anterior, se le ha pedido que realice vídeos para los posts. A continuación, la gráfica de satisfación frente al tiempo estimado ahorrado:
 
 <p align="center">
 <img src="images/Nivel satisfacción 1w WPL.png">
