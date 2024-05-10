@@ -675,7 +675,7 @@ La semana 1 del PPL, 23/04/2024 a 28/04/2024 se han realizado 2 consultas, ambas
 <img src="images/Nivel satisfacción frente a Tiempo estimado ahorrado- W12-PPL.png">
 </p>
 
-La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva ia que no teníamos registrada. Esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
+La segunda semana del PPL, 30/04/2024 a 04/05/2024, se ha realizado una consulta a una nueva IA que no teníamos registrada. Esta ia es VidnozAI, la cual es un generador de video. Esta semana se ha utilizado para generar un video para nuestras redes sociales.
 
 <p align="center">
 <img src="images/Satisfacion_S12.png">
