@@ -257,10 +257,10 @@ Las siguientes contribuciones son las específicas al grupo 5:
 
 ## Semana 12
 
--   Fluidez de la presentación es mejorable
+-   Fluidez de la presentación es mejorable.
 -   Estaría bien decir en los anuncios algo como "NexONG surge a partir de la ONG Manos Abiertas" porque a veces ponemos la imagen de manos abiertas pero no la mencionamos.
 -   La demo no sigue una historia. Se para en cosas no relevantes.
--   Anuncio de inversores: justificar a los inversores mediante gráficas mostrando información de los beneficios que obtendrían
+-   Anuncio de inversores: justificar a los inversores mediante gráficas mostrando información de los beneficios que obtendrían.
 -   Poner la portada de la demo en blanco.
 -   Dejar de poner conceptos Capex y Opex explícitamente.
 -   Poner cuantas horas a la semana se supone que trabajan los Community Manager.
@@ -316,6 +316,8 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 
 1. En caso de estar haciendo trabajo para ONGs, hacer que la ONGs promocionen vuestra página en sus redes.
 
+2. Anuncio de inversores: justificar a los inversores mediante gráficas mostrando información de los beneficios que obtendrían
+
 ### Demo
 
 1. La dema no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
@@ -359,3 +361,6 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 -   Nos hemos hecho fotos más formales.
 -   Mostramos el progreso individual con un mapa de calor.
 -   Hemos creado métricas para los riesgos y se tienen en cuenta plazos en los problemas.
+-   Justificamos mejor los beneficios a los inversores.
+-   Mejoramos la portada de la demo.
+-   Hemos puesto las horas de trabajo de los community managers.
