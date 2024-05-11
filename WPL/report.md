@@ -16,7 +16,9 @@
     8. Semana 8
     9. Semana 9
     10. Semana 10
-    11. General
+    11. Semana 11
+    12. Semana 12
+    13. General
 3.  Acciones llevadas a cabo
 
 ## Registro de cambios
@@ -320,7 +322,7 @@ Las contribuciones generales de la semana 2 las entregó nuestro grupo.
 
 ### Demo
 
-1. La dema no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
+1. La demo no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
 
 ### Rendimiento individual
 
