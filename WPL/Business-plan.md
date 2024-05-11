@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan de Negocios - PPL
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan de Negocios - WPL
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NexOng - Grupo 5
 
@@ -83,6 +83,18 @@
       </ul>
     </td>
     <td>MARTA INÉS GONZÁLEZ DIÁNEZ</td>
+  </tr>
+  <tr>
+    <td>3.0.0</td>
+    <td>03/05/2024</td>
+    <td>Mejora de la sección de inversores</td>
+    <td>
+      <ul>
+        <li>JUAN LUIS RUANO MURIEDAS</li>
+        <li>FÉLIX ÁNGEL GUDIEL GÜEMES</li>
+      </ul>
+    </td>
+    <td>PABLO PERIÁÑEZ CABRERO</td>
   </tr>
 </table>
 
