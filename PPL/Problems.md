@@ -54,6 +54,7 @@
 5.0.0 | 19/4/2024 | Semana 10 | PEDRO LÓPEZ RUZ| MARÍA NÚÑEZ REYES
 6.0.0 | 27/4/2024 | Semana 11 | PEDRO LÓPEZ RUZ| MARÍA NÚÑEZ REYES
 7.0.0 | 04/5/2024 | Semana 12 | PEDRO LÓPEZ RUZ| SAMUEL LUIS RODRÍGUEZ MANESS
+8.0.0 | 12/5/2024 | Semana 13 | FRANCISCO DE ASÍS ROSSO RAMÍREZ | JUAN LUIS RUANO MURIEDAS
 
 
 
@@ -68,7 +69,8 @@ Algunos miembros del equipo han mostrado su frustración en la reunión del día
 
 ### Disconformidad general con las medidas de auto-evaluación del equipo y falta de transparencia
 La mayoría del equipo ha sentido que las medidas de evaluación que se realizan sobre otros miembros no han sido correctas. Por una parte, es complicado ofrecer una valoración realista a las personas con las que menos contacto se ha tenido, además no se ha considerado algunas valoraciones justas cuando algunas encuestas son de carácter objetivo. Luego, se desea buscar un nivel más alto de transparencia a la hora de realizar la rúbrica del rendimiento de cada persona, para poder presentar dudas y tener los motivos de nuestra nota visibles.
-En la reunión del pasado martes 12 de marzo, se ha seguido mostrando disconformidad con las notas anteriores. Parte del equipo ha sentido que las medidas de evaluación que se realizan sobre otros miembros no han sido correctas ni justas. Por una parte, es complicado ofrecer una valoración realista a las personas con las que menos contacto se ha tenido, además no se ha considerado algunas valoraciones justas, cuando algunas encuestas son de carácter objetivo. Luego, se desea buscar un nivel más alto de transparencia a la hora de realizar la rúbrica del rendimiento de cada persona, para poder presentar dudas y tener los motivos de nuestra nota visibles.
+En la reunión del pasado martes 12 de marzo, se ha seguido mostrando disconformidad con las notas anteriores debido a circunstancias similares.
+Tras los resultados de las calificaciones mostrados el 21 de abril, se ha vuelto a mostrar descontento respecto a las notas, ya que a varios miembros les han parecido injustamente bajas, debido al sistema y a errores de evaluación.
 
 ### Problemas con las políticas de ramas y commits
 Las políticas de ramas y de commits buscan asegurar el cumplimiento uniforme y correcto al trabajar con git flow, pero se ha comprobado que también puede causar problemas. Algunos conflictos de una rama por las medidas del conventional commits acabaron afectando a varios miembros de modo que no podían hacer sus Pull Requests.
@@ -113,6 +115,7 @@ Las soluciones que se pondrán o ya se han puesto en marcha para resolver los pr
    - Se incluye el poker planning como medida objetiva para el rendimiento
    - Los miembros del equipo miden el rendimiento del PM y los Team Leader.
   Tras el avance de las semanas se realizó algunos cambios en la forma de evaluación, en concreto en el formulario de evaluación, donde se ha incluido un campo de texto obligatorio en el cual se debe de expresar el motivo de dicha puntuación además de puntos de mejora y flaqueza.
+- Se ha decidido aumentar el valor de las evaluaciones entre miembros del grupo a un 70%.
 - Se han relajado las restricciones a la hora de hacer commits para evitar posibles desastres por bloqueos. Sin embargo, el incumplimiento continuo de las conventional commits se penalizará tras varios avisos.
 - Se recordará a los miembros del equipo la importancia de hacer una revisión general al proyecto, de informarse sobre los requerimientos de su tarea y de leer bien las descripciones de las issues. También hay que esforzarse por escribir descripciones lo más claras y detalladas posibles, así como dejar un buen comentario de revisión.
 - Buscar una mayor alineación entre los requerimientos solicitados por las páginas y la base de datos del backend a través del diálogo entre ambos equipos.
@@ -130,6 +133,8 @@ Los resultados tras la aplicación de las soluciones
 - Tras la mediación se ha obtenido un ambiente de trabajo más calmado, en donde se realizan comentarios por cada discrepancia que vaya apareciendo para llegar a un consenso entre todos los miembros del grupo. Tras el avance de las semanas la figura del mediador se ha convertido en una pieza importante debido a que muchas discrepancias eran fundadas por las evaluaciones, por ello el tener un mediador para posicionarse de manera neutral en este tipo de caso tan peliagudos han ayudado tanto a los Team Leaders a reducir cargar de trabajo, como a controlar desacuerdos antes de llegar a situaciones más tensas. Ya en esta semana final, la figura del mediado a tenido un papel mucho menor casi inexistente ya que no hemos coordinado a la perfección y sin crearnos problemas entre unos y otros.
   
 - Respecto al sistema de evaluación, estos cambios han generado multitud de opiniones tanto a favor como en contra es decir hay miembros cuyo nota sobrepasa el 10 apareciendo calificaciones de 11 u 12 y otros con una calificación más baja y para ellos injusta. Con el nuevo formulario, se ha conseguido paliar las confrontaciones debido a que al ser público las evaluaciones y también quién es la persona evaluante y juzgada, se ha conseguido que haya una revisión tras la publicación de las notas para hablar con los damnificados y llegar a un acuerdo siempre y cuando sea fundamentado. Además, se ha propuesto que las personas cuyas notas sean superiores a la nota máxima puedan escalar sus notas en calificaciones de otros Sprints suyos y por otro lado si se observa que un miembro del grupo trabaja bien y se ha notado una mejoría tras el paso de las semanas se consideraría asignar la nota máxima en los Sprints.
+
+- Tras el aumento del valor de las notas puestas por los miembros del grupo se han disminuido el descontento general de quien considerase sus calificaciones injustamente bajas, lo que ha contribuido al retorno a un mejor ambiente dentro del grupo y entre desarrolladores y team leaders y project manager.
   
 - Tras relajar las restricciones a la hora de realizar los commits y pull request ha fluido un poco mejor el trabajo pero todavía a final de semana seguían habiendo pull requests por aprobar y por ello se ha sugerido que todos los miembros del equipo activen las notificaciones por email para mitigar la ralentización. Ya pasadas unas semanas, el limitar las políticas de ramas ha sido un acierto, ya que se ha agilizado mucho más el cierre de las pull request sobre todo en soluciones de bugs, donde es necesario un rápido cierre para que puedan trabajar el equipo de frontend. Además, los miembros han seguido a rajatabla la política de ramas y no ha habido ningún incumplimiento.
   
