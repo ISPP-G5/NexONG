@@ -215,15 +215,15 @@ Los socios que decidan invertir en NexONG obtendrán un retorno de inversión de
 Nuestro acuerdo de inversión requiere un compromiso mínimo de un año por parte de los socios. Este marco temporal es esencial para asegurar la estabilidad financiera y operativa necesaria para implementar nuestras estrategias a largo plazo. Finalizado el año, los socios podrán optar por renovar su inversión, retirar los fondos o participar en nuevas oportunidades que la empresa ofrezca.
 
 
-A partir de los análisis de costes y beneficios, obtenemos estas estimaciones:
+A partir de los análisis de costes e ingresos, obtenemos estas estimaciones:
 
-| **Costes** |**Precio inicial + precio/mes**| **Precio 2 años**|
+| **Estimación de costes** |**Precio inicial + precio/mes**| **Precio 2 años**|
 | :-----------:|:--------------: | :----------- |
 |Optimista   |   46180,6 + 941,36€            |125.154,69€   |
 |Realista   |52908,5 + 1008,52€            |144.671,14€   |
 |Pesimista|63977,87 + 1134,76€           |164.976,23€   |
 
-| **Beneficios** |**Ingreso/mes**| **Ingresos a los 2 años**|
+| **Estimación de ingresos** |**Ingreso/mes**| **Ingresos a los 2 años**|
 | :-----------:|:--------------: | :----------- |
 |Optimista   |   43.545,6€            |1.045.094,4€   |
 |Realista   |21.772,8€            |522.547,2€   |
