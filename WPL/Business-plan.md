@@ -210,30 +210,10 @@ Y como planificación a largo plazo está la opción de extender nuestra idea de
 
 # 7. Socios y retorno de inversión
 
+Los interesados que quieran colaborar con NexONG como socios tienen la oportunidad de hacerlo comprando porcentaje de participación de la empresa de un total del 49% del valor total de la empresa. Este valor corresponde al coste del proyecto de 152 mill euros más el valor estimado de mercado basandonos en los ingresos realistas de un año de 261 mil euros, por tanto el 49% de ello corresponde a aproximadamente 202.370 euros que se repartiran en porcentajes del 7% con valor de 28.910 lo que nos permitirá tener 7 socios. Adicionalmente si el socio lo desea podrá añadir valor adicional a su participación como prima de emisión y el valor adicional también estará contado en el cálculo para ganancias posteriores.
+
 Los socios que decidan invertir en NexONG obtendrán un retorno de inversión del 25% anual, calculado sobre el monto total invertido y distribuido en pagos trimestrales a lo largo del año. Este retorno proviene directamente de los beneficios netos de nuestra empresa, garantizando que las inversiones contribuyan al crecimiento sostenible y al éxito compartido. Adicionalmente, como parte de nuestro compromiso con nuestros socios, cada uno recibirá 16 horas de soporte, mantenimiento o consultoría gratuitas mensualmente, asegurando así un valor añadido constante y significativo.
 
 Nuestro acuerdo de inversión requiere un compromiso mínimo de un año por parte de los socios. Este marco temporal es esencial para asegurar la estabilidad financiera y operativa necesaria para implementar nuestras estrategias a largo plazo. Finalizado el año, los socios podrán optar por renovar su inversión, retirar los fondos o participar en nuevas oportunidades que la empresa ofrezca.
-
-
-A partir de los análisis de costes e ingresos, obtenemos estas estimaciones:
-
-| **Estimación de costes** |**Precio inicial + precio/mes**| **Precio 2 años**|
-| :-----------:|:--------------: | :----------- |
-|Optimista   |   46180,6 + 941,36€            |125.154,69€   |
-|Realista   |52908,5 + 1008,52€            |144.671,14€   |
-|Pesimista|63977,87 + 1134,76€           |164.976,23€   |
-
-| **Estimación de ingresos** |**Ingreso/mes**| **Ingresos a los 2 años**|
-| :-----------:|:--------------: | :----------- |
-|Optimista   |   43.545,6€            |1.045.094,4€   |
-|Realista   |21.772,8€            |522.547,2€   |
-|Pesimista|7.257,6€           |174.182,4€   |
-
-
-Usando estas estimaciones podemos crear un gráfico que compara los costes que se acaban de mostrar con los posibles ingresos a recibir.
-
-
-<image src="./images/grafico-tcoPPL.png" alt="Grafico de los costes asociados">
-
 
 Mostramos una sólida capacidad para generar ingresos sustanciales frente a los costes anticipados, asegurando un manejo eficiente y un retorno de inversión atractivo. Con un enfoque financiero sólido y estrategias claras, ofrecemos estabilidad y confianza a nuestros inversores, permitiéndoles mantener su compromiso y beneficiarse del crecimiento continuo de nuestra empresa.<br/>
