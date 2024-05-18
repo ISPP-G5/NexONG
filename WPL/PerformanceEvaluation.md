@@ -456,18 +456,6 @@ Version: 4.0
        <td>0.960
    </td>
   </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>77,4</td>
-    <td>76,7</td>
-    <td>77,1</td>
-    <td>80,6</td>
-    <td>0</td>
-    <td>0</td>
-    <td>311,8</td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 
