@@ -63,7 +63,7 @@ En el repositorio del Backend se ha seguido el flujo de trabajo de GitFlow dónd
 
 A la hora del desarrollo se utilizó el apartado de issues para describir que tareas hay que realizar si son features o fixes (estas son las dos principales que hemos tenido) así como los issues relacionados con el release y despliegue.
 
-Cada issue estaba asiganado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Back_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por dos personas, siendo siempre uno de ellos el Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
+Cada issue estaba asignado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Black_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por dos personas (no era por tres personas?), siendo siempre uno de ellos el Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
 
 El Team Leader, era también el que creaba y asignaba los issues a cada persona de su grupo. Esta organización, creación y asignación de tareas era consultada entre PM y el team leader del backend para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Backend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
 
@@ -79,26 +79,29 @@ Con toda la información precedente de los requisitos así como el diagrama, se 
 ## Trabajo pendiente por realizar
 Manos Abiertas ampliaba mucho el alcance en cada reunion que teníamos, es por ello que tuvimos que recortar funciones que para ellos serían esenciales. A partir de aquí se discutirán las tareas que fueron imposible realizar debido al corto alcance del proyecto.
 
+- En general el backend está bastante implementado y completo, pero en cierto punto se dejaron de tener en cuenta las nuevas features del backend en el desarrollo del frontend por el hecho de recortar alcance.
+
 - Un nuevo tipo de usuario, dedicado al centro educativo: Este usuario podra dar de alta a alumnos de mañana en el sistema, notificando a la ONG y a la familia. Y sin necesidad de usar tanto papelo y sobrecarga a la ONG.
 
 - Más flexibilidad en los eventos.
 
 - Notificaciones por correo de lo que está sucediendo en la ONG.
 
-- Mensajería dentro de la propia aplicación. Evitando usar y saturar el telefono y Whatsapp de la ONG.
+- Mensajería dentro de la propia aplicación. Evitando usar y saturar el teléfono y Whatsapp de la ONG.
 
 - Implementación del apartado de proyecto de la ONG: Donde puedan llevar una seguimiento de los proyectos y su financiación de la ONG. Al final es como la ONG basa su funcionamiento.
 
-- Gestión dinamica de la pagina web: Proporcionar al administrador recursos para modificar la pagina web principal sin tener que programar en React. Los datos deberían de guardarse en el backend y mostrarse en la web proncipal, siendo modificable facilmente por el administrador, sin que tenga conocimientos técnicos (Estilo wordpress).
-
-- El frontend debería de incluir todas las exportaciones que se hizo en el backend para sacar los datos de la base de datos a formato csv, pdf y excel. Y actualmente no se está usando.
+- Gestión dinámica de la pagina web: Proporcionar al administrador recursos para modificar la pagina web principal sin tener que programar en React. Los datos deberían de guardarse en el backend y mostrarse en la web principal, siendo modificable fácilmente por el administrador, sin que tenga conocimientos técnicos (Estilo Wordpress).
+  
+- El frontend debería de incluir todas las exportaciones que se hizo en el backend para sacar los datos de la base de datos a formato CSV, PDF y Excel. Y actualmente no se está usando.
 
 
 ## Cosas para mejorar
 Dejando a un lado nuevas funcionalidades, existen funcionalidad que están implementadas pero se deberían de mejorar y optimizar.
 
-- El más claro, es el modelo conceptual de la base de datos. Ya que lo que empezó siendo una cosa simple y se le fueron añadiendo tablas y relaciones. El resultado fué un modelo bastante ineficiente ya que el frontend depende de varías consultas para averiguar datos de las personas debido a relaciones 1:1
-- Puede ser una opción, que se planteó desde el principio, pero debido a que muchos no tenían experiencia, no fué posible implantarlo. Es el hecho de usar una base de datos NoSQL. Estás pueden ser más eficiente y más flexibles a la hora de tener muchos roles y usuarios distintos, ya wue la DB es mucho más adaptable. Además empresas como MongoDB, ofrecen bases de datos desplegadas en la nube (MongoDB Atlas) completamente gratis. Actualmente se usa Postgres y cuesta 3-4$ al día.
+- El más claro, es el modelo conceptual de la base de datos. Ya que lo que empezó siendo una cosa simple y se le fueron añadiendo tablas y relaciones. El resultado fué un modelo bastante ineficiente ya que el frontend depende de varias consultas para averiguar datos de las personas debido a relaciones 1:1.
+  
+- Puede ser una opción, que se planteó desde el principio, pero debido a que muchos no tenían experiencia, no fue posible implantarlo. Es el hecho de usar una base de datos NoSQL. Éstas pueden ser más eficiente y más flexibles a la hora de tener muchos roles y usuarios distintos, ya que la base de datos es mucho más adaptable. Además empresas como MongoDB, ofrecen bases de datos desplegadas en la nube (MongoDB Atlas) completamente gratis. Actualmente se usa Postgres y cuesta 3-4$ al día.
 
 ## Conclusión
 Se ha desarrollado una pequeña guía con la información correspondiente que se ha realizado durante el proyecto, así como las cosas que se pueden mejorar y las cosas que no han sido posible implementar. Este proyecto ha supuesto una gran carga de trabajo, debido a eso y a que ISPP es una asignatura de 6 ECTS no se ha podido completar todo como nos hubiera gustado. Sin embargo, se ha obtenido un buen resultado, en el que todos hemos colaborado lo mejor que hemos podido.
