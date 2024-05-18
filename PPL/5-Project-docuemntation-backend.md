@@ -47,7 +47,7 @@
 ## Registro de cambios
 **Versión** | **Fecha** | **Descripción**| **Redacción** | **Revisión**
 --- | --- | --- | --- | --- 
-1.0.0 | 29/4/2024 | Semana 12 |Pablo Periañez Cabrero| 
+1.0.0 | 29/4/2024 | Semana 12 |Pablo Periañez Cabrero| Aurora Navas Jiménez
 
 
 ## Introducción
