@@ -63,7 +63,7 @@ En el repositorio del Backend se ha seguido el flujo de trabajo de GitFlow dónd
 
 A la hora del desarrollo se utilizó el apartado de issues para describir que tareas hay que realizar si son features o fixes (estas son las dos principales que hemos tenido) así como los issues relacionados con el release y despliegue.
 
-Cada issue estaba asignado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Black_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por dos personas (no era por tres personas?), siendo siempre uno de ellos el Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
+Cada issue estaba asignado a una o dos personas como mucho con su etiqueta correspondiente, deadline y proyecto. Cada issue completado es seguido por su correspondiente pull request donde tenemos un workflow de Codacy y la GitHub action de Black_Formatter para asegurar que se cumple la calidad y el estilo de código. Cada pull request es revisada por tres personas, siendo siempre uno de ellos el Team Leader del Backend para garantizar que el trabajo realizado cumple con lo esperado. 
 
 El Team Leader, era también el que creaba y asignaba los issues a cada persona de su grupo. Esta organización, creación y asignación de tareas era consultada entre PM y el team leader del backend para que se supiera en todo momento en que se iba a trabajar y si lo que se quería realizar por parte del Backend es posible (teniendo en cuenta que la parte correspondiente del Backend estuviera creada). 
 
