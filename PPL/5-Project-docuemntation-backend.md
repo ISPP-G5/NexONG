@@ -53,7 +53,7 @@
 ## Introducción
 El objetivo principal de este documento es la creación de una guía que contenga información sobre las tareas que se han realizado durante el desarrollo del proyecto, que tareas han quedado pendiente y que se podrían implementar en el futuro así como que partes de las ya implementadas podrían ser mejoradas para así hacerlas más eficientes y ajustarnos de mejor manera a los requisitos dados por la ONG Manos Abiertas con Norte, nuestro actual cliente.
 
-Importante mantener en mente que en este documento solo se esta teniendo en cuenta la parte correspondiente al Frontend. Se ha decidido hacer en dos documentos separados para facilitar la lectura y entendimiento.
+este documento incluye la parte que corresponde al backend. Por lo tanto lo relativo al frontend se ha manetnido en otro documento separado para facilitar su lectura.
 ## Organización del repositorio
 En el caso de nuestro grupo nexONG se acordó la creación de una organización en la que se crearían diferentes repositorios: uno para la documentación, otro para la landing page, otro para el Backend y finalmente uno para el Frontend.
 
