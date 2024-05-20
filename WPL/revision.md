@@ -229,7 +229,7 @@ Inicia sesión con las credenciales **info.nexong@gmail.com/m4n0s4bi3rt4sc0nn0r
 Durante el PPL, no se ha vuelto a desplegar nuestra aplicación. Se redesplegará en el WPL.
 
 ## 4. WPL
-En este despliegue no hay ningún cambio substancial. Los principales cambios han sido la refinación de nuestros casos de usos y arreglos de bugs.
+El único cambio sustancial de este despliegue es la participación de voluntarios en clases y eventos. Este cambio está explicado en su correspondiente sección. Los principales cambios han sido la refinación de nuestros casos de usos y arreglos de bugs. 
 ### 4.1 Mapeo de los usos core
 Estos son nuestros casos de uso core:
 - **Panel de administrador**
@@ -288,9 +288,8 @@ Inicia sesión con las credenciales **info.nexong@gmail.com/m4n0s4bi3rt4sc0nn0r
 
 **Panel de voluntarios**
 - Puede entrar con el usuario recién creado o puede entrar con las credenciales **mcast@gmail.com/contraseña**.
-- _Agenda_: Puede ver y apuntarse a eventos y a actividades.  
-- _Asistencia_: Puede ver sus asistencias y borrarlas. 
--  _Perfil_: puede actualizar la información. También, **puede borrar los datos de la página web (derecho al olvido) lo cual necesitamos hacer para continuar testeando, ya que no podrá crear otra cuenta con el mismo correo**.
+- _Agenda_: Puede ver, apuntarse y desapuntarse a eventos, a actividades y a clases.  
+- _Perfil_: puede actualizar la información. También, **puede borrar los datos de la página web (derecho al olvido) lo cual necesitamos hacer para continuar testeando, ya que no podrá crear otra cuenta con el mismo correo**.
 - Tras probar la funcionalidad completa, _Cierre Sesión_ y avance a la siguiente sección.
 
 **Registro de familias**
