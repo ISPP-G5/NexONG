@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td>3.0.0</td>
-    <td>03/05/2024</td>
+    <td>20/05/2024</td>
     <td>Mejora de la sección de inversores</td>
     <td>
       <ul>
